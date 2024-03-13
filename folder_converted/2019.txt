@@ -1,0 +1,1559 @@
+--------------------------The Banning of Unregulated Deposit Schemes Act, 2019--------------------------
+1 
+ THE BANNING OF UNREGULATED DEPOSIT SCHEMES ACT, 201 9  
+_______ 
+ARRANGEMENT OF SECTIONS                                                                                                      
+________ 
+CHAPTER I 
+PRELIMINARY 
+SECTIONS 
+1. Short title, extent and commencement. 
+2. Definitions. 
+CHAPTER II 
+BANNING OF UNREGULATED  DEPOSIT  SCHEMES . 
+3. Banning of Unregulated Deposit Schemes. 
+4. Fraudulent default in Regulated Deposit Schemes.  
+5. Wrongful inducement in relation to Unregulated D eposit Schemes. 
+6. Certain scheme to be Unregulated Deposit Scheme.  
+CHAPTER III 
+AUTHORITIES  
+7. Competent Authority. 
+8. Designated Court. 
+CHAPTER IV  
+INFORMATION ON DEPOSIT TAKERS 
+9. Central database. 
+10. Information of business by deposit taker. 
+11. Information to be shared. 
+CHAPTER V 
+RESTITUTION TO DEPOSITORS 
+12. Priority of depositors' claim. 
+13. Precedence of attachment. 
+14. Application for confirmation of attachment and sale of property. 
+15. Confirmation of attachment by Designated Court.  
+16. Attachment of property of mala fide transferees. 
+17. Payment in lieu of attachment. 
+18. Powers of Designated Court. 
+19. Appeal to High Court. 
+20. Power of Supreme Court to transfer cases. 
+ 
+ 2 
+ CHAPTER VI 
+OFFENCES AND PUNISHMENTS 
+ 
+21. Punishment for contravention of section 3. 
+22. Punishment for contravention of section 4. 
+23. Punishment for contravention of section 5. 
+24. Punishment for repeat offenders. 
+25. Offences by deposit takers other than individua ls. 
+26. Punishment for contravention of section 10. 
+27. Cognizance of offences. 
+CHAPTER VII 
+INVESTIGATION, SEARCH AND SEIZURE 
+28. Offences to be cognizable and non-bailable. 
+29. Competent Authority to be informed of offences.  
+30. Investigation of offences by Central Bureau of Investigation. 
+31. Power to enter, search and seize without warran t. 
+32. Application of Code of Criminal Procedure, 1973  to proceedings before Designated Court. 
+CHAPTER VIII 
+MISCELLANEOUS  
+33. Publication of advertisement of Unregulated Dep osit Scheme. 
+34. Act to have overriding effect. 
+35. Application of other laws not barred. 
+36. Protection of action taken in good faith. 
+37. Power of Central Government to make rules. 
+38. Power of State Government, etc., to make rules.  
+39. Laying of rules. 
+40. Power to amend First Schedule. 
+41. Act not to apply certain deposits. 
+42. Amendment to certain enactments. 
+43. Power to remove difficulties. 
+44. Repeal and saving. 
+ 
+ 
+ 
+ 
+ 
+  3 
+ THE BANNING OF UNREGULATED DEPOSIT SCHEMES ACT, 201 9  
+ACT NO. 21 OF  2019 
+[31st July, 2019.] 
+An Act to provide for a comprehensive mechanism to ban the unregulated deposit 
+schemes, other than deposits taken in the ordinary course of business, and to protect the 
+interest of depositors and for matters connected th erewith or incidental thereto.  
+BE it enacted by Parliament in the Seventieth Year of  the Republic of India as follows:— 
+CHAPTER I 
+PRELIMINARY  
+1. Short title, extent and commencement.— (1) This Act may be called the Banning of 
+Unregulated Deposit Schemes Act, 2019.  
+(2) It extends to the whole of India except the State  of Jammu and Kashmir.  
+(3) It shall be deemed to have come into force on the  21st day of February, 2019 
+2. Definitions— In this Act, unless the context otherwise requires, —  
+(1) “appropriate Government” means in respect of matt ers relating to,—  
+(i) the Union territory without legislature, the Cent ral Government;  
+(ii ) the Union territory of Puducherry, the Government  of that Union territory;  
+(iii ) the Union territory of Delhi, the Government of t hat Union territory; and  
+(iv ) the State, the State Government;  
+(2) “company” shall have the same meaning as assigned  to it in clause (20) of section 2 of the 
+Companies Act, 2013 (18 of 2013);  
+(3) “Competent Authority” means an Authority appointe d by the appropriate Government under 
+section 7;  
+(4) “deposit” means an amount of money received by wa y of an advance or loan or in any other 
+form, by any deposit taker with a promise to return  whether after a specified period or otherwise, 
+either in cash or in kind or in the form of a speci fied service, with or without any benefit in the fo rm 
+of interest, bonus, profit or in any other form, bu t does not include— 
+ (a) amounts received as loan from a scheduled bank or  a co-operative bank or any other 
+banking company as defined in section 5 of the Bank ing Regulation Act, 1949 (10 of 1949); 
+ (b) amounts received as loan or financial assistance from the Public Financial Institutions 
+notified by the Central Government in consultation with the Reserve Bank of India or any              
+non-banking financial company as defined in clause ( f) of section 45-I of the Reserve Bank of 
+India Act, 1934 (2 of 1934) and is registered with the Reserve Bank of India or any Regional 
+Financial Institutions or insurance companies;  4 
+ (c) amounts received from the appropriate Government,  or any amount received from any other 
+source whose repayment is guaranteed by the appropr iate Government, or any amount received 
+from a statutory authority constituted under an Act  of Parliament or a State Legislature; 
+(d) amounts received from foreign Governments, foreig n or international banks, multilateral 
+financial institutions, foreign Government owned de velopment financial institutions, foreign 
+export credit collaborators, foreign bodies corpora te, foreign citizens, foreign authorities or person  
+resident outside India subject to the provisions of  the Foreign Exchange Management Act, 1999 
+(42 of 1999) and the rules and regulations made the reunder;  
+(e) amounts received by way of contributions towards the capital by partners of any partnership 
+firm or a limited liability partnership;  
+(f) amounts received by an individual by way of loan from his relatives or amounts received by 
+any firm by way of loan from the relatives of any o f its partners; 
+(g) amounts received as credit by a buyer from a sell er on the sale of any property (whether 
+movable or immovable);  
+(h) amounts received by an asset re-construction comp any which is registered with the Reserve 
+Bank of India under section 3 of the Securitisation  and Reconstruction of Financial Assets and 
+Enforcement of Security Interest Act, 2002 (54 of 2 002); 
+(i) any deposit made under section 34 or an amount ac cepted by a political party under section 
+29B of the Representation of the People Act, 1951 ( 43 of 1951); 
+(j) any periodic payment made by the members of the s elf-help groups operating within such 
+ceilings as may be prescribed by the State Governme nt or Union territory Government;  
+(k) any other amount collected for such purpose and w ithin such ceilings as may be prescribed 
+by the State Government; 
+(l) an amount received in the course of, or for the p urpose of, business and bearing a genuine 
+connection to such business including— 
+(i) payment, advance or part payment for the supply o r hire of goods or provision of services 
+and is repayable in the event the goods or services  are not in fact sold, hired or otherwise 
+provided; 
+(ii ) advance received in connection with consideration  of an immovable property under an 
+agreement or arrangement subject to the condition t hat such advance is adjusted against such 
+immovable property as specified in terms of the agr eement or arrangement;  
+(iii ) security or dealership deposited for the performa nce of the contract for supply of goods 
+or provision of services; or 
+(iv ) an advance under the long-term projects for suppl y of capital goods except those 
+specified in item ( ii ): 
+Provided that if the amounts received under items ( i) to ( iv ) become refundable, such 
+amounts shall be deemed to be deposits on the expir y of fifteen days from the date on which 
+they become due for refund:  5 
+ Provided further that where the said amounts become  refundable, due to the deposit taker 
+not obtaining necessary permission or approval unde r the law for the time being in force, 
+wherever required, to deal in the goods or properti es or services for which money is taken, such 
+amounts shall be deemed to be deposits.  
+Explanation. —For the purposes of this clause,— 
+ (i) in respect of a company, the expression “deposit”  shall have the same meaning as 
+assigned to it under the Companies Act, 2013 (18 of  2013);  
+(ii ) in respect of a non-banking financial company reg istered under the Reserve Bank of 
+India Act, 1934 (2 of 1934), the expression “deposi t” shall have the same meaning as assigned 
+to it in clause ( bb ) of section 45-I of the said Act;  
+(iii ) the expressions “partner” and “firm” shall have t he meanings respectively assigned to 
+them under the Indian Partnership Act, 1932 (9 of 1 932);  
+(iv ) the expression “partner” in respect of a limited liability partnership shall have the same 
+meaning as assigned to it in clause ( q) of sub-section ( 1) of section 2 of the Limited Liability 
+Partnership Act, 2008 (6 of 2009);  
+(v) the expression “relative” shall have the same mea ning as assigned to it in the Companies 
+Act, 2013 (18 of 2013);  
+(5) “depositor” means any person who makes a deposit under this Act;  
+(6) “deposit taker” means— 
+(i) any individual or group of individuals;  
+(ii ) a proprietorship concern; 
+(iii ) a partnership firm (whether registered or not);  
+(iv ) a limited liability partnership registered under the Limited Liability Partnership Act, 2008 
+(6 of 2009); 
+(v) a company;  
+(vi ) an association of persons; 
+(vii ) a trust (being a private trust governed under the  provisions of the Indian Trusts Act, 1882 
+(2 of 1882) or a public trust, whether registered o r not); 
+(viii ) a co-operative society or a multi-State co-operat ive society; or  
+(ix ) any other arrangement of whatsoever nature, recei ving or soliciting deposits, but does not 
+include—  
+(i) a Corporation incorporated under an Act of Parlia ment or a State Legislature; 
+(ii ) a banking company, a corresponding new bank, the State Bank of India, a subsidiary 
+bank, a regional rural bank, a co-operative bank or  a multi-State co-operative bank as defined in 
+the Banking Regulation Act,1949 (10 of 1949); 6 
+ (7) “Designated Court” means a Designated Court const ituted by the appropriate Government 
+under section 8;  
+(8) “insurer” shall have the same meaning as assigned  to it in clause ( 9) of section 2 of the 
+Insurance Act, 1938 (4 of 1938);  
+(9) “notification” means a notification published in the Official Gazette and the expression 
+“notify” shall be construed accordingly; 
+(10 ) “person” includes—  
+(i) an individual;  
+(ii ) a Hindu Undivided Family; 
+(iii ) a company;  
+(iv ) a trust;  
+(v) a partnership firm;  
+(vi ) a limited liability partnership;  
+(vii ) an association of persons;  
+(viii ) a co-operative society registered under any law f or the time being in force relating to co-
+operative societies; or 
+(ix ) every artificial juridical person, not falling wi thin any of the preceding sub-clauses; 
+(11 ) “prescribed” means prescribed by the rules made b y the Central Government or, as the case 
+may be, the State Government under this Act; 
+(12 ) “property” means any property or assets of every description, whether corporeal or 
+incorporeal, movable or immovable, tangible or inta ngible, and includes deeds and instruments 
+evidencing title to, or interest in, such property or assets, wherever located; 
+(13 ) “public financial institution” shall have the sam e meaning as assigned to it in clause ( 72 ) of 
+section 2 of the Companies Act, 2013 (18 of 2013);  
+(14 ) “Regulated Deposit Scheme” means the Schemes spec ified under column ( 3) of the First 
+Schedule;  
+(15 ) “Regulator” means the Regulator specified in colu mn ( 2) of the First Schedule;  
+(16 ) “Schedule” means the Schedule appended to this Ac t;  
+(17 ) “Unregulated Deposit Scheme” means a Scheme or an  arrangement under which deposits are 
+accepted or solicited by any deposit taker by way o f business and which is not a Regulated Deposit 
+Scheme, as specified under column ( 3) of the First Schedule. 7 
+ CHAPTER II 
+BANNING OF UNREGULATED  DEPOSIT  SCHEMES  
+3. Banning of Unregulated Deposit Schemes.  — On and from the date of commencement of this 
+Act,—  
+(a) the Unregulated Deposit Schemes shall be banned; and  
+(b) no deposit taker shall, directly or indirectly, p romote, operate, issue any advertisement 
+soliciting participation or enrolment in or accept deposits in pursuance of an Unregulated Deposit 
+Scheme. 
+4. Fraudulent default in Regulated Deposit Schemes.  —No deposit taker, while accepting 
+deposits pursuant to a Regulated Deposit Scheme, sh all commit any fraudulent default in the 
+repayment or return of deposit on maturity or in re ndering any specified service promised against such  
+deposit.  
+5. Wrongful inducement in relation to Unregulated D eposit Schemes. —No person by whatever 
+name called shall knowingly make any statement, pro mise or forecast which is false, deceptive or 
+misleading in material facts or deliberately concea l any material facts, to induce another person to 
+invest in, or become a member or participant of any  Unregulated Deposit Scheme. 
+6. Certain scheme to be Unregulated Deposit Scheme. —A prize chit or a money circulation 
+scheme banned under the provisions of the Prize Chi ts and Money Circulation Scheme (Banning) Act, 
+1978 (43 of 1978) shall be deemed to be an Unregula ted Deposit Scheme under this Act. 
+CHAPTER III 
+AUTHORITIES  
+7. Competent Authority.  — (1) The appropriate Government shall, by notification , appoint one or 
+more officers not below the rank of Secretary to th at Government, as the Competent Authority for the 
+purposes of this Act. 
+(2) The appropriate Government may, by notification, appoint such other officer or officers as it 
+thinks fit, to assist the Competent Authority in di scharging its functions under this Act. 
+(3) Where the Competent Authority or officers appoint ed under sub-section ( 2), for the purposes of 
+this section, has reason to believe (the reason for  such belief to be recorded in writing), on the bas is of 
+such information and particulars as may be prescrib ed, that any deposit taker is soliciting deposits i n 
+contravention of section 3, he may, by an order in writing, provisionally attach the deposits held by 
+the deposit taker and the money or other property a cquired either in the name of the deposit taker or in 
+the name of any other person on behalf of the depos it taker from the date of the order, in such manner  
+as may be prescribed.  
+(4) The Competent Authority shall, for the purposes o f sub-section ( 3), have the same powers as 
+vested in a civil court under the Code of Civil Pro cedure, 1908 (5 of 1908) while conducting 
+investigation or inquiry in respect of the followin g matters, namely:— 
+(a) discovery and inspection; 8 
+ (b) enforcing the attendance of any person, including  any officer of a reporting entity and 
+examining him on oath;  
+(c) compelling the production of records;  
+(d) receiving evidence on affidavits;  
+(e) issuing commissions for examination of witnesses and documents; and  
+(f) any other matter which may be prescribed.  
+(5) The Competent Authority shall have power to summo n any person whose attendance he 
+considers necessary whether to give evidence or to produce any records during the course of any 
+investigation or proceeding under this section.  
+(6) All the persons so summoned shall be bound to att end in person or through authorised agents, 
+as such officer may direct, and shall be bound to s tate the truth upon any subject respecting which th ey 
+are examined or make statements, and produce such d ocuments as may be required.  
+(7) Every proceeding under sub-sections ( 4) and ( 5) shall be deemed to be a judicial proceeding 
+within the meaning of section 193 and section 228 o f the Indian Penal Code (45 of 1860). 
+(8) Subject to any rules made in this behalf by the C entral Government, any officer referred to in 
+sub-section ( 2) may impound and retain in his custody for such pe riod, as he thinks fit, any records 
+produced before him in any proceedings under this A ct: 
+Provided that the officer or officers referred to i n sub-section ( 2) shall not—  
+(a) impound any records without recording his reasons  for so doing; or  
+(b) retain in his custody any such records for a peri od exceeding three months, without 
+obtaining the previous approval of the Competent Au thority. 
+ 8. Designated Court.  — (1) The appropriate Government shall, with the concur rence of the Chief 
+Justice of the concerned High Court, by notificatio n, constitute one or more Courts known as the 
+Designated Courts for such area or areas or such ca se or cases as may be specified in such notificatio n, 
+which shall be presided over by a Judge not below t he rank of a District and Sessions Judge or 
+Additional District and Sessions Judge. 
+(2) No Court other than the Designated Court shall ha ve jurisdiction in respect of any matter to 
+which the provisions of this Act apply.  
+(3) When trying an offence under this Act, the Design ated Court may also try an offence, other 
+than an offence under this Act, with which the accu sed may, under the Code of Criminal Procedure, 
+1973 (2 of 1974), be charged at the same trial.  
+CHAPTER IV 
+INFORMATION ON DEPOSIT TAKERS 
+9. Central database.  — (1) The Central Government may designate an authority , whether existing 
+or to be constituted, which shall create, maintain and operate an online database for information on 
+deposit takers operating in India.  9 
+ (2) The authority designated under sub-section ( 1) may require any Regulator or the Competent 
+Authority to share such information on deposit take rs, as may be prescribed.  
+10. Information of business by deposit taker. —(1) Every deposit taker which commences or 
+carries on its business as such on or after the com mencement of this Act shall intimate the authority 
+referred to in sub-section ( 1) of section 9 about its business in such form and manner and within such 
+time, as may be prescribed. 
+(2) The Competent Authority may, if it has reason to believe that the deposits are being solicited or 
+accepted pursuant to an Unregulated Deposit Scheme,  direct any deposit taker to furnish such 
+statements, information or particulars, as it consi ders necessary, relating to or connected with the 
+deposits received by such deposit taker. 
+Explanation. —For the removal of doubts, it is hereby clarified that—  
+(a) the requirement of intimation under sub-section ( 1) is applicable to deposit takers accepting 
+or soliciting deposits as defined in clause ( 4) of section 2; and  
+(b) the requirement of intimation under sub-section ( 1) applies to a company, if the company 
+accepts the deposits under Chapter V of the Compani es Act, 2013 (18 of 2013).  
+11. Information to be shared.  — ( 1) The Competent Authority shall share all informati on 
+received under section 29 with the Central Bureau o f Investigation and with the authority which may 
+be designated by the Central Government under secti on 9.  
+(2) The appropriate Government, any Regulator, income -tax authorities or any other investigation 
+agency, having any information or documents in resp ect of the offence investigated under this Act by 
+the police or the Central Bureau of Investigation, shall share all such information or documents with 
+the police or the Central Bureau of Investigation.  
+(3) Where the principal officer of any banking compan y, a corresponding new bank, the State Bank 
+of India, a subsidiary bank, a regional rural bank,  a co-operative bank or a multi-State co-operative 
+bank has reason to believe that any client is a dep osit taker and is acting in contravention to the 
+provisions of this Act, he shall forthwith inform t he same to the Competent Authority. 
+CHAPTER V 
+RESTITUTION TO DEPOSITORS 
+12. Priority of depositors' claim.  — Save as otherwise provided in the Securitisation  and 
+Reconstruction of Financial Assets and Enforcement of Security Interest Act, 2002 (54 of 2002) or the 
+Insolvency and Bankruptcy Code, 2016 (31 of 2016), any amount due to depositors from a deposit 
+taker shall be paid in priority over all other debt s and all revenues, taxes, cesses and other rates 
+payable to the appropriate Government or the local authority.  
+13. Precedence of attachment.  — ( 1) Save as otherwise provided in the Securitisation and 
+Reconstruction of Financial Assets and Enforcement of Security Interest Act, 2002 (54 of 2002) or the 
+Insolvency and Bankruptcy Code, 2016 (31 of 2016), an order of provisional attachment passed by the 
+Competent Authority, shall have precedence and prio rity, to the extent of the claims of the depositors , 
+over any other attachment by any authority competen t to attach property for repayment of any debts, 
+revenues, taxes, cesses and other rates payable to the appropriate Government or the local authority.  10 
+ (2) Where an order of provisional attachment has been  passed by the Competent Authority— 
+(a) such attachment shall continue until an order is passed under sub-section ( 3) or sub-section 
+(5) of section 15 by the Designated Court;  
+(b) all the attached money or property of the deposit  taker and the persons mentioned therein 
+shall vest in the Competent Authority and shall rem ain so vested till further order of the Designated 
+Court.  
+(3) The Competent Authority shall open an account in a scheduled bank for the purpose of 
+crediting and dealing with the money realised under  this Act, which shall not be utilised except under  
+the instructions of the Designated Court.  
+(4) The Competent Authority shall not dispose of or a lienate the property or money attached, 
+except in accordance with the order of the Designat ed Court under sub-section ( 3) or sub-section ( 5) 
+of section 15. 
+(5) Notwithstanding anything contained in sub-section  ( 4), the Competent Authority may, if it 
+thinks it expedient, order the immediate sale of pe rishable items or assets, and the proceeds of the s ale 
+shall be utilised in the same manner as provided fo r other property. 
+14. Application for confirmation of attachment and sale of property. —(1) The Competent 
+Authority shall, within a period of thirty days, wh ich may extend up to sixty days, for reasons to be 
+recorded in writing, from the date of the order of provisional attachment, file an application with su ch 
+particulars as may be prescribed, before the Design ated Court for making the provisional attachment 
+absolute, and for permission to sell the property s o attached by public auction or, if necessary, by 
+private sale. 
+(2) In case where the money or property has been atta ched on the permission granted by a 
+Designated Court in another State or Union territor y, the application for confirmation of such 
+attachment shall be filed in that Court. 
+15. Confirmation of attachment by Designated Court.  — ( 1) Upon receipt of an application 
+under section 14, the Designated Court shall issue notice to— 
+(a) the deposit taker; and  
+(b) any person whose property is attached under secti on 14,  
+to show cause, within a period of thirty days from the date of issue of notice, as to why the order of  
+attachment should not be made absolute and the prop erties so attached be sold. 
+ (2) The Designated Court shall also issue notice to a ll other persons represented to it as having or 
+being likely to claim any interest or title in the property, to appear on the same date as persons ref erred 
+to in sub-section ( 1) to raise objections, if they so desire, to the at tachment of the property. 
+(3) The Designated Court shall, after adopting such p rocedure as may be prescribed, pass an 
+order—  
+(a) making the provisional order of attachment absolu te; or 
+(b) varying it by releasing a portion of the property  from attachment; or  11 
+ (c) cancelling the provisional order of attachment, a nd in case of an order under clause ( a) or 
+clause ( b), direct the Competent Authority to sell the prope rty so attached by public auction or, if 
+necessary, by private sale and realise the sale pro ceeds.  
+(4) The Designated Court shall not, in varying or can celling the provisional order of attachment, 
+release any property from attachment, unless it is satisfied that—  
+(a) the deposit taker or the person referred to in su b-section ( 1) has interest in such property; 
+and  
+(b) there shall remain an amount or property sufficie nt for repayment to the depositors of such 
+deposit taker.  
+(5) The Designated Court shall pass such order or iss ue such direction as may be necessary for the 
+equitable distribution among the depositors of the money attached or realised out of the sale.  
+(6) The Designated Court shall endeavour to complete the proceedings under this section within a 
+period of one hundred and eighty days from the date  of receipt of the application referred to in                
+sub-section ( 1). 
+16. Attachment of property of mala fide transferees. —(1) Where the Designated Court is 
+satisfied that there is a reasonable cause for beli eving that the deposit taker has transferred any 
+property otherwise than in good faith and not for c ommensurate consideration, it may, by notice, 
+require any transferee of such property, whether or  not he received the property directly from the sai d 
+deposit taker, to appear on a date to be specified in the notice and show cause why so much of the 
+transferee’s property as is equivalent to the prope r value of the property transferred should not be 
+attached. 
+(2) Where the said transferee does not appear and s how cause on the specified date or where the 
+Designated Court is satisfied that the transfer of the property to the said transferee was not a bona fide 
+transfer and not for commensurate consideration, it  shall order the attachment of so much of the said 
+transferee’s property as in its opinion is equivale nt to the proper value of the property transferred.  
+ 17. Payment in lieu of attachment. —(1) Any deposit taker or a person referred to in                   
+sub-section ( 1) of section 15, or transferee referred to in secti on 16 whose property is about to be 
+attached or has been provisionally attached under t his Act, may, at any time before the confirmation o f 
+attachment, apply to the Designated Court for permi ssion to deposit the fair value of the property in 
+lieu of attachment.  
+(2) While allowing the deposit taker or person or tra nsferee referred to in sub-section ( 1) to make 
+the deposit under sub-section ( 1), the Designated Court may order such deposit take r or person or 
+transferee to pay any sum towards costs as may be a pplicable. 
+18. Powers of Designated Court.  — ( 1) The Designated Court shall exercise the following  
+powers, namely:—  
+(a) power to approve the statement of dues of the dep osit taker due from various debtors;  
+(b) power to assess the value of the assets of the de posit taker and finalise the list of the 
+depositors and their respective dues; 12 
+ (c) power to direct the Competent Authority to take p ossession of any assets belonging to or in 
+the control of the deposit taker and to sell, trans fer or realise the attached assets, either by publi c 
+auction or by private sale as it deems fit dependin g upon the nature of assets and credit the sale 
+proceeds thereof to its bank account; 
+(d) power to approve the necessary expenditure to be incurred by the Competent Authority for 
+taking possession and realisation of the assets of the deposit taker; 
+(e) power to pass an order for full payment to the de positors by the Competent Authority or an 
+order for proportionate payment to the depositors i n the event, the money so realised is not 
+sufficient to meet the entire deposit liability; 
+(f) power to direct any person, who has made profit o r averted loss by indulging in any 
+transaction or activity in contravention of the pro visions of this Act, to disgorge an amount 
+equivalent to the wrongful gain made or loss averte d by such contravention; and 
+(g) power to pass any other order which the Designate d Court deems fit for realisation of assets 
+of the deposit taker and for repayment of the same to the depositors of such deposit taker or on any 
+other matter or issue incidental thereto.  
+(2) On the application of any person interested in an y property attached and vested in the 
+Competent Authority under this Act and after giving  such Competent Authority an opportunity of 
+being heard, make such order as the Designated Cour t considers just and reasonable for—  
+(a) providing from such of the property attached and vested in the Competent Authority as the 
+applicant claims an interest in, such sums as may b e reasonably necessary for the maintenance of 
+the applicant and of his family, and for expenses c onnected with the defence of the applicant where 
+criminal proceedings have been initiated against hi m in the Designated Court under this Act; or 
+(b) safeguarding, so far as may be practicable, the i nterest of any business affected by the 
+attachment. 
+Explanation .—For the purposes of this section, the expression “deposit taker” includes the 
+directors, promoters, managers or members of said e stablishment or any other person whose 
+property or assets have been attached under this Ac t.  
+19. Appeal to High Court.  — Any person including the Competent Authority, if  aggrieved by any 
+final order of the Designated Court under this Chap ter, may appeal to the High Court, within a period 
+of sixty days from the date of such order: 
+Provided that the High Court may entertain the appe al after the expiry of the said period of sixty 
+days, if it is satisfied that the appellant was pre vented by sufficient cause from preferring the appe al in 
+time.  
+Explanation. —The expression “High Court” means the High Court o f a State or Union territory 
+where the Designated Court is situated. 
+20. Power of Supreme Court to transfer cases.  — ( 1) Whenever it is made to appear to the 
+Supreme Court that there is a default in any deposi t scheme or deposit schemes of the nature referred 
+to in section 30, the Supreme Court may, by an orde r, direct that any particular case be transferred 
+from one Designated Court to another Designated Cou rt. 13 
+ (2) The Supreme Court may act under this section only  on an application filed by the Competent 
+Authority or any interested party, and every such a pplication shall be supported by an affidavit. 
+(3) Where an application for the exercise of the powe rs conferred by this section is dismissed, the 
+Supreme Court may, if it is of opinion that the app lication was frivolous or vexatious, order the 
+applicant to pay by way of compensation to any pers on who has opposed the application such sum not 
+exceeding fifty thousand rupees as it may consider appropriate in the circumstances of the case.  
+CHAPTER VI 
+OFFENCES AND PUNISHMENTS 
+21. Punishment for contravention of section 3.  — ( 1) Any deposit taker who solicits deposits in 
+contravention of section 3 shall be punishable with  imprisonment for a term which shall not be less 
+than one year but which may extend to five years an d with fine which shall not be less than two lakh 
+rupees but which may extend to ten lakh rupees. 
+(2) Any deposit taker who accepts deposits in contrav ention of section 3 shall be punishable with 
+imprisonment for a term which shall not be less tha n two years but which may extend to seven years 
+and with fine which shall not be less than three la kh rupees but which may extend to ten lakh rupees. 
+(3) Any deposit taker who accepts deposits in contrav ention of section 3 and fraudulently defaults 
+in repayment of such deposits or in rendering any s pecified service, shall be punishable with 
+imprisonment for a term which shall not be less tha n three years but which may extend to ten years 
+and with fine which shall not be less than five lak h rupees but which may extend to twice the amount 
+of aggregate funds collected from the subscribers, members or participants in the Unregulated Deposit 
+Scheme. 
+Explanation. —For the purposes of this Act,— 
+(i) the expression “fraudulently” shall have the same  meaning as assigned to it in section 25 of 
+the Indian Penal Code (45 of 1860); 
+(ii ) where the terms of the Deposit Scheme are entirel y impracticable or unviable, the terms 
+shall be relevant facts showing an intention to def raud. 
+22. Punishment for contravention of section 4.  — Any deposit taker who contravenes the 
+provisions of section 4 shall be punishable with im prisonment for a term which may extend to seven 
+years, or with fine which shall not be less than fi ve lakh rupees but which may extend to twenty-five 
+crore rupees or three times the amount of profits m ade out of the fraudulent default referred to in sa id 
+section, whichever is higher, or with both.  
+23. Punishment for contravention of section 5.  —Any person who contravenes the provisions of 
+section 5 shall be punishable with imprisonment for  a term which shall not be less than one year but 
+which may extend to five years and with fine which may extend to ten lakh rupees.  
+24. Punishment for repeat offenders.  —Whoever having been previously convicted of an of fence 
+punishable under this Chapter, except the offence u nder section 26, is subsequently convicted of an 
+offence shall be punishable with imprisonment for a  term which shall not be less than five years but 
+which may extend to ten years and with fine which s hall not be less than ten lakh rupees but which 
+may extend to fifty crore rupees.  14 
+ 25. Offences by deposit takers other than individua ls.  — ( 1) Where an offence under this Act 
+has been committed by a deposit taker other than an  individual, every person who, at the time the 
+offence was committed, was in charge of, and was re sponsible to, the deposit taker for the conduct of 
+its business, as well as the deposit taker, shall b e deemed to be guilty of the offence and shall be l iable 
+to be proceeded against and punished accordingly.  
+(2) Nothing contained in sub-section ( 1) shall render any such person liable to any punish ment 
+provided in this Act, if he proves that the offence  was committed without his knowledge or that he 
+exercised all due diligence to prevent the commissi on of such offence.  
+(3) Notwithstanding anything contained in sub-section  ( 1), where an offence under this Act has 
+been committed by a deposit taker other than an ind ividual, and it is proved that the offence—  
+(a) has been committed with the consent or connivance  of; or 
+(b) is attributable to any neglect on the part of any  director, manager, secretary, promoter, 
+partner, employee or other officer of the deposit t aker,  
+such person shall also be deemed to be guilty of th at offence and shall be liable to be proceeded 
+against and punished accordingly.  
+26. Punishment for contravention of section 10.  — Whoever fails to give the intimation required 
+under sub-section ( 1) of section 10 or fails to furnish any such statem ents, information or particulars 
+as required under sub-section ( 2) of that section, shall be punishable with fine wh ich may extend to 
+five lakh rupees.  
+27. Cognizance of offences. — Notwithstanding anything contained in section 4, no Designated 
+Court shall take cognizance of an offence punishabl e under that section except upon a complaint made 
+by the Regulator:  
+Provided that the provisions of section 4 and this section shall not apply in relation to a deposit 
+taker which is a company. 
+CHAPTER VII 
+INVESTIGATION, SEARCH AND SEIZURE 
+28. Offences to be cognizable and non-bailable.  —Notwithstanding anything contained in the 
+Code of Criminal Procedure, 1973 (2 of 1974) every offence punishable under this Act, except the 
+offence under section 22 and section 26, shall be c ognizable and non-bailable. 
+29. Competent Authority to be informed of offences.  —The police officer shall, on recording 
+information about the commission of an offence unde r this Act, inform the same to the Competent 
+Authority. 
+30. Investigation of offences by Central Bureau of Investigation.  — ( 1) On receipt of 
+information under section 29 or otherwise, if the C ompetent Authority has reason to believe that the 
+offence relates to a deposit scheme or deposit sche mes in which— 
+(a) the depositors, deposit takers or properties invo lved are located in more than one State or 
+Union territory in India or outside India; and 15 
+ (b) the total value of the amount involved is of such  magnitude as to significantly affect the 
+public interest, 
+the Competent Authority shall refer the matter to t he Central Government for investigation by the 
+Central Bureau of Investigation. 
+(2) The reference made by the Competent Authority und er sub-section ( 1) shall be deemed to be 
+with the consent of the State Government under sect ion 6 of the Delhi Special Police Establishment 
+Act, 1946 (25 of 1946). 
+(3) On the receipt of the reference under sub-section  ( 1), the Central Government may transfer the 
+investigation of the offence to the Central Bureau of Investigation under section 5 of the Delhi Speci al 
+Police Establishment Act, 1946 (25 of 1946). 
+31. Power to enter, search and seize without warran t.  — ( 1) Whenever any police officer, not 
+below the rank of an officer in-charge of a police station, has reason to believe that anything necess ary 
+for the purpose of an investigation into any offenc e under this Act may be found in any place within 
+the limits of the police station of which he is in- charge, or to which he is attached, such officer ma y, 
+with the written authorisation of an officer not be low the rank of Superintendent of Police, and after  
+recording in writing so far as possible, the thing for which the search is to be made and subject to t he 
+rules made in this behalf, authorise any officer su bordinate to him,— 
+(a) to enter and search any building, conveyance or p lace, between sunrise and sunset, which he 
+has reason to suspect is being used for purposes co nnected with the promotion or conduct of any 
+deposit taking scheme or arrangement in contraventi on of the provisions of this Act; 
+(b) in case of resistance, to break open any door and  remove any obstacle to such entry, if 
+necessary by force, with such assistance as he cons iders necessary, for exercising the powers 
+conferred by clause ( a);  
+(c) to seize any record or property found as a result  of the search in the said building, 
+conveyance or place, which are intended to be used,  or reasonably suspected to have been used, in 
+connection with any such deposit taking scheme or a rrangement in contravention of the provisions 
+of this Act; and  
+(d) to detain and search, and if he thinks proper, ta ke into custody and produce before any 
+Designated Court any such person whom he has reason  to believe to have committed any offence 
+punishable under this Act:  
+Provided that if such officer has reason to believe  that the said written authorisation cannot be 
+obtained without affording opportunity for the conc ealment of evidence or facility for the escape of 
+an offender, he may, without the said written autho risation, enter and search such building, 
+conveyance or place, at any time between sunset and  sunrise after recording the grounds in writing. 
+(2) Where it is not practicable to seize the record o r property, the officer authorised under sub-
+section ( 1), may make an order in writing to freeze such prop erty, account, deposits or valuable 
+securities maintained by any deposit taker about wh ich a complaint has been made or credible 
+information has been received or a reasonable suspi cion exists of their having been connected with the  
+promotion or conduct of any deposit taking scheme o r arrangement in contravention of the provisions 
+of this Act and it shall be binding on the concerne d bank or financial or market establishment to 
+comply with the said order: 16 
+ Provided that no bank or financial or market establ ishment shall freeze such account, deposit or 
+valuable securities, for a period beyond thirty day s unless the same is authorised by the order of the  
+Designated Court: 
+Provided further that, if at any time, it becomes p racticable to seize the frozen property, the office r 
+authorised under sub-section ( 1) may seize such property.  
+Explanation .—For the purposes of this section, the expressions ,— 
+(i) “freezing of account” shall mean that no transact ion, whether deposit or withdrawal shall be 
+allowed in the said account; and  
+(ii ) “freezing of property” shall mean that no transfe r, conversion, disposition or movement of 
+property shall be allowed.  
+(3) Where an officer takes down any information in wr iting or records grounds for his belief or 
+makes an order in writing under sub-section ( 1) or sub-section ( 2), he shall, within a time of seventy-
+two hours send a copy thereof to the Designated Cou rt in a sealed envelope and the owner or occupier 
+of the building, conveyance or place shall, on appl ication, be furnished, free of cost, with a copy of  the 
+same by the Designated Court.  
+(4) All searches, seizures and arrests under this sec tion shall be made in accordance with the 
+provisions of the Code of Criminal Procedure, 1973 (2 of 1974). 
+32. Application of Code of Criminal Procedure, 1973  to proceedings before Designated 
+Court. — (1) The Designated Court may take cognizance of offen ces under this Act without the 
+accused being committed to it for trial. 
+(2) Save as otherwise provided in section 31, the pro visions of the Code of Criminal Procedure, 
+1973 (2 of 1974) shall apply—  
+(a) to all arrests, searches and seizures made under this Act; 
+(b) to the proceedings under this Act and for the pur poses of the said provisions, the Designated 
+Court shall be deemed to be a Court of Session and the persons conducting the prosecution before 
+the Designated Court, shall be deemed to be Public Prosecutors. 
+CHAPTER VIII 
+MISCELLANEOUS  
+33. Publication of advertisement of Unregulated Dep osit Scheme.  — Where any newspaper or 
+other publication of any nature, contains any state ment, information or advertisement promoting, 
+soliciting deposits for, or inducing any person to become a member of any Unregulated Deposit 
+Scheme, the appropriate Government may direct such newspaper or publication to publish a full and 
+fair retraction, free of cost, in the same manner a nd in the same position in such newspaper or 
+publication as may be prescribed. 
+34. Act to have overriding effect. — Save as otherwise expressly provided in this Act,  the 
+provisions of this Act shall have effect notwithsta nding anything contained in any other law for the 
+time being in force, including any law made by any State or Union territory. 17 
+ 35. Application of other laws not barred.  — The provisions of this Act shall be in addition to, 
+and not in derogation of, the provisions of any oth er law for the time being in force. 
+36. Protection of action taken in good faith.  —No suit, prosecution or other legal proceedings 
+shall lie against the appropriate Government or the  Competent Authority or any officer of the 
+appropriate Government for anything which is in goo d faith done or intended to be done under this 
+Act or the rules made thereunder. 
+37. Power of Central Government to make rules.  — ( 1) The Central Government may, by 
+notification, make rules for carrying out the provi sions of this Act. 
+(2) In particular and without prejudice to the genera lity of the foregoing power, such rules may 
+provide for all or any of the following matters, na mely:— 
+(a) the information and other particulars to be taken  into consideration before issuing an order, 
+and the manner of attachment, under sub-section ( 3) of section 7;  
+(b) the information to be shared under sub-section ( 2) of section 9;  
+(c) the form and manner in which and the time within which the intimation shall be given under 
+sub-section ( 1) of section 10;  
+(d) the particulars contained in the application to b e filed by the Competent Authority before the 
+Designated Court under sub-section ( 1) of section 14;  
+(e) the procedure to be adopted by the Designated Cou rt before issuing an order under               
+sub-section ( 3) of section 15;  
+(f) rules under sub-section ( 1) of section 31; 
+(g) the manner of publication of advertisement under section 33; and  
+(h) any other matter which is required to be, or may be, prescribed. 
+38. Power of State Government, etc., to make rules.  — ( 1) The State Government or Union 
+territory Government, as the case may be, in consul tation with the Central Government, by 
+notification, make rules for carrying out the provi sions of this Act. 
+(2) In particular and without prejudice to the genera lity of the foregoing power, such rules may 
+provide for all or any of the following matters, na mely:— 
+(a) ceiling for self-help groups under clause (j) of sub-section (4) of section 2; 
+(b) purpose and ceiling under clause (k) of sub-secti on (4) of section 2;  
+(c) the manner of provisional attachment of property by the Competent Authority under sub-
+section ( 3) of section 7;  
+(d) other matters under clause  
+(f) of sub-section ( 4) of section 7;  
+(e) the rules relating to impounding and custody of r ecords under sub-section ( 8) of section 7; 
+and 18 
+ (f) any other matter which is required to be, or may be, prescribed. 
+39. Laying of rules.  — ( 1) Every rule made by the Central Government under t his Act shall be 
+laid, as soon as may be after it is made, before ea ch House of Parliament, while it is in session, for  a 
+total period of thirty days which may be comprised in one session, or in two or more successive 
+sessions, and if, before the expiry of the session immediately following the session or the successive  
+sessions aforesaid, both Houses agree in making any  modification in the rule, or both Houses agree 
+that the rule should not be made, the rule shall th ereafter have effect only in such modified form or be 
+of no effect, as the case may be; so, however, that  any such modification or annulment shall be 
+without prejudice to the validity of anything previ ously done under that rule. 
+(2) Every rule made by a State Government or the Unio n territory Government, as the case may be, 
+shall be laid, as soon as may be after it is made, before each House of the State Legislature or the 
+Union territory Legislature, as the case may be, wh ere it consists of two Houses, or where such 
+Legislature consists of one House, before that Hous e. 
+40. Power to amend First Schedule.  — ( 1) The Central Government may, having regard to the 
+objects of this Act, and if it considers necessary or expedient so to do, by notification, add to, or as the 
+case may be, omit from the First Schedule, any sche me or arrangement, and on such addition, or 
+omission, such scheme or arrangement shall become, or cease to be, a Regulated Deposit Scheme, as 
+the case may be. 
+(2) A copy of every notification issued under this se ction shall, as soon as may be after it has been 
+issued, be laid before each House of Parliament. 
+41. Act not to apply certain deposits.  —The provisions of this Act shall not apply to dep osits 
+taken in the ordinary course of business. 
+42. Amendment to certain enactments.  —The enactments specified in the Second Schedule s hall 
+be amended in the manner specified therein. 
+43. Power to remove difficulties.  — ( 1) If any difficulty arises in giving effect to the provisions 
+of this Act, the Central Government may, by order p ublished in the Official Gazette, make such 
+provisions, not inconsistent with the provisions of  this Act, as may appear to it to be necessary for 
+removing the difficulty:  
+Provided that no such order shall be made under thi s section after the expiry of three years from the 
+commencement of this Act.  
+(2) Every order made under this section shall be laid , as soon as may be after it is made, before 
+each House of Parliament. 
+44. Repeal and saving.  — ( 1) The Banning of Unregulated Deposit Schemes Ordina nce, 2019, is 
+hereby repealed. 
+(2) Notwithstanding such repeal, anything done or any  action taken under the said Ordinance, shall 
+be deemed to have been done or taken under this Act .  
+ 
+ 
+ 19 
+ THE FIRST SCHEDULE 
+[See section  2 ( 15 )] 
+REGULATED  DEPOSIT  SCHEMES  
+(1) The Regulator and Regulated Deposit Scheme refers  to the regulators and schemes and 
+arrangements listed in the following Table, namely: — 
+TABLE 
+Sl. No. Regulator Regulated Deposit Scheme 
+(1) (2) (3) 
+1. The Securities and Exchange 
+Board of India (i) Any scheme or an arrangement 
+[as defined under section 11AA of 
+the Securities and Exchange Board 
+of India Act, 1992 (15 of 1992)] 
+launched, sponsored or carried out 
+by a Collective Investment 
+Management Company registered 
+with the Securities and Exchange 
+Board of India under the Securities 
+and Exchange Board of India 
+(Collective Investment Scheme) 
+Regulations, 1999. 
+  (ii ) Any scheme or an arrangement 
+registered with the Securities and 
+Exchange Board of India under the 
+Securities and Exchange Board of 
+India (Alternative Investment 
+Funds) Regulations, 2012. 
+  (iii ) Any scheme or an 
+arrangement, pursuant to which 
+funds are managed by a portfolio 
+manager, registered under the 
+Securities and Exchange Board of 
+India (Portfolio Managers) 
+Regulations, 1993. 
+  (iv ) Any scheme or an arrangement 
+regulated under the Securities and 
+Exchange Board of India (Share 
+Based Employee Benefits) 
+Regulations, 2014 or providing for 
+employee benefits as permitted 
+under the Companies Act, 2013 (18 
+of 2013). 
+  (v) Any other scheme or an 
+arrangement registered under the 
+Securities and Exchange Board of 
+India Act, 1992 (15 of 1992), or the 
+regulations made thereunder. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 20 
+ (1) (2) (3)  
+  ( vi ) Any amount received as 
+contributions in the nature of 
+subscriptions to a mutual fund 
+registered with Securities and 
+Exchange Board of India under the 
+Securities and Exchange Board of 
+India (Mutual Funds) Regulations, 
+1996. 
+2. The Reserve Bank of India ( i) Any scheme under which 
+deposits are accepted by 
+Non-Banking Financial Companies 
+as defined in clause (f) of section 
+45-I of the Reserve Bank of India 
+Act, 1934 (2 of 1934) and 
+registered with the Reserve Bank 
+of India; or any other scheme or an 
+arrangement registered under the 
+Reserve Bank of India Act, 1934. 
+  ( ii ) Any scheme or an arrangement 
+under which funds are accepted by 
+individuals or entities engaged as 
+Business Correspondents and 
+Facilitators by banks subject to the 
+guidelines and circulars issued by 
+the Reserve Bank of India from 
+time to time. 
+  (iii) Any scheme or an arrangement 
+under which funds are received by 
+a system provider operating as an 
+authorised payment system under 
+the Payment and Settlement 
+Systems Act, 2007 (51 of 2007). 
+  (iv) Any other scheme or an 
+arrangement regulated under the 
+Reserve Bank of India Act, 1934 (2 
+of 1934), or the guidelines or 
+circulars of the Reserve Bank of 
+India 
+3. 
+ The Insurance 
+Regulatory and 
+Development 
+Authority of India A contract of insurance pursuant to 
+a certificate of 
+registration obtained in accordance 
+with the Insurance 
+Act, 1938 (4 of 1938). 
+4. The State Government 
+or Union territory 
+Government (i) Any scheme or an arrangement 
+made or offered by a co-operative 
+society registered under the Co-
+operative Societies Act, 1912 (2 of 
+1912) or a society being a society 
+registered or deemed to be 
+registered under any law relating to 
+co-operative societies for the time 
+being in force in any State or 
+Union territory 
+ 
+ 
+ 
+ 
+ 
+ 21 
+ (1) (2) (3)  
+  (ii ) Any scheme or an arrangement 
+commenced or conducted as a chit 
+business with the previous sanction 
+of the State Government in 
+accordance with the provisions of 
+the Chit Funds Act, 1982 (40 of 
+1982). 
+  (iii ) Any scheme or an arrangement 
+regulated by any enactment 
+relating to money lending which is 
+for the time being in force in any 
+State or Union territory. 
+ 
+ 
+  (iv ) Any scheme or an arrangement 
+by a prize chit or money circulation 
+scheme under section 11 of the 
+Prize Chits and Money Circulation 
+Schemes (Banning) Act, 1978 (43 
+of 1978). 
+5. The National 
+Housing Bank Any scheme or an arrangement for 
+acceptance of deposits registered 
+under the National Housing Bank 
+Act, 1987 (53 of 1987). 
+6. The Pension Fund Regulatory and 
+Development Authority Any scheme or an arrangement 
+under the Pension Fund Regulatory 
+and Development Authority Act, 
+2013 (23 of 2013). 
+ 
+ 
+7. The Employees' Provident Fund 
+Organisation  Any scheme, Pension Scheme or 
+Insurance Scheme framed under 
+the Employees' Provident Fund and 
+Miscellaneous Provisions Act, 
+1952 ( 19 of 1952). 
+8. The Central Registrar, Multi-State 
+Co- operative Societies Any scheme or an arrangement for 
+acceptance of deposits from voting 
+members by a Multi-State Co-
+operative Society registered under 
+the Multi-State Co-operative 
+Societies Act, 2002 (39 of 2002). 
+9. The Ministry of Corporate Affairs, 
+Government of India (i) Deposits accepted or permitted 
+under the provisions of Chapter V 
+of the Companies Act, 2013 (18 of 
+2013). 
+  (ii) Any scheme or an arrangement 
+under which deposits are accepted 
+by a company declared as a Nidhi 
+or a Mutual Benefit Society under 
+section 406 of the Companies Act, 
+2013 (18 of 2013). 
+ 
+(2) The following shall also be treated as Regulated Deposit Schemes under this Act, namely:—  
+(a) deposits accepted under any scheme or an arrangem ent registered with any regulatory body in 
+India constituted or established under a statute; a nd  
+(b) any other scheme as may be notified by the Centra l Government under this Act. 
+ 22 
+ THE SECOND SCHEDULE 
+(See  section 42) 
+AMENDMENTS TO CERTAIN ENACTMENTS 
+PART I 
+AMENDMENT TO THE RESERVE  BANK OF INDIA  
+ACT, 1934 
+Amendment of section 45-I of Act 2 of 1934 .In the Reserve Bank of India Act, 1934, in                
+section 45-I, in clause ( bb ), after Explanation  II, the following Explanation  shall be inserted, 
+namely:— 
+“Explanation  III.—The amounts accepted by a co-operative societ y from the members or 
+shareholders, by whatever name called, but excludin g the amounts received as share capital, shall be 
+deemed to be deposits for the purposes of this clau se, if such members or shareholders are nominal or 
+associate members, by whatever name called, who do not have full voting rights in the meetings of 
+such co-operative society.”. 
+PART II 
+AMENDMENTS TO THE SECURITIES AND EXCHANGE  BOARD OF INDIA ACT , 1992 
+In the Securities and Exchange Board of India Act, 1992,— 
+Amendment of section 11 of Act 15 of 1992.  — ( i) in section 11, in sub-section ( 4), for                       
+clause ( e), the following clause shall be substituted, namel y:— 
+“(e) attach, for a period not exceeding ninety days, b ank accounts or other property of any 
+intermediary or any person associated with the secu rities market in any manner involved in violation 
+of any of the provisions of this Act, or the rules or the regulations made thereunder: 
+Provided that the Board shall, within ninety days o f the said attachment, obtain confirmation of the 
+said attachment from the Special Court, established  under section 26A, having jurisdiction and on 
+such confirmation, such attachment shall continue d uring the pendency of the aforesaid proceedings 
+and on conclusion of the said proceedings, the prov isions of section 28A shall apply: 
+Provided further that only property, bank account o r accounts or any transaction entered therein, so 
+far as it relates to the proceeds actually involved  in violation of any of the provisions of this Act,  or 
+the rules or the regulations made thereunder shall be allowed to be attached.”; 
+(ii ) in section 28A, after Explanation  3, the following Explanation  shall be inserted, namely:— 
+“Explanation  4.—The interest referred to in section 220 of the Income-tax Act, 1961 shall 
+commence from the date the amount became payable by  the person.”. 
+ 
+ 
+ 23 
+ PART III 
+AMENDMENT TO THE MULTI -STATE  CO-OPERATIVE  SOCIETIES  ACT , 2002 
+Amendment of section 67 of Act 39 of 2002. —In the Multi-State Co-operative Societies Act, 
+2002, in section 67, in sub-section (1),— 
+(a) after the words “receive deposits”, the words “fr om its voting members” shall be inserted; 
+(b) the following Explanation shall be inserted, name ly:— 
+“Explanation .—For the removal of doubts, it is hereby clarified  that a multi-State co-operative 
+society shall not be entitled to receive deposits f rom persons other than voting members.”. 
+_______ 
+--------------------------The Central Educational Institutions (Reservations in Teachers Cadre) Act, 2019--------------------------
+1 
+ THE CENTRAL EDUCATIONAL INSTITUTIONS  (RESERVATION IN TEACHERS ’ 
+CADRE) ACT, 2019  
+___________  
+ARRANGEMENT OF SECTIONS  
+____________  
+SECTIONS  
+1. Short title and commencement . 
+2. Definitions . 
+3. Reservation of posts in recruitments by Cen tral Educational Institutions . 
+4. Act not to apply in certain cases.  
+5. Laying of notifications before Parliament.  
+6. Repeal and savings.  
+ 
+  2 
+ THE CENTRAL EDUCATIONAL INSTITUTIONS  (RESERVATION IN TEACHERS ’ 
+CADRE) ACT, 2019  
+ACT NO. 10 OF 2019  
+[9th July, 2019.]  
+An Act to provide  for the reservation  of posts  in appointments  by direct  recruitment of persons  belonging  
+to the Scheduled  Castes,  the Scheduled  Tribes,  the socially  and educationally  backward  classes  
+and the economically  weaker sections, to teachers ’ cadre in certain Centr al Educational 
+Institutions established,  maintained  or aided  by the Central  Government,  and for matters connected  
+therewith  or incidental  thereto . 
+BE it enacted  by Parliament  in the Seventieth  Year of the Republic  of India  as follows:— 
+1. Short title and commencement .—(1) This Act may be called the Central Educational Institutions 
+(Reservation in Teachers’ Cadre)  Act, 2019.  
+(2) It shall be deemed to have come into force on the 7th day of March, 2019.  
+2. Definitions .—In this Act, unless the context otherwise  requires,— 
+(a) “appropriate  authority”  means  the University  Grants  Commission  established under the 
+University Grants Commission Act, 1956  (3 of 1956) , or any other authority or body established  by or 
+under  a Central  Act for the determination,  coordination  or maintenance of the standards of high er 
+education in any Central Educational Institution;  
+(b) “branch  of study” means  a branch  of study  leading  to three  principal  levels of qualifications at 
+bachelors (under graduate), masters (post graduate) and doctoral levels;  
+(c) “Central Educational Institution ” means— 
+(i) a University  established  or incorporated  by or under  a Central  Act; 
+(ii) an institution of national importance established by an Act of Parliament;  
+(iii) an institution, declared as an institution deemed to be University under  section  3 of the 
+University  Grants  Commission  Act, 1956  (3 of 1956) ,, and maintained by  or receiving  aid from  the 
+Central  Government;  
+(iv) an institution maintained by or receiving aid from the Central Government,  whether  
+directly  or indirectly,  and affiliated  to an institution  referred to in sub -clause ( i) or sub -clause ( ii), or 
+a constituent unit of an institution referred to in sub -clause ( iii); and 
+(v) an educational  institution  established  by the Central  Government  under the  Societies  
+Registration  Act, 1860  (21 of 1860) ; 
+(d) “direct recruitment ” means the process of appointing faculty by inviting applications against 
+public advertisement from persons eligible to teach in a  Central Educational  Institution;  
+(e) “economically  weaker  sections” means  such weaker  sections  as are referred to in Explanation 
+to clause (6) of article 15 of the  Constitution;  
+(f) “faculty” means  the faculty  of a Central  Educational  Institution;  
+(g) “Minority Educational Institution ” means an institution establi shed and administered  by the 
+minorities  under  clause  (1) of article  30 of the Constitution  and so declared  by an Act of Parliament  or by 
+the Central  Government  or declared  as a Minority Educational Institution under the National 
+Commission for Minority Educational Institutions Act,  2004  (2 of 2005) ; 
+(h) “sanctioned  strength” means  the number  of posts  in teachers’ cadre  approved by the appropriate  3 
+ authority;  
+(i) “Scheduled  Castes” means  the Scheduled  Castes  notified  under  article  341 of the  Constitution;  
+(j) “Scheduled  Tribes” means  the Scheduled  Tribes  notified  under  article  342 of the  Constitution;  
+(k) “socially  and educationally  backward  classes” means  such backward  classes as  are so deemed  
+under  article  342A  of the Constitution;  
+(l) “teachers’ cadre” means a class of all the teacher s of a Central Educational Institution, 
+regardless of the branch of study or faculty, who are remunerated at the same  grade  of pay, excluding  
+any allowance  or bonus.  
+3. Reservation of posts in recruitments by Cen tral Educational Institutions. —(1) 
+Notwithstanding  anything  in any other  law for the time being  in force,  there  shall be  reservation  of posts  
+in direct  recruitment  out of the sanctioned  strength  in teachers'  cadre in  a Central  Educational  Institution  
+to the extent  and in the manner  as may be specified  by the  Central  Government  by notification  in the 
+Official  Gazette.  
+(2) For the purpose  of reservati on of posts,  a Central  Educational  Institution  shall  be regarded as one  
+unit. 
+4. Act not to apply in certain cases. —The provisions of section 3 shall not apply  to— 
+(a) the institutions of excellence, research institutions, institutions of national and strategic 
+importance specified in the Schedule to this  Act; 
+(b) a Minority Educational  Institution.  
+(2) The Central Government may, by notification in the Official Gazette, amend the Schedule referred 
+to in clause ( a) of sub -section ( 1) from time to time.  
+5. Laying of notifications before Parliament. —Every  notification  made  by the Central  Government  
+under  this Act shall  be laid, as soon  as may be after it is made,  before  each House  of Parliament  while  it is 
+in session,  for a total period  of thirty  days which  may be comprised  in one session  or in two or more  successive 
+sessions, and if, before the expiry of the session immediately following the session or the successive 
+sessions aforesaid, both Houses agree in making any modification in the notification  or both Houses  agree  
+that the notification  should  not be made,  the notification shall  thereafter  have  effect  only in such modified  
+form  or be of no effect,  as the case may be; so, however, that any such modification or annulment shall be 
+without prejudice to the v alidity of anything previously done under that notification.  
+6. Repeal and savings. —(1) The Central Educational Institutions (Reservation in Teachers' 
+Cadre) Ordinance,  2019  (Ord. 13 of 2019) is hereby  repealed.  
+(2) Notwithstanding such repeal, anything done or any action taken under the said Ordinance shall be 
+deemed to have been done or taken under this  Act. 
+ 
+--------------------------The Muslim Women (Protection of Rights on Marriage) Act, 2019--------------------------
+1 
+ THE  MUSLIM  WOMEN  (PROTECTION  OF RIGHTS  ON MARRIAGE) ACT,  2019  
+__________  
+ARRANGEMENT OF SECTIONS  
+_____________  
+CHAPTER I  
+PRELIMINARY  
+SECTIONS  
+1. Short title, extent and commencement . 
+2. Definitions . 
+CHAPTER II  
+DECLARATION OF TALAQ  TO BE VOID AND ILLEGAL  
+3. Talaq to be void and illegal . 
+4. Punishment for pronouncing talaq . 
+CHAPTER III  
+PROTECTION OF RIGHTS OF MARRIED MUSLIM WOMEN  
+5. Subsistence allowance.  
+6. Custody of minor children . 
+7. Offence to be cognizable, compoundable, etc . 
+8. Repeal and savings.  
+  2 
+ THE  MUSLIM  WOMEN  (PROTECTION  OF RIGHTS  ON MARRIAGE) ACT,  2019  
+ACT NO. 20 OF 2019  
+[31st July , 2019.]  
+An Act to protect  the rights  of married  Muslim  women  and to prohibit  divorce  by pronouncing  talaq by 
+their husbands  and to provide  for matters  connected therewith or incidental thereto.  
+BE it enacted  by Parliament  in the Seventieth  Year of the Republic  of India  as follows :— 
+CHAPTER I  
+PRELIMINARY  
+1. Short title, extent and commencement. —(1) This Act may be called the Muslim Women 
+(Protection of Rights on Marriage) Act, 2019.  
+(2) It shall extend to the whole of India except the State of Jammu and Kashmir.  
+(3) It shall be deemed to have come into force on the 19th day of September, 2018.  
+2. Definitions .—In this Act, unless t he context otherwise requires, — 
+(a) “electronic  form” shall have the same meaning as assigned to it in clause (r) of sub -section ( 1) 
+of section 2  of the Information Technology Act, 2000 (21 of 2000);  
+(b) “Magistrate ” means a Judicial Magistrate of the first class exercising jurisdiction under the 
+Code of Criminal Procedure, 1973 (2 of 1974), in the area where the married Muslim woman resides; 
+and 
+(c) “talaq” means talaq -e-biddat  or any other similar form of talaq  having the effect of 
+instantaneous and irrevocable divorce pronounced by a Muslim husband.  
+CHAPTER II  
+DECLARATI ON OF TALAQ  TO BE VOID AND ILLEGAL  
+3. Talaq to be void and illegal .—Any pronouncement of talaq  by a Muslim husband upon his wife, by words, 
+either spoken or written or in electronic form or in any other manner whatsoever, shall be void and illegal.  
+4. Punishment for pronouncing talaq .—Any Muslim husband who pronounces talaq  referred to in 
+section 3  upon his wife shall be punished with imprisonment for a term which may extend to three years, 
+and shall also be liable to fine.  
+CHAPTER III  
+PROTECTION OF RIGHTS OF MARRIED MUSLIM WOMEN  
+5. Subsistence allowance .—Without prejudice to the generality of the p rovisions contained in any 
+other law for the time being in force, a married Muslim woman upon whom talaq  is pronounced shall be 
+entitled to receive from her husband such amount of subsistence allowance, for her and dependent 
+children, as may be determined by the Magistrate.  
+6. Custody of minor children .—Notwithstanding anything contained in any other law for the time 
+being in force, a married Muslim woman shall be entitled to custody of her minor children in the event of 
+pronouncement of talaq  by her husban d, in such manner as may be determined by the Magistrate.  
+7. Offence to be cognizable, compoundable, etc .—Notwithstanding anything contained in the Code 
+of Criminal Procedure, 1973 ( 2 of 1974), — 
+(a) an offence punishable under this Act shall be cognizable, if information relating to the 
+commission of the offence is given to an officer in charge of a police station by the married Muslim 
+woman upon whom talaq  is pronounced or any person related to her  by blood or marriage;  
+(b) an offence punishable under this Act shall be compoundable, at the instance of the married 
+Muslim woman upon whom  talaq  is pronounced with the permission of the Magistrate, on such terms 3 
+ and conditions as he may determine;  
+(c) no person accused of an offence punishable under this Act shall be released on bail unless the 
+Magistrate, on an application filed by the accused and after hearing the married Muslim woman upon 
+whom talaq  is pronounced, is satisfied that there are reasonable  grounds for granting bail to such 
+person.  
+8. Repeal and savings .—(1) The Muslim Women (Protection of Rights on Marriage) Second 
+Ordinance, 2019 (Ord. 4 of 2019) is hereby repealed.  
+(2) Notwithstanding such repeal, anything done or any action taken under the Muslim Women 
+(Protection of Rights on Marriage) Second Ordinance, 2019 (Ord. 4 of 2019), shall be deemed to have 
+been done or taken under the provisions of this Act.  
+ 
+--------------------------The New Delhi International Arbtration Centre Act, 2019--------------------------
+1 
+ THE NEW DELHI INTERNATIONAL ARBITRATION 
+CENTRE ACT, 2019  
+_______ 
+ARRANGEMENT OF SECTIONS                                                                                                      
+________ 
+CHAPTER I 
+PRELIMINARY  
+ 
+SECTIONS 
+1.  Short title and commencement. 
+2.  Definitions. 
+CHAPTER II 
+ESTABLISHMENT AND INCORPORATION OF NEW  DELHI  INTERNATIONAL   
+ARBITRATION  CENTRE  
+3.  Establishment and incorporation of New Delhi In ternational Arbitration Centre. 
+4.  Declaration of New Delhi International Arbitrat ion Centre as an institution of national  
+      importance. 
+5.  Composition of Centre. 
+6.  Terms and conditions, etc., of Chairperson and Members. 
+CHAPTER III 
+ACQUISITION AND TRANSFER OF UNDERTAKINGS OF SOCIETY  
+7.  Transfer and vesting. 
+8.  General effect of vesting. 
+9.  Liability prior to specified date. 
+10.  Power of Central Government to direct vesting of undertaking in Centre. 
+11.  Management, etc., of undertakings. 
+12.  Duties of persons in charge of management of u ndertakings to deliver all assets. 
+13.  Certain powers of Central Government or Centre . 
+14.  Objects of Centre. 
+15.  Functions of Centre. 
+16.  Vacancies, etc., not to invalidate proceedings  of Centre. 
+17.  Resignation of Members. 
+18.  Removal of Members. 
+19.  Committees of Centre. 
+20.  Meetings of Centre. 
+21.  Chief Executive Officer. 
+22.  Delegation of powers. 
+23.  Secretariat. 2 
+ SECTIONS 
+CHAPTER IV 
+FINANCE, ACCOUNTS AND AUDIT 
+24.  Grants by Central Government 
+25.  Fund of Centre. 
+26.  Accounts and audit. 
+27.  Assessment of assets and liabilities of undert aking. 
+CHAPTER V 
+CHAMBER OF ARBITRATION AND ARBITRATION  ACADEMY  
+28.  Chamber of Arbitration. 
+29.  Arbitration Academy. 
+30.  Power to make rules. 
+31.  Power to make regulations. 
+32.  Laying of rules and regulations. 
+33.  Protection of action taken in good faith. 
+34.  Power to remove difficulty. 
+35.  Repeal and savings. 
+ 
+ 
+ 
+ 
+  3 
+ THE NEW DELHI INTERNATIONAL ARBITRATION CENTRE ACT,  2019  
+ACT NO. 17 OF  2019 
+[26 th July,  2019.] 
+An Act to provide for the establishment and incorpo ration of the New Delhi International 
+Arbitration Centre for the purpose of creating an i ndependent and autonomous regime 
+for institutionalised arbitration and for acquisiti on and transfer of the undertakings of 
+the International Centre for Alternative Dispute Re solution and to vest such 
+undertakings in the New Delhi International Arbitra tion Centre for the better 
+management of arbitration so as to make it a hub fo r institutional arbitration and to 
+declare the New Delhi International Arbitration Cen tre to be an institution of national 
+importance and for matters connected therewith or i ncidental thereto. 
+WHEREAS  dispute resolution process has a huge impact on th e Indian economy and global 
+perception on doing business in our country and it has become necessary to inspire confidence and 
+credibility among the litigants of commercial dispu tes; 
+AND  WHEREAS  rapidly changing economic activity demands expedit ious settlement of disputes 
+and creation and establishment of institutional arb itration; 
+AND WHEREAS  the International Centre for Alternative Dispute R esolution was set up in the year 
+1995, under the aegis of the Central Government and  registered under the Societies Registration Act, 
+1860, with the objective of promoting alternative d ispute resolution mechanism and providing 
+facilities for the same; 
+AND  WHEREAS  the International Centre for Alternative Dispute R esolution has received land and 
+substantial funding by way of grants and other bene fits from the Central Government for constructing 
+infrastructure and making other facilities; 
+AND  WHEREAS  the International Centre for Alternative Dispute R esolution has not been able to 
+actively engage and embrace developments in the arb itration ecosystem and to create a reputation par 
+excellence keeping pace with the dynamic nature of arbitration over more than two decades; 
+AND  WHEREAS  studies conducted by the High Level Committee appo inted by the Central 
+Government indicate that the International Centre f or Alternative Dispute Resolution has failed to 
+address the growing needs of the institutional arbi tration and also to bear optimum caseload and to 
+become better choice to the parties for arbitration ; 
+AND  WHEREAS  it has become expedient to take over the undertaki ngs of the International Centre 
+for Alternative Dispute Resolution including its re gional offices without interfering with its activit ies 
+and without adversely affecting its character as a Society but to utilise its existing infrastructure and 
+other facilities which have been set up by using th e public funds provided by the Government and to 
+incorporate a robust institution for domestic and i nternational arbitration to be known as the New 
+Delhi International Arbitration Centre; 
+AND  WHEREAS it is considered necessary to declare the New Delhi  International Arbitration 
+Centre as an institution of national importance for  its overall development as a major arbitration hub  
+by promoting quick and efficient dispute resolution  mechanism. 
+BE it enacted by Parliament in the Seventieth Year of  the Republic of India as follows:— 
+CHAPTER I 
+PRELIMINARY  
+1. Short title and commencement.—  (1) This Act may be called the New Delhi Internationa l 
+Arbitration Centre Act, 2019. 
+(2) It shall be deemed to have come into force on the  2nd March, 2019.  4 
+ 2. Definitions .— (1) In this Act, unless the context otherwise require s,—( a) “Centre” means the 
+New Delhi International Arbitration Centre establis hed and incorporated under section 3;  
+(b) “Chairperson” means the Chairperson of the Centre  referred to in clause ( a) of section 5;  
+(c) “Chief Executive Officer” means the Chief Executi ve Officer appointed under section 21;  
+(d) “Committee” means the relevant Committee of the C entre referred to in section 19;  
+(e) “Custodian” means the person who is appointed as Custodian under sub-section ( 2) of 
+section 11 in respect of the undertakings;  
+(f) “Fund” means the Fund of the Centre to be maintai ned under section 25;  
+(g) “Member” means Full-time or Part-time Member of t he Centre and includes the 
+Chairperson;  
+(h) “notification” means a notification published in the Official Gazette;  
+(i) “prescribed” means prescribed by rules made by th e Central Government under this Act; 
+(j) “regulations” means regulations made by the Centr e under this Act; 
+(k) “Society” means the International Centre for Alte rnative Dispute Resolution, registered as 
+such under the Societies Registration Act, 1860 (21  of 1860), and having its registered office at 
+New Delhi;  
+(l) “specified date” means the date as may be specifi ed by the Central Government by 
+notification; 
+(m) “undertakings” means the undertakings of the Soci ety which vests with the Central 
+Government under section 7. 
+(2) All other words and expressions used herein but  not defined and defined in the Arbitration and 
+Conciliation Act, 1996 (26 of 1996), shall have the  same meanings as assigned to them in that Act. 
+CHAPTER II 
+ESTABLISHMENT AND INCORPORATION OF NEW  DELHI  INTERNATIONAL  ARBITRATION  CENTRE  
+3.  Establishment and incorporation of New Delhi Intern ational Arbitration Centre . — (1) 
+The Central Government shall, by notification, esta blish a body to be called the New Delhi 
+International Arbitration Centre for the purposes o f exercising the powers and discharging the 
+functions under this Act. 
+ (2) The Centre shall be a body corporate by the name aforesaid, having perpetual succession and a 
+common seal with power, subject to the provisions o f this Act, to acquire, hold and dispose of 
+property, both movable and immovable, and to enter into contract, and shall, by the said name, sue or 
+be sued.  
+4. Declaration of New Delhi International Arbitrati on Centre as an institution of national 
+importance. —  (1) Whereas, the objects of the New Delhi Internation al Arbitration Centre are such 
+as to make it as an institution of national importa nce, it is hereby declared that the New Delhi 
+International Arbitration Centre is an institution of national importance. 
+(2) The head office of the Centre shall be at New Del hi and it may with the previous approval of 
+the Central Government, establish branches at other  places in India and abroad.  
+5. Composition of Centre.  — The Centre shall consist of the following Members,  namely:–– 
+(a) a person, who has been a Judge of the Supreme Cou rt or a Judge of a High Court or an 
+eminent person, having special knowledge and experi ence in the conduct or administration of 
+arbitration, law or management, appointed by the Ce ntral Government in consultation with the 
+Chief Justice of India––Chairperson; 5 
+ (b) two eminent persons having substantial knowledge and experience in institutional 
+arbitration, both domestic and international, appoi nted by the Central Government––Full-time 
+Members or Part-time Members; 
+(c) one representative of a recognised body of commer ce and industry, chosen on rotational 
+basis by the Central Government––Part-time Member;  
+(d) Secretary, Department of Legal Affairs, Ministry of Law and Justice or his representative, 
+not below the rank of the Joint Secretary––Member, ex officio;  
+(e) one Financial Adviser nominated by the Department  of Expenditure, Ministry of Finance–– 
+Member, ex officio; and  
+(f) Chief Executive Officer––Member, ex officio. 
+6. Terms and conditions, etc., of Chairperson and M embers.  –– (1) The Chairperson and 
+Members shall hold office for a term of three years  from the date on which they enter upon their 
+office and shall be eligible for re-appointment: 
+Provided that no Chairperson or Member shall hold o ffice as such after he has attained the age of 
+seventy years in the case of Chairperson and sixty- seven years in the case of a Member.  
+(2) The terms and conditions, salaries and allowances  payable to the Chairperson and Full-time 
+Member shall be such as may be prescribed. 
+(3) The term of office of a Member appointed to fill a casual vacancy shall be for the remainder of 
+the term of the Member in whose place he has been a ppointed.  
+(4) The Part-time Member shall be entitled to such tr avelling and other allowances as may be 
+prescribed. 
+CHAPTER III 
+ACQUISITION AND TRANSFER OF UNDERTAKINGS OF SOCIETY  
+7. Transfer and vesting .–– On and from the specified date, so much of the undertakings of the 
+Society as form part of, or are relatable to the So ciety, and the right, title and interest of the Soc iety in 
+relation to such undertakings, shall, by virtue of this Act, stand transferred to, and vest in, the Ce ntral 
+Government. 
+8. General effect of vesting.  –– (1) The undertakings vested under section 7 shall be deemed to 
+include all assets, rights, leaseholds, powers, aut horities and privileges, and all property (movable and 
+immovable), including lands, buildings, works, proj ects, instruments, automobiles and other vehicles, 
+cash balances, funds, including reserve funds, inve stments and book debts of the Society as form part 
+of, or are relatable to, the Society and all other rights and interest arising out of such properties as 
+were immediately before the commencement of the New  Delhi International Arbitration Centre 
+Ordinance, 2019 (Ord. 10 of 2019) in the ownership,  possession, power or control of the Society, and 
+all books of account, registers and all other docum ents of whatever nature relating thereto.  
+(2) All properties and assets as aforesaid which have  vested in the Central Government under 
+section 7 shall, by force of such vesting, be freed  and discharged from any trust, obligation, mortgag e, 
+charge, lien  and all other encumbrances affecting them or of an y attachment, injunction, decree or 
+order of any court or other authority restricting t he use of such properties or assets in any manner o r 
+appointing any receiver in respect of the whole or any part of such properties or assets shall be 
+deemed to have been withdrawn.  
+(3) Any licence or other instrument granted to the So ciety in relation to any undertaking which has 
+vested in the Central Government under section 7 at  any time before the specified date and in force 
+immediately before the specified date, shall contin ue to be in force on and after such day in 
+accordance with its tenor in relation to and for th e purpose of such undertaking or where the 
+undertaking is directed under section 10, to vest i n the Centre, the Centre shall be deemed to be 
+substituted in such licence or other instrument as if such licence or other instrument had been grante d 6 
+ to the Centre and the Centre shall hold it for the remainder of the period which the Society would 
+have held it under the terms thereof.  
+(4) If, on the specified date, any suit, appeal or ot her proceeding, of whatever nature, in relation to 
+any property or asset which has vested in the Centr al Government under section 7, instituted or 
+preferred by or against the Society is pending, the  same shall not abate, be discontinued or be, in an y 
+way, prejudicially affected by reason of the transf er of the undertaking of the Society of anything 
+contained in this Act, but the suit, appeal or othe r proceeding may be continued, prosecuted or 
+enforced by or against the Central Government or wh ere the undertakings of the Society are directed 
+under section 10, to vest in the Centre, by or agai nst the Centre.  
+9. Liability prior to specified date.  ––  Every liability in relation to any undertaking in r espect of 
+any period prior to the specified date, shall be en forceable against the Society and not against the 
+Central Government.  
+10. Power of Central Government to direct vesting o f undertaking in Centre.  –– (1) 
+Notwithstanding anything contained in sections 7 an d 8, the Central Government shall, as soon as 
+may be after the specified date, direct by notifica tion, that the undertakings and the right, title an d 
+interest of the Society in relation to such underta kings which had vested in the Central Government 
+under section 7, shall, vest in the Centre either o n the date of publication of the notification or on  such 
+earlier or later date as may be specified in the no tification. 
+(2) Where the right, title and interest of the Societ y in relation to the undertakings vest, under sub-
+section ( 1), in the Centre, the Centre shall, on and from the  date of such vesting, be deemed to have 
+become the owner in relation to such undertakings a nd the rights and liabilities of the Central 
+Government in relation to such undertakings shall, on and from the date of such vesting, be deemed to 
+have become, the rights and liabilities, respective ly, of the Centre. 
+11.  Management, etc., of undertakings.  ––   (1) The general superintendence, direction, control 
+and management of affairs of the undertakings, the right, the interest in relation to which have veste d 
+in the Central Government under section 7, shall–– 
+(a) where a direction has been made by the Central Go vernment under sub-section ( 1) of 
+section 10, vest in the Centre; or  
+(b) where no such direction has been made by the Cent ral Government, vest in the Custodian 
+appointed by the Central Government under sub-secti on ( 2),  
+and, thereupon, the Centre or the Custodian so appo inted, as the case may be, shall be entitled to 
+exercise all such powers and do all such things as the Society, is authorised to exercise and do in 
+relation to its undertakings.  
+(2) The Central Government may appoint any person as the Custodian of the undertakings in 
+relation to which no direction has been made by it under sub-section ( 1) of section 10. 
+(3) The Custodian so appointed shall receive such rem uneration as the Central Government may 
+fix and shall hold office during the pleasure of th e Central Government.  
+12. Duties of persons in charge of management of un dertakings to deliver all assets.  ––  (1) On 
+the vesting of the management of the undertakings i n the Centre or on the appointment of a Custodian 
+under sub-section ( 2) of section 11, all persons in charge of managemen t of the undertakings 
+immediately before such vesting or appointment shal l be bound to deliver to the Centre or Custodian, 
+as the case may be, all assets, books of account, r egisters and other documents in their custody 
+relating to the undertakings. 
+(2) The Central Government may issue such directions as it may deem desirable in the 
+circumstances of the case to the Custodian as to th e powers and duties of the Custodian and such 
+Custodian may also, if it is considered necessary s o to do, apply to the Central Government at any 
+time for instructions as to the manner in which the  management of the undertaking shall be conducted 
+or in relation to any other matter arising in the c ourse of such management.  7 
+ (3) Any person who on the specified date, has in his possession or under his control, any books, 
+documents or other papers relating to the undertaki ngs shall be liable to account for the said books, 
+documents or other papers to the Central Government  or the Custodian or the Centre, as the case may 
+be, and shall deliver them to the Central Governmen t or the Custodian or the Centre or to such person 
+or body of persons as the Central Government or the  Centre may specify in this behalf.  
+(4) The Central Government or the Centre may take or cause to be taken, all necessary steps for 
+securing possession of all undertakings which have vested in the Central Government or the Centre 
+under this Act.  
+(5) The Society shall, within such period as the Cent ral Government may allow in this behalf, 
+furnish to that Government a complete inventory of all its properties and assets, as on the 
+commencement of the New Delhi International Arbitra tion Centre Ordinance, 2019 (Ord. 10 of 2019)  
+pertaining to the undertaking and for this purpose,  the Central Government or Custodian or the Centre 
+shall afford to the Society, or body all reasonable  facilities.  
+13. Certain powers of Central Government or Centre.  ––  The Central Government or the 
+Custodian or the Centre shall be entitled to receiv e up to the specified date, to the exclusion of all  
+other persons, any money due to the Society in rela tion to its undertakings which have vested in the 
+Central Government or Custodian or the Centre, as t he case may be, and realised after the 
+commencement of the New Delhi International Arbitra tion Centre Ordinance, 2019 (Ord. 10 of 
+2019.), notwithstanding that the realisation pertai ns to a period prior to the commencement of the 
+New Delhi International Arbitration Centre Ordinanc e, 2019 (Ord. 10 of 2019 ). 
+14. Objects of Centre.  –– The objects of the Centre shall be,––  
+(a) to bring targeted reforms to develop itself as a flagship institution for conducting 
+international and domestic arbitration;  
+(b) to promote research and study, providing teaching  and training, and organising conferences 
+and seminars in arbitration, conciliation, mediatio n and other alternative dispute resolution 
+matters;  
+(c) to provide facilities and administrative assistan ce for conciliation, mediation and arbitral 
+proceedings;  
+(d) to maintain panels of accredited arbitrators, con ciliators and mediators both at national and 
+international level or specialists such as surveyor s and investigators;  
+(e) to collaborate with other national and internatio nal institutions and organisations for 
+ensuring credibility of the Centre as a specialised  institution in arbitration and conciliation;  
+(f) to set up facilities in India and abroad to promo te the activities of the Centre;  
+(g) to lay down parameters for different modes of alt ernative dispute resolution mechanisms 
+being adopted by the Centre; and  
+(h) such other objectives as it may deem fit with the  approval of the Central Government.  
+15. Functions of Centre.  –– Without prejudice to the provisions contained in  section 14, the 
+Centre shall strive,––  
+(a) to facilitate for conducting international and do mestic arbitration and conciliation in the 
+most professional manner;  
+(b) to provide cost effective and timely services for  the conduct of arbitration and conciliation 
+at national and international level; 
+(c) to promote studies in the field of alternative di spute resolution and related matters, and to 
+promote reforms in the system of settlement of disp utes; 
+(d) to undertake teaching and to provide for diffusio n of knowledge of law and procedures on 
+alternative dispute resolution and related matters and to award certificates and other academic or 
+professional distinction; 8 
+ (e) to impart training in alternative dispute resolut ion and related matters to those who are 
+handling arbitration, conciliation and mediation; 
+(f) to co-operate with other societies, institutions and organisations, national or international for 
+promoting alternative dispute resolution; and  
+(g) to perform such other functions as may be entrust ed to it by the Central Government for 
+promoting alternative dispute resolution.  
+16. Vacancies, etc., not to invalidate proceedings of Centre.  ––No act or proceedings of the 
+Centre shall be invalid merely by reason of,––  
+(a) any vacancy or any defect in the constitution of the Centre; or  
+(b) any defect in the appointment of a person acting as a Member of the Centre; or  
+(c) any irregularity in the procedure of the Centre n ot affecting the merits of the case. 
+17. Resignation of Members.  ––The Chairperson or the Full-time Member or Part- time Member 
+may, by notice in writing, under his hand addressed  to the Central Government, resign his office:  
+Provided that the Chairperson or the Full-time Memb er shall, unless he is permitted by the Central 
+Government to relinquish his office sooner, continu e to hold office until the expiry of three months 
+from the date of receipt of such notice or until a person duly appointed as his successor enters upon 
+his office or until the expiry of his term of offic e, whichever is the earlier.  
+18.  Removal of Members.  –– (1) The Central Government may, remove a Member from his 
+office if he,––  
+(a) is an undischarged insolvent; or 
+(b) has engaged at any time (except Part-time Member) , during his term of office, in any paid 
+employment; or  
+(c) has been convicted of an offence which, in the op inion of the Central Government, involves 
+moral turpitude; or  
+(d) has acquired such financial or other interest as is likely to affect prejudicially his functions 
+as a Member; or  
+(e) has so abused his position as to render his conti nuance in office prejudicial to the public 
+interest; or  
+(f) has become physically or mentally incapable of ac ting as a Member. 
+(2) Notwithstanding anything contained in sub-section  ( 1), no Member shall be removed from his 
+office on the grounds specified in clauses ( d) and ( e) of that sub-section unless the Supreme Court, on 
+a reference being made to it in this behalf by the Central Government, has, on an inquiry, held by it in 
+accordance with such procedure as may be prescribed  in this behalf by the Supreme Court, reported 
+that the Member, ought on such ground or grounds to  be removed.  
+19. Committees of Centre. –– (1) The Centre may constitute such Committees as may be 
+considered necessary to administer various aspects of its functions. 
+(2) The composition and functions of the Committees r eferred to in sub-section ( 1) shall be such as 
+may be prescribed.  
+(3) The Committee shall meet at such time and at such  places and shall observe such rules of 
+procedure in regard to the transaction of business at its meetings including the quorum as may be 
+specified by the regulations.  
+20. Meetings of Centre. –– (1) The Chairperson shall ordinarily preside at the m eetings of the 
+Centre:  
+Provided that, in his absence, the Member chosen by  the other Members present amongst 
+themselves shall preside at the meetings.  9 
+ (2) It shall be the duty of the Chairperson to ensure  that the decisions taken by the Centre are 
+implemented.  
+(3) The Chairperson shall exercise such other powers and perform such other duties as are 
+assigned to him under this Act.  
+(4) The Centre shall meet at least four times a year and follow such procedure in its meetings 
+including quorum at such meetings in such manner as  may be specified by the regulations. 
+(5) All questions which come up before any meeting of  the Centre shall be–– 
+(a) decided by a majority of votes by the Members pre sent and voting, and in the event of an 
+equality of votes, the Chairperson or in his absenc e, the person presiding, shall have a casting vote;  
+(b) dealt with as expeditiously as possible and the C entre shall dispose of the same within a 
+period of sixty days from the date of receipt of th e application:  
+Provided that where any such application could not be disposed of within the said period of 
+sixty days, the Centre shall record its reasons in writing for not disposing of the application within  
+that period.  
+(6) The Chairperson may invite any expert, not bein g a Member, to attend the meetings of the 
+Centre, but such invitee shall not be entitled to v ote at the meeting.  
+21. Chief Executive Officer.  –– ( 1) There shall be a Chief Executive Officer of the C entre who 
+shall be responsible for day-to-day administration of the Centre and for this purpose, he shall mainta in 
+liaison with the Centre and the Secretariat. 
+ (2) The appointment, qualifications and the terms and  conditions of services of the Chief 
+Executive Officer shall be such as may be specified  by the regulations.  
+(3) The Chief Executive Officer shall exercise such p owers and discharge such functions as may 
+be specified by the regulations or as may be delega ted to him by the Centre. 
+22. Delegation of powers.  –– The Centre may, for the purpose of discharging of its powers, 
+functions and duties, by general or special order i n writing, specify the powers and duties conferred or 
+imposed upon the Centre by or under this Act (excep t the power to make regulation) which may also 
+be exercised or performed by the Chief Executive Of ficer or any officer or officers of the Centre and 
+the conditions and restrictions, if any, subject to  which the powers and duties may be exercised and 
+performed.  
+23. Secretariat.  –– (1) There shall be a Secretariat to the Centre consis ting of––  
+(a) Registrar, who shall supervise the activities of the Centre;  
+(b) Counsel, dealing with the matters relating to dom estic and international arbitration; and  
+(c) such number of other officers and employees as ma y be prescribed. 
+(2) The qualifications, experience, method of selecti on and the functions of the Registrar, Counsel 
+and other officers and employees shall be such as m ay be prescribed. 
+CHAPTER IV 
+FINANCE, ACCOUNTS AND AUDIT  
+ 24. Grants by Central Government.  –– The Central Government may, after due appropria tion 
+made by Parliament by law in this behalf, pay to th e Centre in each financial year such sums of 
+money and in such manner as it may think fit for be ing utilised for the purposes of this Act. 
+25. Fund of Centre.  –– (1) The Centre shall maintain a Fund to which shall b e credited,— 
+(a) all monies provided by the Central Government;  
+(b) all fees and other charges received during or in connection with the arbitration, conciliation, 
+mediation or other proceedings;  10 
+ (c) all monies received by the Centre for the facilit ies provided by it to the parties;  
+(d) all monies received by the Centre in the form of donations, grants, contributions and income 
+from other sources; and 
+(e) the amount received from the investment income.  
+(2) All monies credited to the Fund shall be deposite d in such banks or invested in such manner as 
+may be decided by the Centre. 
+(3) The Fund shall be applied towards meeting the sal aries and other allowances of Members and 
+the expenses of the Centre including expenses incur red in the exercise of its powers and discharge of 
+its duties under this Act. 
+26. Accounts and audit.  –– ( 1) The Centre shall maintain proper accounts and oth er relevant 
+records and prepare an annual statement of accounts , including the balance sheet, in such form and 
+manner as may be prescribed in consultation with th e Comptroller and Auditor-General of India.  
+(2) The accounts of the Centre shall be audited by th e Comptroller and Auditor General of India 
+and any expenditure incurred by him in connection w ith such audit shall be payable by the Centre to 
+the Comptroller and Auditor-General of India.  
+(3) The Comptroller and Auditor-General of India and any person appointed by him in connection 
+with the audit of the accounts of the Centre shall have the same rights, privileges and authority in 
+connection with such audit as the Comptroller and A uditor-General of India has in connection with 
+the audit of the Government accounts, and, in parti cular, shall have the right to demand the productio n 
+of books, accounts, connected vouchers and other do cuments and papers and to inspect the offices of 
+the Centre.  
+(4) The accounts of the Centre as certified by the Co mptroller and Auditor-General of India or any 
+other person appointed by him in this behalf togeth er with the audit report thereon shall be forwarded  
+annually to the Central Government and the Central Government shall cause the same to be laid 
+before each House of Parliament.  
+27. Assessment of assets and liabilities of underta king.  ––The assets and liabilities in relation to 
+any undertaking under this Act shall be caused to b e assessed by any agency authorised by the 
+Comptroller and Auditor-General of India in such ma nner as may be specified by him and any 
+payment on a claim to be made in relation thereto s hall be settled by him between the Society and the 
+Central Government and shall be paid by the Society  or the Central Government, as the case may be, 
+in the manner as may be specified by the Comptrolle r and Auditor-General of India. 
+CHAPTER V 
+CHAMBER OF ARBITRATION AND ARBITRATION  ACADEMY   
+28. Chamber of arbitration.  –– ( 1) The Centre shall, establish a Chamber of Arbitrat ion which 
+shall empanel the Arbitrators and also scrutinise t he applications for admission in the panel of reput ed 
+arbitrators to maintain a permanent panel of arbitr ators. 
+(2) The Chamber of Arbitration shall consist of exper ienced arbitration practitioners of repute, at 
+national and international level and persons having  wide experience in the area of alternative dispute  
+resolution and conciliation. 
+(3) The Centre shall by regulations lay down the crit eria for admission to the panel of the cadre so 
+as to maintain a pool of reputed arbitrators having  expertise in international commercial arbitration 
+and arbitration other than international commercial  arbitration. 
+(4) The Registrar to the Secretariat of the Centre sh all act as the Member-Secretary to the Chamber 
+of Arbitration.  
+29. Arbitration Academy.  –– (1) The Centre may establish an Arbitration Academy––  
+(a) to train the arbitrators, particularly in the are a of international commercial arbitration to 
+compete on par with the reputed international arbit ral institutions;  11 
+ (b) to conduct research in the area of alternative di spute resolution and allied areas; and (c) to 
+give suggestions for achieving the objectives of th e Act. 
+(2) For the purposes of sub-section ( 1), there may be constituted a permanent three membe r 
+committee in order to suggest and to submit a repor t to the Centre with respect to the amendments, if 
+any, necessary to the rules and regulations made un der this Act.  
+CHAPTER VI 
+MISCELLANEOUS  
+30. Power to make rules.  — ( 1) The Central Government may, by notification, make  rules to 
+carry out the provisions of this Act.  
+(2) In particular, and without prejudice to the gener ality of the foregoing power, such rules may 
+make provision for—  
+(a) the terms and conditions and the salaries and all owances payable to the Chairperson and 
+Full-time Members under sub-section ( 2) of section 6;  
+(b) the travelling and other allowances payable to th e Part-time Members under sub-section ( 4) 
+of section 6;  
+(c) the composition and functions of the Committees r eferred to in sub-section ( 2) of section 
+19;  
+(d) the number of officers and employees of the Secre tariat of the Centre under clause ( c) of 
+sub-section ( 1) of section 23;  
+(e) the qualifications, experience, method of selecti on and the functions of the Registrar, 
+Counsel and other officers and employees of the Cen tre under sub-section ( 2) of section 23;  
+(f) annual statement of accounts, including the balan ce sheet under sub-section ( 1) of section 
+26; and 
+(g) any other matter in respect of which provision is  to be made or may be made under this Act. 
+31. Power to make regulations.  — ( 1) The Centre may, with the previous approval of the  
+Central Government, by notification, make regulatio ns consistent with this Act and the rules made 
+thereunder to provide for all matters for which pro vision is necessary or expedient for the purposes 
+of giving effect to the purposes of this Act.  
+(2) In particular, and without prejudice to the gener ality of the foregoing power, such 
+regulations may make provision for––  
+(a) the time and place and the rules of procedure to be observed in regard to the transaction of 
+business of the Committee at the meetings including  the quorum under sub-section ( 3) of section 
+19;  
+(b) the time and place and rules of procedure in rega rd to the transaction of business of the 
+Centre or any Committee including the quorum at the  meeting under sub-section (4) of section 20; 
+(c) the appointment, qualifications and the terms and  conditions of service of the Chief 
+Executive Officer under sub-section (2) of section 21;  
+(d) the powers and functions of the Chief Executive O fficer under sub-section (3) of section 21;  
+(e) the criteria for admission to the panel of repute d arbitrators under sub-section (3) of section 
+28; and  
+(f) any other matter in respect of which provision, i n the opinion of the Centre, is necessary for 
+the performance of its functions under this Act.  
+32. laying of rules and regulations.  –– Every rule and regulation made under this Act s hall be 
+laid, as soon as may be after it is made, before ea ch House of Parliament, while it is in session, for  
+a total period of thirty days which may be comprise d in one session or in two or more successive 12 
+ sessions, and if, before the expiry of the session immediately following the session or the 
+successive sessions aforesaid, both Houses agree in  making any modification in the rule or 
+regulation or both Houses agree that the rule or re gulation should not be made, the rule or 
+regulation shall thereafter have effect only in suc h modified form or be of no effect, as the case 
+may be; so, however, that any such modification or annulment shall be without prejudice to the 
+validity of anything previously done under that rul e or regulation.  
+33. Protection of action taken in good faith.  –– No suit, prosecution or other legal 
+proceedings shall lie against the Centre, the Chair person or Members or its employees and 
+arbitrators for anything which is in good faith don e or intended to be done under this Act or the 
+rules or regulations made thereunder.  
+34. Power to remove difficulty.  –– (1) If any difficulty arises in giving effect to the provisions 
+of this Act, the Central Government may, by order p ublished in the Official Gazette, make such 
+provisions, not inconsistent with the provisions of  this Act, as may appear to it to be necessary for 
+removing the difficulty: 
+Provided that no such order shall be made under thi s section after the expiry of a period of two 
+years from the date of commencement of this Act.  
+(2) Every order made under this section shall be laid , as soon as may be after it is made, before 
+each House of Parliament.  
+35. Repeal and savings.  –– ( 1) The New Delhi International Arbitration Centre Or dinance, 
+2019 (Ord. 10 of 2019) is hereby repealed.  
+(2) Notwithstanding such repeal, anything done or any  action taken under the New Delhi 
+International Arbitration Centre Ordinance, 2019 (O rd. 10 of 2019), shall be deemed to have been 
+done or taken under the provisions of this Act.  

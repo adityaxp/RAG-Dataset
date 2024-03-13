@@ -1,0 +1,1967 @@
+--------------------------The Companies (Profits) Surtax Act, 1964--------------------------
+1 
+ THE COMPANIES (PROFITS) SURTAX ACT, 1964  
+_____________  
+ARRANGEMENT OF SECTIONS  
+______________  
+SECTIONS  
+   1.  Short title and extent.  
+   2.   Definitions.  
+   3.   Tax authorities.  
+   4.   Charge of tax.  
+   5.   Return of chargeable profits.  
+   6.  Asse ssment.  
+   7.   Provisional assessment.  
+7A. Advance payment of surtax.  
+7B. Interest payable by Government.  
+7C. Interest payable by assessee.  
+7D. Interest payable by assessee in case of under estimate, etc.  
+   8.  Profits escaping assessment.  
+   9.  Pena lties.  
+9A. False estimate of, or failure to pay, advance surtax.  
+10.  Opportunity of being heard.  
+11.  Appeals to the Commissioner  (Appeals) .  
+11A. Transfer of certain pending appeals.  
+12.  Appeals to Appellate Tribunal.  
+   13.  Rectification of mistak es.  
+   14.  Other amendments.  
+   15.  Surtax deductible in c omputing distributable income under Income -tax Act.  
+   16.  Revision of orders prejudicial to revenue.  
+   17.  Revision of orders by  Chief Commissioner or Commissioner.  
+   18.  Application of pro visions of Income -tax Act .  
+   19.  Income -tax papers to be available for the purposes of this Act.  
+   20.  Failure to deliver returns, etc.  
+   21.  False statements.  
+   22.  Abetment of false returns, etc.  
+   23. Institution of proceedings and compositi on of offences .  
+   24.  Power to make exemption, etc., in relation to certain Union territories.  
+   24A.  Agreement with foreign countries.  
+ 2 
+ SECTIONS  
+ 24AA. Power to make exemption, etc., in relation to participation in the business of prospecting 
+for, extraction, etc., of mineral oils.   
+     25.  Power to make rules.  
+     26. Saving.  
+THE FIRST SCHEDULE.  
+THE SECOND SCHEDULE.  
+THE THIRD SCHEDULE.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 3 
+ THE COMPANIES (PROFITS) SURTAX ACT, 1964  
+ACT NO. 7 OF 1964  
+[2nd May , 1964 .] 
+An Act  to impose a special tax on the profits of certain companies.  
+BE it enacted by Parliament in the Fifteenth Year of the Republic of India as follows :― 
+1. Short title and extent .―(1) This Ac t may be called the Companies (Profits) Surtax Act, 1964.  
+(2) It extends to the whole of India.  
+2.  Definitions .― In this Act, unless the context otherwise requires, ― 
+1[(1) “advance surtax ” means the Surtax payable under section 7A;]  
+ 2[(1A)] “assessee ” means a person by whom surtax or any other sum of money is payable under 
+this Act and includes every person in respect of whom any proceeding under this Act has been taken 
+for the assessment of his chargeable profits or of the amount of refund due to him or of the chargeable 
+profits of any other person in respect of which he is assessable or of the amount of refund due to such 
+other person;  
+(2) “assessment ” includes re -assessment;  
+(3) “assessment year ” means the period  of twelve months commencing on the 1st day of April, 
+every year;  
+(4) “Board ” means the Central Board of Direct Taxes constituted under the Central Boards of 
+Revenue Act, 1963  (54 of 1963) ; 
+(5) “chargeable profits ” means the total income of  an assessee com puted under the  
+Income -tax Act, 1961  (43 of 1961) for any previous year or years, as the case may be, and adjusted in 
+accordance with the provisions of the First Schedule;  
+(6) “Income -tax Act ” means the Income -tax Act, 1961  (43 of 1961);  
+(7) “prescribed ” means prescribed by rules made under this Act;  
+1[(7A) “regular assessment ” means as assessment made under section 6; ] 
+(8) “statutory deduction ” means an amount equal to  3[fifteen per cent .] of the capital of the 
+company as computed in accordance with the pr ovisions of the Second Schedule, or an amount of two 
+hundred thousand rupees, whichever is greater:  
+Provided that where the previous year is longer or shorter than a period of twelve m onths, the 
+aforesaid amount of 3[fifteen per cent .] or, as the case may be, of two hundred thousand rupees shall 
+be increased or decreased proportionately:  
+Provided further that where a company has different previous years in respect of its income, 
+profits and gains, the aforesaid increase or decrease, as the case may be, shal l be calculated with 
+reference to the length of the previous year of the longest duration; and  
+(9) all other words and expressions used herein but not defined and defined in the Income -tax Act 
+shall  have the  meanings respectively assigned to them in that A ct. 
+ 
+                                                           
+1. Ins. b y Act 16 of 1981, s. 35 (w.e.f. 1-4-1981).  
+2. Clause  (1) re-numbered as cl ause (1A) thereof by s. 35, ibid. (w.e.f. 1-4-1981).  
+3. Subs. by Act 66 of 1976, s. 29, for “ten per cent .” (w.e.f.  1-4-1977) .  
+ 4 
+  1[3. Tax authorities .―(1) The income -tax authorities specified in section 116 of the Income -tax Act 
+shall be the authorities for the purposes of this Act and every such authority shall exercise the powers and 
+perform the functions of a tax authority under this Act in respect of any company, and for this purpose his 
+jurisdiction unde r this Act shall be the same as he has under the Income -tax Act by virtue of orders or 
+directions issued under section 120 of that Act (including orders or directions assig ning concurrent 
+jurisdiction) or under any other provision of that Act.  
+(2) The Board may, from time to time , issue such orders, instructions and directions to other tax 
+authorities as it may deem fit for the proper administration of this Act, and such aut horities and all other 
+persons employed in the execution of this Act shall observe and follow such orders, instructions and 
+directions of the Board:  
+Provided that no such orders, instructions  or directions shall be issued ― 
+(a) so as to require any tax auth ority to make a particular assessment or to dispose of a particular 
+case in a particular manner; or  
+(b) so as to interfere with the discretion of the Commissioner (Appeals) in the exercise of his 
+appellate functions.]  
+4. Charge of tax .―Subject to the provi sions contained in this Act, there shall be charged on every 
+company for every assessment year commencing on and from the first day of April, 1964, 2[but befo re the 
+first day of April, 1988 ] a tax (in this Act referred to as the surtax) in respect of so mu ch of its chargeable 
+profits of the previous year or previous years, as the case may be, as exceed the statutory deduction, at the 
+rate or rates specified in the Third Schedule.  
+5. Return of chargeable profit s.― (1) In the case of every company whose chargeable profits 
+assessable under this Act exceeded during the previous year the amount of statutory deduction, its 
+principal officer, or where in the case of a non -resident company any person has been treated as its agent 
+under section 163 of the Income -tax Act, such person, shall furnish a return of the chargeable profits of 
+the company during the previous year in the prescribed form and verified in the prescribed manner and 
+setting forth such other particulars a s may be prescribed, before the 30th day of September of the 
+assessment year:  
+Provided that on an application made in this behalf, the 3[Assessing Officer ] may, in his discretion, 
+extend the date for the furnishing of the return.  
+(2) In the case of any c ompany which in the 3[Assessing  Officer ] opinion is assessable under this 
+Act, the  3[Assessing  Officer ]  may, before the end of the relevant assessment year, serve a notice upon its 
+principal officer, or where in the case of a non -resident company any pe rson has been treated as its agent 
+under section 163 of the Income -tax Act, upon such person, requiring him to furnish within thirty days 
+from the date of service of the notice a return of the chargeable profits of the company during the 
+previous year in t he prescribed form and verified in the prescribed manner and setting forth such other 
+particulars as may be prescribed:  
+ Provided that on an application made in this behalf, the 3[Assessing Officer ] may, in his discretion, 
+extend the date for the furnishin g of the return.  
+(3) Any assessee who has not furnished a return during the time allowed under sub -section ( 1) or  
+sub-section ( 2), or having furnished a return ) under sub -section ( 1) or sub -section ( 2) discovers any 
+omission or wrong statement therein, m ay furnish a return or a revised return, as the case may be, at any 
+time before the assessment is made.  
+6. Assessment .― (1) For the purposes of making an assessment under this Act, the 3[Assessing  
+Officer ]  may serve on any, person who has furnished a retu rn under sub -section ( 1) of section 5 or upon 
+whom a notice has been served under sub-section ( 2) of section 5 (whether a return has been furnished or 
+not) a notice requiring him on a date therein to be specified, to produce or cause to be produced such 
+                                                           
+1. Subs. by Act 4 of 1988, s. 188, for s.  3 (w.e.f. 1 -4-1988). 
+2. Ins. by Act 23 of 1986, s.  47 (w.e.f.  1-4-1988). 
+3. Subs. by Act 4 of 1988, s.  187, for “Income -tax Officer” (w.e.f.1 -4-1988).  5 
+ accounts or documents or evidence as the 1[Assessing  Officer ] may require for the purposes of this Act 
+and may from time to time serve further notices requiring the production of such further accounts or 
+documents or other evidence as he may require.  
+(2) The 1[Assessing  Officer ], after considering such accounts, documents or evidence, if any, as he 
+has obtained under sub -section ( 1) and after taking into account any relevant material which he has 
+gathered, shall, by an order in writing, assess the chargeable  profits and the amount of the surtax payable 
+on the basis of such assessment.  
+7. Provisional assessment .― (1) The  1[Assessing  Officer ], before proceeding to make an assessment 
+under section 6 (in this section referred to as the regular assessment) may, at any time after the expiry of 
+the period allowed under sub -section ( 1) or sub -section ( 2) of section 5 fo r the furnishing of the return and 
+whether the return has or has not been furnished, proceed to make in a summary manner a provisional 
+assessment of the chargeable profits and the amount of the surtax payable thereon.  
+(2) Before making such provisional as sessment, the  1[Assessing  Officer ]  shall give notice in the 
+prescribed form to the person on whom the provisional assessment is to be made of his intension to do so, 
+and shall with the notice forward a statement of the amount of the proposed assessment, a nd the said 
+person shall be entitled to deliver to the 1[Assessing  Officer ] at any time within fourteen days of the 
+service of the said notice a statement of his objections, if any, to the amount of the proposed assessment.  
+ (3) On expiry of the said fourt een days from the date of service of the notice referred to in  
+sub-section ( 2), or earlier, if the assessee agrees to the proposed provisional assessment, the 1[Assessing  
+Officer ] may, after taking into account the objections, if any, made under sub -section (2), make a 
+provisional assessment, and shall furnish a copy of the order of the assessment to the assessee:  
+Provided that assent to the amount of the provisional assessment, or failure to make objection to it, 
+shall in no way prejudice the assessee in  relation to the regular assessment.  
+(4) There shall be no right of appeal against a provisional asse ssment made under this section.  
+(5) After a regular assessment has been made, any amount paid or deemed to have been paid towards 
+the provisional assessme nt made under this section shall be deemed to have been paid towards the regular 
+assessment; and where the amount paid or deemed to have been paid towards the provisional assessment 
+exceeds the amount payable under the regular assessment, the excess shall be refunded to the assessee.  
+ 2[7A. Advance payment of surtax .― (1) In this section, ―  
+(a) “chargeable amount ”, in relation to any previous year, means so much of the chargeable 
+profits of the previous year as exceed the statutory deduction;  
+(b) “current chargeable amount ”, in relation to the advance surtax payable by a company during 
+any financial year, means the chargeabl e amount of the company of the period which would be the 
+previous year for the assessment year immediately following that financial year.  
+(2) Surtax s hall be payable, in accordance with the provis ions of this section, in advance during the 
+financial year in respect of the chargeable amount of the period which would be the previous year for the 
+immediately following assessment year.  
+ (3) The amount of advance surtax payable by an assessee in the fin ancial year shall be computed as 
+follows: ―  
+(a) the chargeable amount of the latest previous year in respect of which the assessee has been 
+assessed by way of regular assess ment shall first be ascertained ; 
+ (b) in a case where the chargeable amount of the latest previous year [being a year later than the 
+previous year referred to in clause ( a)] on the basis of which a provisional assessment has been made 
+under section  7 exceeds the chargeab le amount referred to in clause  (a), the chargeable amount 
+                                                           
+1. Subs . by Act 4 of 1988, s.187, for “Income -tax Officer” (w.e.f.1 -4-1988).  
+2.  Ins. by Act 16 of  1981, s. 36 (w.e.f.1 -4-1981).  6 
+ referred to in clause ( a) shall be sub stituted by the chargeable amount on the basis of which such 
+provisional assessment has been made;  
+(c) surtax shall be calculated on the chargeable amount referred to in clause ( a) or, as the case 
+may be, in clause ( b), at the  rates specified in the Third Schedule.  
+(4) Subject to the provision s of this section, advance sur tax shall be payable in three equal instalments 
+on the following dates during the financial year, namely: ― 
+(a) the 15th day of June, the 15th day of Septembe r and the 15th day of December, in the case of 
+an assessee whose chargeable amount to the extent of 75 per cent. thereof or more is derived from a 
+source or sources for which the previous year (relevant to the assessment year next following the 
+financial y ear aforesaid) ends on or before the 31st day of December;  
+ (b) the 15th da y of September, the 15th day of December and the 15th day of March, in any other 
+case:   
+Provided that where, in respect of any class of assessees, the Board has, in exercise of the powers 
+conferred by the proviso to sub -section ( 1) of sec tion 211 of the Income -tax Act, authorised the payment 
+of the last instalment of advance tax on the 15th day of March during the financial year instead of on the 
+15th day of December, the last instal ment of advance surtax in the case of such assessees shall also be 
+payable on the 15th day of March during the financial year.  
+(5) Every company shall, in each financial year, on or before the date on which the first instalment, or 
+where it has not previo usly been assessed by way of regular assessment under this Act, on or before the 
+date on which the last instalment, of advance surtax is due in its case under sub-section ( 4), if it is likely 
+to have any current chargeable amount, send to the 1[Assessing  Officer ],― 
+(a) where it has been previously assessed by way of regular assessment under this Act, a 
+statement of advance surtax payable by it computed in the manner laid down in sub -section ( 3), or  
+(b) where it has not previously been assessed by way of regular as sessment under this Act, an 
+estimate of — 
+(i) the current chargeable amount, and  
+(ii) the advance surtax payable by it on the amount specified in ( i) above calculated in 
+the,manner laid down in sub -section ( 3),  
+and shall pay such amount of advance surtax, ― 
+(I) in a case falling under clause ( a), as accords with the statement in equal instalments on the 
+dates applicable in its case under sub -section ( 4); and  
+(II) in a case falling under clause ( b), as accords with the estimate in equal instalments on such of 
+the dates applicable in its case as have not expired, or in one sum if only the last of such dates has not 
+expired.  
+ (6) Where a company which is required to send a statement under clause ( a) of sub -section ( 5) 
+estimates on or before the date on which t he first instalment of advance surta x is due in its case under  
+sub-section ( 4) that, by reason of its current chargeable amount being likely to be less than the chargeable 
+amount on which advance surtax is payable by it under sub -section ( 5) or for any ot her reason, the 
+                                                           
+1. Subs. by Act 4 of 1988, s.187, for “Income -tax Officer” (w.e.f.1 -4-1988).  
+ 7 
+ amount of advance surtax computed in the manner laid down in sub -section ( 3) on the current chargeable 
+amount would be less than the amount of adv ance surtax payable by it under sub-section ( 5), it may send 
+to the 1[Assessing  Officer ], in lieu of such statement, an estimate of ― 
+ (i) the current chargeable amount, and  
+(ii) the advance surtax payable by it on the current chargeable amount calculated in the manner 
+laid down in sub -section ( 3),  
+and shall pay such amount of advance surtax as accords with its estimate in equal inst alments on the dates 
+applicable in its case under sub -section ( 4). 
+ (7) Where a company which has sent a statement under clause ( a) of sub -section ( 5) estimates on or 
+before the date on which the last instalment of advance surtax is due in its case that, b y reason of its 
+current chargeable amount being likely to be less than the chargeable amount on which advance surtax is 
+payable by it under sub -section ( 5) or for any other reason, the amount of advance surtax computed in the 
+manner laid down in sub -sectio n (3) on the current chargeable amount would be less than the amount of 
+adva nce surtax payable by it under sub-section ( 5), it may, at its option, send to the 1[Assessing  Officer ] 
+an estimate of — 
+ (i) the current chargeable amount, and  
+(ii) the advance su rtax payable by it on the current chargeable amount calculated in the manner 
+laid down in sub -section ( 3),  
+and shall pay such amount of advance surtax as accords with its estimate in equal instalments on such of 
+the dates applicable in its case under sub -section ( 4) as have not expired, or in one sum if only the last of 
+such dates has not expired.  
+ (8) In the case of any company which is liable to pay advance surtax under sub -section ( 5) or               
+sub-section ( 6) or, as the case may be, sub -section (7), if, by reason of the current chargeable amount 
+being likely to be greater than the chargeable amount on which the advance surtax so payable by it has 
+been computed or for any other reason, the amount of advance surtax computed in the manner laid down 
+in sub -section ( 3) on the current chargeable amount (which shall be estimated by the company) exceeds 
+the amount of advance surtax so payable by it by more than twenty per cent. of the latter amount, it shall, 
+on or before the date on which the last instal ment of advance surtax is payable by it, send to the  
+1[Assessing  Officer ] an estimate of ― 
+(i) the current chargeable amount, and  
+(ii) the advance surtax payable by it on the current chargeable amount calculated in the manner 
+laid down in sub -section ( 3),  
+and shall pay such amount of advance surtax as accords with its estimate on such of the  dates applicable 
+in its case under sub -section ( 4) as have not expired, by instalment s which may be revised according to 
+sub-section ( 9):  
+Provided that where in respect of any company the Commissioner has, in exercise of the powers 
+conferred by the firs t proviso to sub -section ( 4) of section 209A, or the first proviso to                             
+sub-section ( 3A) of section 212, of the Income -tax Act, extended the date for furnishing the estimate 
+referred to in the said sub -section ( 4) or, as the case m ay be, the said sub -section ( 3A) and the company 
+has paid the advance surtax which it is liable to pay under sub -section ( 5) or sub -section ( 6) or, as the case 
+may be, sub -section ( 7) on or before the date on which the last instalment of advance surtax is due in its 
+case, the company shall pay, on or before the date as so extended, the amount by which the advance 
+surtax already paid by It falls short of the advance surtax payable in accordance with its estimate.  
+                                                           
+1. Subs. by Act 4 of 1988, s.187, for “Income -tax Officer” (w.e.f.  1-4-1988).  
+ 8 
+ (9) The company may send a revised estimate of the advance surtax payable by it on or before any 
+one of the dates specified in sub -section ( 4) and adjust any excess or deficiency in respect of any 
+instalment already paid in a subsequent instalment or in subsequent instalments.  
+ (10) Every statement or estimate under this section shall be sent in the prescribed form and verified 
+in the prescribed manner.  
+7B. Interest payable by Government .―The Central Government shall pay simple interest at  
+1[fifteen per cent.] per annum on the amount by which the aggregate sum of any installments of advance 
+tax paid during any financial year in which they are payable under section 7A exceeds the amount of the 
+tax determined on regular assessment, from the 1st day of April next following the said financial year to 
+the date of the regular assessment for the assessment year immediately following the said financial year.  
+7C. Interest payable by assessee .―(1) Wh ere, in any financial year, a company has paid  advance 
+surtax under section 7 A on the basis of its own estimate (including revised estimate), and the advance 
+surtax so paid is less than eight y-three and one -third per cent. of the assessed surtax, simple in terest at the 
+rate of  1[fifteen per cent.] per annum from the 1st day of April next following the said financial year up to 
+the date of the regular assessment shall be payable by the company upon the amount by which the 
+advance surtax so paid falls short o f the assessed surtax.  
+(2) Where, on making the regular assessment, the  2[Assessing Officer] finds ― 
+(a) that any such company as is referred to in clause ( a) of sub -section ( 5) of section 7A has not 
+sent the statement referred to in that clause or the esti mate in lieu of such statement referred to in  
+sub-section ( 6) of that section; or  
+(b) that any such company as is referred to in clause ( b) of sub -section ( 5) of section 7 A has not 
+sent the estimate referred to in that clause.  
+simple interest at the rate of 1[fifteen per cent.] per annum from the 1 st day of April next following the 
+financial year in which the advance surtax was payable in accordance with the s aid sub -section ( 5) or  
+sub-section ( 6) up to the date of the regular assessment shall be payable by the company upon the amount 
+equal to the assessed surtax.  
+(3) Where, on making the regular assessment, the  2[Assessing Officer] finds that any company which 
+is required to send an estimate under sub -section ( 8) of section 7A has not sent the estimate referred to 
+therein, simple interest at the rate of  1[fifteen per cent.] per annum from the 1st day of April next 
+following the financial year in which the advance surtax was payable in accordance with the said  
+sub-section (8) up to the date of the regular assessment shall be payable by the company upon the amount 
+by which the advance surtax paid by it falls short of the assessed surtax.  
+(4) Notwithstanding anything contained in the foregoing sub -sections, where provisio nal assessment 
+is made under section 7 ― 
+(i) interest shall be calculated in accordance with the provisions of sub -section ( 1) or sub -section 
+(2) or, as the case may be, sub -section ( 3) up to the date on which the surtax provisionally assessed is 
+paid; and  
+(ii) thereafter interest shall be calculated at the rate of  1[fifteen per cent.] per annum on the 
+amount by which the surtax provisionally assessed falls shor t of the assessed surtax.  
+(5) In such cases and under such circumstances as may be prescribed, the  2[Assessing Officer] may 
+reduce or waive the interest payable by the company under this section.  
+(6) Where, as a result of an order under section 11, or sect ion 12, or section 13, or section 17, or 
+section 18 read with section 260 or section 262 of the Income -tax Act, the amount on which interest was 
+payable under this section has been reduced, the interest shall be reduced accordingly and the excess 
+interest paid, if any, shall be refunded.  
+                                                           
+1. Subs. by Act 67 of 1984, s.77, for “twelve per cent.” (w. e.f. 1-10-1984).  
+2. Subs. by Act 4 of 1 988, s.187, for “Income -tax Officer” (w.e.f.  1-4-1988).  9 
+ (7) In this section and section 9A, “assessed surtax ” means the surtax determined on the basis of the 
+regular assessment without making any deduction therefrom.  
+7D. Interest payable by assessee in case of underestimate, etc .―Where, on making the regular 
+assessment, the 1[Assessing Officer ] finds that any company has under section 7A underestimated the 
+advance surtax payable by it and thereby reduced the amount payable in either of the first two 
+instalments, he may direct tha t the company shall pay simple interest at 2[fifteen per cent.] per annum for 
+the period during which the payment was deficient, on the difference between the amount paid in each 
+such instalment and the amount which should have been paid, having regard to the aggregate advance 
+surtax actually paid during the year.  
+Explanation .―For the purposes of this section, any instalment due before the expiry of six months 
+from the commencement of the previous year in respect of which it is to be paid shall be deemed to have 
+become due fifteen days after the expiry of the said six months.]   
+8. Profits escaping assessment. ―If―  
+(a) the 1[Assessing Officer ] has reason to believe that by reason of the omission or failure on the 
+part of the assessee to make a return under section 5 for any assessment year or to disclose fully and 
+truly all mater ial facts necessary for his assessment for any assessment year, chargeable profits for 
+that year have escaped asse ssment or have been under -assessed or assessed at too low a rate or have 
+been made the subject of excessive relief under this Act, or  
+(b) not withstanding that there has been no omission or failure as mentioned in clause ( a) on the 
+part of the assessee, the 1[Assessing Officer ] has in consequence of information in his possession 
+reason to believe that chargeable profits assessable for any assess ment year have escaped assessment 
+or have been under -assessed or assessed at too low a rate or have been the subject of excessive relief 
+under this Act,  
+he may, in cases falling under clause ( a) at any time, and in cases falling under clause ( b) at any ti me 
+within four years of the end of that assessment year, serve on the assessee a notice containing all or any of 
+the requirements which may be included in a notice under section 5, and may proceed to assess or re -
+assess the amount charge able to surtax, and  the provisions of this Act shall, so far as may be, apply as if 
+the notice we re a notice issued under that section.  
+9. Penalties .―If the 1[Assessing Officer ], in the course of any proceedings under this Act, is satisfied 
+that any person has, without reaso nable cause, failed to furnish the return required under section 5, or to 
+produce or cause to be produced the accounts, documents or other evidence required by the  1[Assessing 
+Officer ] under sub -section ( 1) of section 6, or has concealed the particulars of  the chargeable profits or 
+has furnished inaccurate particulars of such profits, he may direct that such person shall pay, by way of 
+penalty, in addition to the amount of surt ax payable, a sum not exceeding ―  
+(a) where the person has failed to furnish the return required un der section 5, the amount of 
+3[surtax chargeable u nder the Provisions of this Act] ;  
+(b) in any other case, the amount of surtax which would have been avoided if the return made had 
+been a ccepted as correct:  
+Provided that the  1[Assessing Officer]  shall not impose any penalty under this section without the 
+previous authority of the 4[Deputy Commissioner].  
+                                                           
+1. Subs. by Act 4 of 1988, s.187, for “Income -tax Officer” (w.e.f.  1-4-1988).  
+2. Subs. by Act 67 of 1984, s. 77, for “twelve per cent.” (w.e.f. 1 -10-1984).  
+3. Subs. by  Act 26 of 1974, s. 20, for “surt ax payable” (retrospectively).  
+4. Subs. by Act 4 of 1988, s. 187, for “Inspecting Assistant Commission er” (w.e.f. 1 -4-1988).  10 
+ 1[9A. False estimate of, or failure to pay, advance surtax. ― (1) If 2[Assessing Office r], in the 
+course of any proceedings in connection with the regular assessment for any assessment year, is satisfied 
+that any assessee ―  
+(a) has furnished under clause ( a) of sub -section ( 5) of section 7A a statement of advance surtax 
+payable by him which he knew or had reason to believe to be untrue, or  
+(b) has without reasonable cause failed to furnish a statement of the advance surtax payable by 
+him in accordance with the provisions of clause ( a) of sub -section ( 5) of section 7A,  
+he may direct that such assessee shall, in addition to the amount of surtax, if any, payable by him, pay by 
+way of penalty a sum ― 
+(i) which, in the case referred to in clause ( a), shall not be less than ten per cent. but shall not 
+exceed one and a half times the amount by which the surtax actually paid during the financial year 
+immediately preceding the assessment year under the pr ovisions of section 7A falls short of — 
+(1) eighty -three and one -third per -cent. of the assessed surtax, or  
+(2) the amount which would have been payable by way of advance surtax if the assessee had 
+furnished a correct and complete statement in accordance w ith the provisions of clause ( a) of  
+sub-section ( 5) of section 7A,  
+whichever is less;  
+(ii) which, in the case referred to in clause ( b), shall not be less than ten per cent. but shall not 
+exceed one and a half times of eighty -three and one -third per cen t. of the assessed surtax.  
+(2) If the 2[Assessing Officer ], in the course of any proceedings in connection with the regular 
+assessment for any assessment year, is satisfied that any assessee ― 
+(a) has furnished under clause ( b) of sub -section ( 5) or sub -section ( 6) or sub -section ( 7) or  
+sub-section ( 9) of section 7A, an estimate of the advance surtax payable by him which he knew or had 
+reason to believe to be untrue, or  
+(b) has furnished under sub -section ( 8) of section 7A, an estimate of the advance surt ax payable 
+by him which he knew or had reason to believe to be untrue, or  
+(c) has without reasonable cause failed to furnish an estimate of the advance surtax payable by 
+him in accordance with the provisions of clause ( b) of sub -section ( 5) of section 7A,  or  
+(d) has without reasonable cause failed to furnish an estimate of advance surtax payable by him in 
+accordance with the provisions of sub -section ( 8) of section 7A,  
+he may direct that such assessee shall, in addition to the amount of surtax, if any, p ayable by hi m, pay by 
+way of penalty a sum ― 
+(i) which, in the case referred to in clause ( a), shall not be less than ten per cent. but shall not 
+exceed one and a half times the amount by which the surtax actually paid during the financial year 
+immediately preceding the assessment year under the pr ovisions of section 7A falls short of ― 
+(1) eighty -three and one -third per cent. of the assess ed surtax, or  
+(2) where a statement under clause ( a) of sub -section ( 5) of section 7A was furnished by the 
+assessee, the amount payable under such statement,  
+whic hever is less;  
+(ii) which, in the case referred to in clause ( b), shall not be less than ten per cent. but shall not 
+exceed one and a half times the amount by which the surtax actually paid during the financial year 
+                                                           
+1. Ins. by Act 16 of 1981, s. 37 (w.e.f. 1 -4-1981).  
+2. Subs. by Act 4 of 1988, s. 187 , for “Income -tax Officer” (w.e.f. 1 -4-1988).  11 
+ immediately preceding the assessment ye ar under the provisions of section 7A falls short of  
+eighty -three and one -third per cent. of the assessed surtax;  
+(iii) which, in the case referred to in clause ( c), shall not be less than ten per cent. but shall not 
+exceed one and a half times of eighty -three and one -third per cent. of the assessed surtax; and  
+(iv) which, in the case referred to in clause ( d), shall not be less than ten per cent. but shall not 
+exceed one and a half times the amount of surtax payable in accordance with a statement under clause 
+(a) or an estimate under clause ( b) of sub -section ( 5) of section 7A or an estimate in lieu of a 
+statement under sub -section ( 6) of that section falls short of eighty -three and one -third per cent. of the 
+assessed surtax.  
+Explanation .―Where the 1[Chief Commissioner or Commissioner ] has, in exercise of the powers 
+conferred by the first proviso to sub -section ( 4) of section 209A, or the first proviso to sub -section ( 3A) of 
+section 212, of the Income -tax Act, extended the date for furnish ing the estimate referred to in the said 
+sub-section ( 4) or, as  the case may be, the said sub -section ( 3A ) and the date so extended falls beyond the 
+financial year immediately preceding the assessment year, then, the amount of surtax paid by the assessee 
+on or before the date so extended shall, for the purposes of clause ( ii) of sub -section ( 2) also be regarded 
+as surtax actua lly paid during that financial year.]  
+10.Opportunity of being heard. ― No order imposing a penalty under section 9 2[or section 9A] 
+shall be made unless the assessee has been given a reasonable opportunity of being heard.  
+11. Appeals  to the 3[Commissioner (Appeals)] .― (1) Any person objecting to the amount of surtax 
+for whi ch he is liable as assessed by the  4[Assessing Officer ] or denying his liability to be assessed under 
+this Act, or objecting to any penalty or fine imposed by the 4[Assessing Officer ], 5[or objecting to the 
+interest levied by the 4[Assessing Officer ] under  section 7D] or to the amount allowed by the 4[Assessing 
+Officer ] by way of any relief under any provisions of this Act, or to any refusal by the 4[Assessing 
+Officer ] to grant relief or to an order of rectification or amendment having the effect of enhanci ng the 
+assessment or reducing the refund, or to an order refusing to allow the claim made by the assessee for a 
+rectification under section 13 or amendment under section 14 may appeal to the 3[Commissioner  
+(Appeals) ]. 
+(2) Every appeal shall be in the presc ribed form and shall be verified in the prescribed manner.  
+(3) An appeal shall be presented within thirty days of the following date, that is to say ― 
+ (a) where the appeal relates to assessment or penalty or fine, the date of service of the notice of 
+demand relating to the assessment or penalty or fine, or  
+ (b) in any other case, the date on which the intimation of the order sought to be appealed agai nst 
+is served:  
+Provided that the 3[Commissioners ( Appeals )] may admit an appeal after the expiration of the said 
+period if he is satisfied that the appellant had sufficient cause for not presenting it within that period.  
+(4) The 3[Commissioner (Appeals)]  shall hear and determine the appeal and, subject to the provisions 
+of this Act, pass such orders as he thinks fit and such orders may include an order enhancing the 
+assessment or penalty:  
+Provided that an order enhancing the assessment or penalty shall n ot be made unless the person 
+affected thereby has been given a reasonable opportunity of showing cause against such enhancement.  
+(5) The procedure to be adopted in the hearing and determination of the appeals shall, with any 
+necessary modification, be in accordance with the procedure applicable in relation to income -tax.  
+                                                           
+1. Subs. by Act 4 of 1988, s. 187, for “Commissioner” (w.e.f. 1 -4-1988).  
+2. Ins. by Act 16 of 1981, s. 38 (w.e.f. 1 -4-1981).  
+3. Subs. by Act 29 of 1977, s. 39 and the Fifth Sch., for “Appellate Assistant Commissioner” (w.e.f. 10 -7-1978).  
+4. Subs. by Act 4 of 1988, s. 187, for “Income -tax Officer” (w.e.f. 1 -4-1988).  
+5. Ins. by Act 16 of 1981, s. 39  (w.e.f. 1 -4-1981).  12 
+  1[11A. Transfer of certain pending appeals .― Every appeal under this Act which is pending 
+immediately before the appointed day before an Appellate Assistant commissioner  or a Commissioner 
+and any matter arising out of or connected with such appeal and which is so pending shall stand 
+transferred on that day to the Commissioner  (Appeals) and the Commissioner (Appeals) may proceed 
+with such appeal or matter from, the stage at which it was on that day:  
+Provided that the appellant may demand that before proceeding further with the appeal or matter the 
+previous proceeding or any part thereof be reopened or that he be re -heard .  
+Explanation .―In this section, “appointed day ” means the date appointed under section 39 of the 
+Finance (No. 2) Act, 1977.]  
+12. Appeals to Appellate Tribunal .― (1) Any assessee aggrieved by an order passed by a  2[Chief 
+Commissioner or Commissioner] under section 16, or  an order passed by  3[Commissioner (Appeals)] 
+under any provision of this Act, may appeal to the Appellate Tribunal against such order.  
+(2) The  2[Chief Commissioner or Commissioner] may, if he objects to any order passed by the  
+3[Commissioner (Appeals)] un der any provision of this Act, direct the  4[Assessing officer] to appeal to the 
+Appellate Tribunal against the order.  
+(3) Every appeal under sub -section ( 1) or sub -section ( 2) shall be filed within sixty days of the date 
+on which the order sought to be app ealed against is communicated to the assessee or to the  2[Chief 
+Commissioner or Commissioner], as the case may be.  
+(4) The  4[Assessing Officer] or the assessee, as the case may be, on receipt of notice that an appeal 
+against the order of the  3[Commissioner  (Appeal s)] has been preferred under sub -section ( 1) or  
+sub-section ( 2) by the other party may, notwithstanding that he may not have appealed against such order 
+or any part thereof, within thirty days of the receipt of the notice, file a memorandum of cro ss-objections, 
+verified in the prescribed manner, against any part of the order of the  3[Commissioner (Appeals)] and 
+such memorandum shall be disposed of by the Appellate Tribunal as if it were an appeal presented within 
+the time specified in sub -section ( 3). 
+(5) The Appellate Tribunal may admit an appeal or permit the filing of a memorandum of cross -
+objections after the expiry of the relevant period referred to in sub -section ( 3) or sub -section ( 4), if it is 
+satisfied that there was sufficient cause for n ot presenting it within that period.  
+(6) An appeal to the Appellate Tribunal shall be in the prescribed form and shall be verified in the 
+prescribed manner and shall, except in the case of an appeal referred to in sub -section ( 2) or a 
+memorandum of cross -objections referred to in sub -section ( 4), be accompanied by 5[a fee of  6[two 
+hundred rupees] ]. 
+(7) Subject to the provisions of this Act, in hearing and making an order on any appeal under this 
+section, the Appellate Tribunal shall exercise the same powers  and follow the same procedure as it 
+exercises and follows in hearing and making an order on any  appeal under the Income -tax Act.  
+13. Rectification of mistakes .― (1) With a view to rectifying any mistake apparent from the record, 
+the 2[Chief Commissioner o r Commissioner], the  4[Assessing Officer], the  3[Commissioner (Appeals)] 
+and the Appellate Tribunal may, of his, or its , own motion or on an application by the assessee in this 
+behalf, amend any order passed by him or it in any proceeding under this Act  7[within four years from the 
+end of the financial year in which such order was passed].  
+(2) An amendment which has the effect of enhancing the assessment or reducing a refund or 
+otherwise increasing the liability of the assessee shall not be made under this section unless the authority 
+                                                           
+1. Ins. by  Act 29 of 1977, s. 39 and the Fifth Sch. (w.e.f. 10 -7-1978).  
+2. Subs. by Act 4 of 1988, s. 187, for “Commission er” (w.e.f. 1 -4-1988) . 
+3. Subs. by Act 29 of 1977, s. 39 and the Fifth Sch. for “Appellate Assistant Commissioner” (w.e.f. 10 -7-1978).  
+4. Subs. By Act 4 of 1988, s. 187, for “Income -tax Officer” (w.e.f. 1 -4-1988).  
+5. Subs. by Act 42 of 1970, s. 72, for “a fee of one hundred ru pees” (w.e.f. 1 -4-1971).  
+6. Subs. by Act 16 of 1981, s. 40, for certain words (w.e.f. 1 -6-1981).  
+7. Subs. By Act 67 of 1984, s. 78, for “within four years of the date on which such order was passed” (w.e.f. 1 -10-1984).  13 
+ concerned has given notice to the assessee of its intention so to do and has allowed the assessee a 
+reasonable opportunity of being heard.  
+(3) Where an amendment is made under this section, the order shall be passed in writing by the 
+authority concerned.  
+(4) Subject to the other provisions of this Act, where any such amendment has the effect of reducing 
+the assessment, the  1[Assessing Officer] shall make any refund which may be due to such assessee.  
+(5) Where any such amendment has the effect of enhancing the assessment or reducing the refund 
+already made, the  1[Assessing Officer] shall serve on the assessee a notice of demand in the prescribed 
+form specifying the sum payable.  
+14. Other amendments.―  Where as a result of any order  made under  2[sections 154, 155, 250, 254, 
+260, 262, 263 or 264] of the Income -tax Act, it is necessary to recompute the chargeable profits 
+determined in ay assessment under this Act, the  1[Assessing Officer] may proceed to recompute the 
+chargeable profits , and determine the surtax payable or refundable on the basis of such recomputation and 
+make the necessary amendment and the provisions of section 13 shall, so far as may be, apply thereto, the 
+period of four years specified in sub -section ( 1) of that sect ion being reckoned  3[from the end of the 
+financial year in which the order under the aforesaid sections o f the Income -tax Act was passed ]. 
+15. Surtax deductible in computing distributable income under Income -tax Act .― 
+Notwithstanding anything contained in clause ( i) of section 109 of the Income -tax Act, in computing the 
+distributable income of a compan y for the purpose of Chapter XI D of that Act, the surtax payable by the 
+company for any assessment year shall be deductible from the  total income of the compa ny assessable for 
+that assessment year.  
+16. Revision of orders prejudicial to revenue .―(1) The  4[Chief Commissioner or Commissioner] 
+may call for and examine the record of any proceeding under this Act, and if he considers that any order 
+passed therein by the  1[Assessing Officer] is erroneous in so far as it is prejudicial to the interest s of the 
+revenue, he may, after giving the assessee an opportunity of being heard and after making or causing to be 
+made such inquiry as he deems necessary, pass such order thereon as the circumstances of the case 
+justify, including an order enhancing or m odifying the assessment, or cancelling the assessment and 
+directing a fresh assessment.  
+5[Explanation .―For the removal of doubts, it is hereby declared that, for the purposes of this  
+sub-section, an order passed by the  1[Assessing Officer] shall include an order passed by the  6[Deputy 
+Commissioner] in exercise of the powers or in performance of the functi ons of an  1[Assessing Officer] 
+conferred on, or assigned to, him under clause ( a) of sub -section ( 1) of section 125 or under  
+sub-section ( 1) of section 125A of the Income -tax Act as applied by section 18 of this Act.]  
+ 7[(2) No order shall be made under s ub-section ( 1) after the expiry of two years from the end of the 
+financial year in which the order s ought to be revised was passed.]  
+(3)Notwithstanding anything contained in sub -section ( 2), an order in revision under this section may 
+be passed at any time  in the case of an order which has been passed in consequence of, or to give effect 
+to, any finding or direction contained in an order of the Appellate Tribunal, the High Court or the 
+Supreme Court.  
+                                                           
+1. Subs. by Act 4 of 1988, s. 187, for “Income -tax Officer” (w.e.f. 1 -4-1988).  
+2. Subs. by Act 42 of 1970, s. 73, for “section 154 or section 155”  (w.e.f. 1 -4-1971).  
+3. Subs. by Act 67 of 1984, s. 79, for “from the date of the order passed under the aforesaid sections of the Income -tax Act”  
+(w.e.f. 1 -10-1984).  
+4. Subs. by Act 4 of 1988, s. 187, for “ Commission er” (w.e.f. 1 -4-1988).  
+5. Ins. by Act 67 of 1984, s. 80 (w.e.f. 1 -10-1984).  
+6. Subs. by Act 4 of 1988, s. 187, for “Inspecting Assistant Commissioner” (w.e.f. 1 -4-1988).  
+7. Subs. by Act 6 7 of 1984, s. 80, for sub -section ( 2) (w.e.f. 1 -10-1984).  14 
+ Explanation .―In computing the period of limitation for th e purpose of sub -section ( 2), any period 
+during which any proceeding under this section is stayed by an order or injunction of any court shall be 
+excluded.  
+17. Revision of orders by  1[Chief Commissioner or Commissioner ].― (1) The  1[Chief 
+Commissioner or Co mmissioner] may, either of his own motion or on an application by the assessee for 
+revision, call for the record of any proceeding under this Act which has been taken by an  2[Assessing 
+Officer]  3* * *  subordinate to him and may make such inquiry or cause such inquiry to be made and 
+subject to the provisions of this Act, may pass such order thereon, not being an order prejudicial to the 
+assessee, as he thinks fit.  
+(2) The  1[Chief Commissioner or Commissioner] shall not of his own motion revise any order und er 
+this section if the order has been made more than one year previously.  
+(3) In the case of an application for revision under this section by the assessee, the application shall be 
+made within one year from the date on which the order in question was comm unicated to him or the date 
+on which he otherwise came to know of it, whichever is earlier:  
+Provided that the  1[Chief Commissioner or Commissioner] may, if he is satisfied that the assessee 
+was prevented by sufficient cause from making the application with in that period, admit an application 
+made after the expiry of that period.  
+(4) The  1[Chief Commissioner or Commissioner] shall not revise any order under this  section in the 
+following cases―  
+4[(a) where an appeal against the order lies to the Commissioner (Appeals) but has not been made 
+and the time within which such appeal may be made has not expired, or the assessee has not  waived 
+his right of appeal; or  
+(b) where the order has been mad e the subject of an appeal to the Commissioner (Appeals).]  
+(5) Every a pplication by an assessee for revision under this section shall be accompanied by a fee of 
+twenty -five rupees.  
+Explanation 1 .― An order by the  1[Chief Commissioner or Commissioner] declining to interfere 
+shall, for the purposes of this section, be deemed not to be an order prejudicial to the assessee.  
+5*    *    *    *    * 
+18. Application of provisions of Income -tax Act .― The p rovisions of the following sections and 
+Schedules of the Income -tax Act and the Income -tax (Certificate Proceedings) Rules, 1962, as in force 
+from time to time, shall apply with such modifications, if any, as may be prescribed, as if the said 
+provisions an d the rules referred to surtax instead of to Income -tax  6***:― 
+ 7[2(44)],  8[ 9[116, 117, 118, 119, 120, 129], 131, 132, 132A,  10[132B],133 to 136 (both inclusive)], 
+138, 140, 156, 160, 161, 162, 163, 166, 167, 170,173, 175, 176, 178, 179,  11[218 to 229] (both inclusive), 
+231, 232,  233, 237 to 242 (both inclusive) 244,  245, 254 to 262 (both inclusive) 265, 266,  268, 269, 
+281, 10[281B], 282, 284,  8[287, 288, 288A, 288B,  289 to 293 (both inclusive),] the Second Schedule and 
+the Third Schedule:  
+                                                           
+1. Subs. by Act 4 of 1988, s. 187, for “Commissioner” (w.e.f 1 -4-1988).  
+2. Subs. by s. 187, ibid.,  for “Income -tax Officer” (w.e.f. 1 -4-1988).  
+3. The words “or  Appellate Assistant Commissioner”  omitted by Act 29 of 1977, s. 39 and the Fifth Sch. (w.e.f. 10 -7-1978).  
+4. Subs. by s. 39 and the Fifth Sch., ibid., for clauses ( a), (b) and ( c) (w.e.f. 10 -7-1978).  
+5. Explanation  2 omitted by s. 39 and the Fifth Sch. (w.e.f. 10 -7-1978).  
+6. The words “and sup er-tax” omitted by Act 10 of 1965, s. 74 (w.e.f. 1 -4-1965).  
+7. Subs. by Act 4 of 1988, s. 189, for “2(43B) and 44” (w.e.f. 1 -4-1989).  
+8. Subs. by Act 20 of 1967, s. 36, for “131 to 136 (both inclusive)”  (w.e.f. 1 -4-1967).  
+9. Subs. by Act 4 of 1988, s. 189,  for “118, 125, 125A, 129, 130, 130A” (w.e.f. 1 -4-1988).  
+10. Ins. by  Act 41 of 1975, s. 124 (w.e.f. 1 -10-1975).  
+11. Subs. by Act 16 of 1981, s. 41, for “220 to 229” (w.e.f. 1 -4-1981).  15 
+ Provided that references in the said provisions and the rules to the “assessee ” shall be construed as 
+references to an assessee as defined in this Act.  
+19. Income -tax papers to be available for the purposes of this Act .― (1) Notwithstanding 
+anything contained in the Income -tax Act, all information contained in any statement or return made or 
+furnished under the provisions of that Act or obtained or collected for the purposes of that Act may be 
+used for the purposes of t his Act.  
+(2) All information contained in any statement or return made or furnished under the provision s of 
+this Act or obtained or collected for the purposes of this Act may be used for the purposes of the  
+Income -tax Act.  
+20. Failure to deliver returns, etc.― If any person fails without reasonable cause to furnish in due 
+time any return under sub -section ( 2) of section 5, or to produce, or cause to be produced, any accounts or 
+documents required to be produced under section 6, he shall be punishable with fine  which may extend to 
+five hundred rupees, and with a further fine which may extend to ten rupees for every day during which 
+the default continues.  
+21. False statement .― If a person makes in any return furnished under section 5, any statement 
+which is false , and which he either knows or believes to be false, or does not believe to be true , he shall 
+be punishable with simple imprisonment which may extend to six months, or with fine which may extend 
+to one thousand rupees, or with both.   
+22. Abetment of false returns,  etc.― If a person makes or induces in any manner another person to 
+make and deliver any account, statement or declaration relating to chargeable profits liable to surtax 
+which is false and which he either knows to be false or does not believe to be true, he s hall be punishable 
+with simple imprisonment which may extend to six months, or with fine which may extend to one 
+thousand rupees, or with both.  
+23. Institution of proceedings and composition of offences ―(1) A person shall not be proceeded 
+against for an of fence under section 20 or section 21 or section 22 or under the Indian Penal Co de  
+(45 of 1860)  except at the instance of the 1[Chief Commissioner or Commissioner .] 
+(2) The  1[Chief Commissioner or Commissioner] may, either before or after the institution o f 
+proceedings, compound any offence punishable under section 20 or section 21 or section 22.  
+24. Power to make exemption, etc., in relation to certain Union territories .―If the Central 
+Government considers it necessary or expedient so to do for avoiding any hardship or anomaly or 
+removing any difficulty that may arise as a result of the application of this Act to the Union territories of 
+Dadra and Nagar Haveli, Goa, Dama n and Diu and Pondicherry, the Central Government may, by general 
+or special order, make an exemption, reduction in rate or other modification in respect of surtax in favour 
+of any class of assessees or in regard to the whole or any part of the chargeable profits of any class of 
+assessees.  
+2[24A. Agreeement with foreign countries .― The Central Government may enter into an agreement 
+with the Government of any country outside India ― 
+(a) for the granting of relief in respect of chargeable profits on which have been paid both surtax 
+under this Act and tax of a similar character or inco me-tax on such profits in that country, or  
+(b) for the avoidance of double taxation of chargeable profits under this Act and under any law 
+relating to the taxation of income or profits in force in that country, or  
+(c) for exchange of information for the pr evention of evasion or avoidance of surtax chargeable 
+under this Act or the tax chargeable under the corresponding law in force in that country or 
+investigation of cases of such evasion or avoidance, or  
+                                                           
+1. Subs. by Act 4 of 1988, s. 187, for “Commissione r” (w.e.f. 1 -4-1988).  
+2. Subs. by Act 16 of 1972, s. 57, for section 24A (w.e.f. 1 -4-1972).  16 
+ (d) for recovery of tax under this Act and under any law relating to the taxation of income or 
+profits in force in that country,  
+and may, by notification in the Official Ga zette, make such provision as may be necessary for 
+implementing the agreement.]  
+ 1[24AA. Power to make exemption, etc. , in relation to pa rticipation in the business of 
+prospecting for extraction, etc., of mineral oils .―(1) If the Central Government is satisfied that it is 
+necessary or expedient so to do in the public interest, it may, by notification in the Official Gazette, make 
+an exemption, reduction in rate or other modification in respect of surtax in favour of an y class of foreign 
+companies specified in sub -section ( 2) or in regard to the whole or any part of the chargeable profits of 
+such class of companies.  
+Explanation .―For the purposes of this sub -section, “foreign company ” shall have the meaning 
+assigned to it  in clause ( 4) of section 80 B of the Income -tax Act.  
+(2)The foreign companies referred to in sub -section ( 1) are the following, namely: ― 
+(a) foreign companies with whom the Central Government has entered into agreement for the 
+association or participation of that Government or any person authorised by that Government in any 
+business consisting of the prospecting for or extraction or production of mineral oils; and  
+(b) foreign companies providing any services or facilities or supplying any ship, aircraft, 
+machinery or plant (whether by way of sale or hire) in connection with any business consisting of the 
+prospecting for or extraction or production of mineral oils carried on by that Government or any 
+person specified by that Government in this behalf by notif ication in the official Gazette.  
+(3) Every notification issued under this section shall be laid before each House of Parliament.  
+Explanation .―For the purpose of this section, “mineral oil ” includes petroleum and natural gas.]  
+25. Power to make rules .―(1) The Board may, subject to the control of the Central Government, by 
+notification in the official Gazette, make rules for carrying out the purposes of this Act.  
+(2) In particular, and without prejudice to the generality of the foregoing power, such rules may  
+provide for all or any o f the following matters, namely :― 
+(a) the form in which returns under section 5 may be furnished and the manner in which they may 
+be verified.  
+(b) the form in which notice for making provisional assessment shall be given;  
+(c) the form in which appeals under section 11 or section 12 may b e filed and the manner in 
+which they shall be verified;  
+ 2[(cc) the circumstances in which, the conditions subject to which and the manner in which, the  
+3[Commissioner (Appeals)] may permit an appellant to produce evidence which he did not produce or 
+which  he was not allowed to produce before the  4[Assessing Officer] ]; 
+(d) the procedure to be followed on applications for rectification of mistakes and applications for 
+refunds;  
+5[(dd) the procedure to be followed in calculating interest payable by assessees o r interest payable 
+by the Government to assessees under this Act including the rounding off of the period for which 
+such interest is to be calculated in cases where such period includes a fraction of a month, and 
+specifying the circumstances in which and t he extent to which petty amounts of interest payable by 
+assessees may be ignored;]  
+                                                           
+1. Ins. by Act 16 of 1981, s. 42 (w.e.f. 1 -4-1981).  
+2. Ins. by Act 16 of 1972, s. 58 (w.e.f. 1 -4-1972).  
+3. Subs. by Act 29 of 1977, s. 39 and Fifth Sch., for “Appellate  Assistant Commis sioner” (w.e.f. 1 -4-1977 ). 
+4. Subs. by Act 4 of 1988, s. 187, for “Income -tax Officer” (w.e.f. 1 -4-1988).  
+5. Ins. by Act 42 of 197 0, s. 74 (w.e.f. 1 -4-1971 ). 17 
+ (e) any other matter by this Act is to be, or may be, prescribed.  
+1[(2A) The power to make rules conferred by this section shall include the power to give retrospective 
+effect, from a date not earlier than the date of commencement of this Act, to the rules or any of them and, 
+unless the contrary is permitted (whether expressly or by necessary implication), no retrospective effect 
+shall be given to any rule so as to prejudicia lly affect the interests of assessees.]  
+(3) The Central Government shall cause every rule made under this section to be laid as soon as may 
+be after it is made before each House of Parliament while it is in session for a total period of thirty days, 
+which may be comprised in one session  2[or in tw o or more successive sessions ], and if, before the expiry 
+of the session  3[immediately following the session or th e successive sessions aforesaid ], both Houses 
+agree in making any modification in the rule or both H ouses agree that the rule should not be made, that 
+rule shall thereafter have effect only in such modified form or be of no effect, as the case may be; so 
+however , that any such modification or annulment shall be without prejudice to the validity of anythi ng 
+previously done under that rule.  
+26. Saving .― Nothing contained in this Act shall apply to any company which has no share capital.  
+_________  
+THE FIRST SCHEDULE  
+[See Section 2( 5)] 
+RULES FOR COMPUTING THE CHARGEABLE PROFITS  
+In computing the chargeable pro fits of a previous year, the total income computed for that year under 
+the Income -tax Act shall be adjusted as follows: ― 
+1. Income, profits and gains and other sums falling within the following clauses shall be excluded 
+from such total income, namely: ― 
+(i) any income chargeable under the Income -tax Act under the head “Capital gains ”; 
+(ii) any compensation or other payment as is referred to in clause ( ii) of section 28 of the  
+Income -tax Act;  
+(iii) profits and gains of any business of life insurance;  
+(iv) any income referred to in sub -section ( 2) of section 41 of the Income -tax Act;  
+4*    *     *    *    *; 
+(vi) income chargeable under the Income -tax Act under the head “Interest on securities ” derived 
+from any security of the Central Government issued or decl ared to be income -tax free or from any 
+security of a State Government issued income -tax free, the income -tax whereon is payable by the 
+State Government;  
+5[(vii) an amount equal to fifty per cent.  of the sum with reference to which a deduction is 
+allowable to the company under the provision s of section 80G of the Income -tax Act;]  
+(viii) income by way of dividends from an Indian company or a company which has made the 
+prescribed arrangements for the declaration and payment of dividends within India;  
+(ix) inco me by way of royalties received from Government or a local authority or any Indian 
+concern;  
+(x) in the case of a non -resident company which has not made the prescribed arrangements for the 
+declaration and payment of dividends within India, its income by wa y of any interest or fees for 
+rendering technical services received from Government or a local authority or any Indian concern;  
+                                                           
+1. Ins. by Act 26 of 1974, s. 21 (w.e.f. 18 -8-1974 ). 
+2. Subs. by Act 41 of 1975, s. 125, for “or in two successive sessions”  (w.e.f. 1 -4-1976).  
+3. Subs. by s. 125, ibid.,  for “in which it is so laid or the session immediately following” (w.e.f. 1 -4-1976).  
+4. Clause ( v) omitted by Act 20 of 1967, s. 36 (w.e.f. 1 -4-1968).  
+5. Subs. by s. 36, ibid., for clause ( vii) (w.e.f. 1 -4-1968).  18 
+ (xi) in the case of a banking company ― 
+(a) any sum which during the previous year is transfe rred by it to a reserve fund under  
+sub-section ( 1) of section 17 of the Banking Regulation  Act, 1949  (10 of 1949) or is deposited by 
+it with the Reserve Bank of India under sub -clause ( ii) of clause ( b) of sub -section ( 2) of section 
+11 of that Act, not exceeding the amount required under the aforesaid provisions to be so 
+transferred or deposited, as the case may be, or  
+(b) any sum transferred by it during the previous year to any reserves in India inclu ding 
+reserves not shown a s such in its published balance -sheet in so far as the sums transferred to such 
+reserves are attributable to income chargeable to tax under the Income -tax Act and have not been 
+allowed as a deduction in computing its total income u nder that Act and in so far as the aggregate 
+of such sums does not exceed the highest of the aggregate of such su ms, if any, so transferred 
+during any one of the three years prior to the previous year,  
+whichever is higher;  
+(xii) the amount of any deductio n from the income -tax 1* * * chargeable on the total income 
+allowed under the annual Finance Act in connection with export of any goods or merchandise out of 
+India or the sale by a manufacturer of any articles to any person who exports them out of India.  
+ 2[Explanation .―Notwithstanding any thing contained in any clause of this rule, the amount of any 
+income or profits and gains which is required to be excluded from the total income under that clause shall 
+be only the amount of such income or profits and gain s as computed in accordance with the provisions of 
+the Income -tax Act (except Chapter VIA thereof), and in a case where any deduction is required to be 
+allowed in respect of any such income or profits and gains under the said Chapter VIA, the amount of 
+such income or profits and gains computed as aforesaid as reduced by the amount of such deduction.]  
+2. The balance of the total income arrived at after making the exclusions mentioned in rule 1 shall be 
+reduced by ― 
+(i) the amount of income -tax 1*** payable by the company in respect of its total income under the 
+provisions of the Income -tax Act after making allowance for any relief, rebate or deduction in respect 
+of income -tax 1*** to which the company may be entitl ed under the provisions of the said Act or the 
+annual Finance Act, and after excluding from such amount ― 
+(a) the amount of income -tax 1***  if any, payable by the company in respect of any income 
+referred to in clause ( i) or clause ( ii) or clause ( iii) or clause ( viii) of rule,1 included in the total 
+income;  
+3[(b) the amount of income -tax, if any, payable by the company under the provisions of the 
+annual Finance Act with reference to the relevant amount of distributions of dividends by it.  
+Explanation .―In this sub -clause, the expression “the relevant amount of distri butions of 
+dividends ” has the meaning assigned to it in the F inance Act of the relevant year; ] 
+4[(c) the amount of income -tax, if any, payable by the company under section 104 of the 
+Income -tax Act. 
+Explanation .― In relation to the assessment year commencing on the 1st day of April, 1964, 
+the reference in this sub -clause to “income -tax” shall be construed as a reference to “super -tax”;] 
+(ii) in the case of a company which has been charged to tax in a country outs ide India on any 
+portion of its income, profits and gains included in its total income as computed under the Income -tax 
+Act, the tax actually paid in respect of such income, profits and gains in the said country in 
+accordance with the laws in force in that  country after allowance of every relief due under the said 
+laws:  
+                                                           
+1. The words “and super -tax” omitted by Act 10 of 1965, s. 74 (w.e.f. 1 -4-1965).  
+2. Ins. by Act 16 of 1981, s. 43 (w.e.f. 1 -4-1981).  
+3. Subs. by Act 13 of 1966, s. 43, for sub -clause ( b) (w.e.f. 1 -4-1966).  
+4. Ins. by s. 43, ibid. (retrospectively ). 19 
+ Provided that the aforesaid reduction shall not be allowed unless the assessee produces evidence of 
+the fact of the payment of the aforesaid tax in that country.  
+3. The net amount of income calculated in accordance with rule 2 shall be increased  1[by the amount 
+of any expenditure] incurred on account of commission, entertainment and advertisement, to the extent 
+such expenditure, in the opinion of the  2[Assessing Officer] is excessive having r egard to the 
+circumstances of the case:  
+Provided that the previous authority of the  3[Deputy Commissioner] is obtained for holding such 
+expenditure to be excessive.  
+THE SECOND SCHEDULE  
+[See Section 2 ( 8)] 
+RULES FOR COMPUTING THE CAPITAL OF A COMPANY FOR TH E PURPOSES OF SURTAX  
+1. Subject to the other provisions contained in this Schedule, the capital of a company shall be the 
+aggregate of the amounts, as on the first day of the previous year relevant to the assessment year, of ― 
+(i) its paid -up share capital;  
+(ii) its reserves, if any created under the proviso ( b) to clause ( vib) of sub -section ( 2) of section 10 
+of the Indian Income -tax Act, 1922  (11 of 1922)  or under  4[sub-section ( 4) of section 32A, or sub -
+section ( 3) of section 34], of the Income -tax Act, 1 961 (43 of 1961) ; 
+(iii) its other reserves as reduced by the amounts credited to such reserves as have been allowed 
+as a deduction in computing the income of the company for the purposes of the Indian Income -tax 
+Act, 1922  (11 of 1922)  or the Income -tax Act , 1961 (43 of 1961) ; 
+5*     *     *   *  * 
+6[lA. Where a company has not made any credit in any account in its books as on the first day of the 
+previous year relevant to the assessment year which is of the nature of item (8) or item (9) under the 
+heading “CURRENT LIABILITIES AND PROVISIONS ” in the column relating to “LIABILITIES ” in 
+the “FORM OF BALANCE -SHEET ”, given in part I of Schedule VI to the Companies Act, 1956  (1 of 
+1956) , or where the 2[Assessing Officer ] is of opinion that the amount credited in s uch account falls short 
+of the amount which should have reasonably been credited by it, the amount of its capital as computed 
+under rule 1 shall be reduced by the amount which has not been so credited or, as the case may be, the 
+amount of such shortfall.  
+Explanation .― For the purposes of this rule, the amount of credit which should have reasonably been 
+made by a company in relation to any account of the nature of item (9) aforesaid, means the amount of 
+dividend declared or paid by the company, on or after the first da y of the previous year relevant to the 
+assessment year, for the previous year immediately preceding the first mentioned previous year.]  
+2. Where a company owns any assets the income from which in accordance with clause ( iii) or clause 
+(vi) or clause ( viii) of rule 1 of the First Schedule is required to be excluded from its total income in 
+computing its chargeable profits, the amount of its capital as computed under rule 1 of this Schedule shall 
+be diminished by the cost to it of the said assets as on the fi rst day of the previous year relevant to the 
+assessment year in so far as such cost exceeds the aggregate of ― 
+                                                           
+1. Subs. by Act 66 of 1976, s. 29, for “(ii) any expendi ture”  (w.e.f. 1 -4-1977).  
+2. Subs. by Act 4 of 1988, s. 187, for “Income -tax Officer” (w.e.f. 1 -4-1988).  
+3. Subs. by s. 187, ibid., for “Inspecting Assistant Commissioner” (w.e.f . 1-4-1988).  
+4. Subs. by Act 66 of 1976, s. 29, for “sub -section ( 3) of section 34” (w.e.f. 1 -4-1977).  
+5. Sub -clauses ( iv) and ( v) omitted by s. 29, ibid. (w.e.f. 1 -4-1977).  
+6. Ins. by s. 29, ibid. (w.e.f. 1 -4-1975).  20 
+ (i) any moneys borrowed  1*** and remaining outstanding as on the first day of the said previous 
+year; and  
+(ii) the amount of any fund, any surplu s and any such reserve as is not to be taken into account in 
+computing the capital under rule 1.  
+Explanation  1.― A paid -up share capital or reserve brought into existence by creating or increasing 
+(by revaluation or otherwise) any book asset is not capital  for computing the capital of a compa ny for the 
+purposes of this Act.  
+Explanation  2.―Any premium received in cash by the company on the issue of its shares standing to 
+the credit of the share premium account shall be regarded as forming part of its paid -up share capital.  
+Explanation  3.―Where a company has different previous years in respect of its income, profits and 
+gains, the computation of capital under rules 1, 2 and 3 shall be made with reference to the previous year 
+which commenced first.  
+3. Where aft er the first day of the previous year relevant to the assessment year the capital of a 
+company as computed in accordance with the foregoing rules of this Schedule is increased by any amount 
+during that previous year on account of increase of paid -up share capital  2[or is reduced by any amount on 
+account of reduction of paid -up share capital,]  or repayment of any such moneys, such capital shall be 
+increased or reduced, as the case may be, by a sum which bears to that amount the same proportion as the 
+number  of days of the previous year during which the increase or the reduction remained effective bears 
+to the total number of days in that previous year.  
+4. Where a part of the income, profits and gains of a company is not includible in its total income as  
+comp uted under the Income -tax Act, its capital shall be the sum ascertained in accordance with rules 1, 2 
+and 3, diminished by an amount which bears to that sum the same proportion as the amount of the 
+aforesaid income, profits and gains bears to the total amo unt of its income, profits and gains.  
+ 
+ 3[THE THIRD SCHEDULE  
+(See Section 4)  
+RATES OF SURTAX  
+Surtax shall be charged on the amount (hereinafter referred to as the chargeable amount) by which the 
+chargeable profits exceed the amount of the statutory deducti on at the following rates, namely: ― 
+ 
+(i) on so much of the chargeable amount a s does not exceed five 
+per cent.  of the amount of capital as computed in accordance with the 
+Second Schedule                25 per cent.  
+(ii) on the balance, if any, of the chargeable amount             4[40 per c ent.] 
+ 
+5[Provided that where in the case of an Indian company or a company which has made the prescribed 
+arrangements for the declaration and payment of dividends within India ― 
+(i) which is such a company as is referred to in section 108 of the Income -tax Act, and  
+                                                           
+1. The words, brackets and figures “oth er than the debentures referred to in clause ( iv) or moneys referred to in clause ( iv) of  
+rule 1” omitted by Act 66 of 1976, s. 29 (w.e.f. 1 -4-1977).  
+2. Subs. by s. 29, ibid., for certain words , brackets and figures  (w.e.f. 1 -4-1977).  
+3. Subs. by Act 32 o f 1971, s. 38, for “The Third Schedule” (w.e.f. 1 -4-1972).  
+4. Subs. by Act 20 of 1974, s. 15, for “30 per cent.” (w.e.f. 1 -4-1975).  
+5. Ins. by s. 15, ibid. (w.e.f. 1 -4-1975).  21 
+ (ii) whose paid -up share capital (subscribed and paid for in cash) as on the last day of the 
+previous year, is not  less than twenty -five per cent.  of the amount of the capital as computed under 
+the Second Schedule to this Act,  
+the aggregate of ― 
+(a) the amount of income -tax-payable by the company in respect of its total income of the 
+previous year under the provisions of the Income -tax Act after making allowance for any relief, 
+rebate or deduction in respect of income -tax to which the company is  entitled under the provisions of 
+the said Act or the annual Finance Act; and  
+(b) the amount of surtax computed in accordance with the foregoing provisions of this Schedule,  
+exceeds the amount calculated at seventy per cent . of the total income of the comp any, the amount of such 
+excess shall be deducted from the amount of surtax referred to in clause ( b) above and the balance shall 
+be the amount of the surtax payable by the company.]  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+--------------------------The Dakshina Bharat Hindi Prachar Sabha Act, 1964--------------------------
+1 THE DAKSHINA BHARAT HINDI PRACHAR SABHA ACT, 1964  
+____________  
+ARRANGEMENT OF SECTIONS  
+_______ __ 
+SECTIONS   
+1. Short title and commencement.  
+2. Definitions.  
+3. Declaration of the Dakshina Bharat Hindi Prachar Sabha  as an institution of national importance.  
+4. Grant of degrees, diplomas and certificates by the Sabha.  
+5. Accounts and Audit.  
+6. Prior approval of the Central Government necessary for certain action by the Sabha . 
+7. Review of work done, etc.  
+ 
+  2 THE DAKSHINA BHARAT HINDI PRACHAR SABHA ACT, 1964  
+ACT NO. 14 OF 1964  
+[12th May , 1964 . ] 
+An Act to declare the institution known as the Dakshina Bharat Hindi Prachar Sabha, having at 
+present its registered office at Madras, to be an institution of national importance and to 
+provide for certain matters connected therewith . 
+BE it enacted by Parliament in the Fifteenth year of t he Republic of India as follows :— 
+1. Short title and commencement .—(1) This Act may be called the Dakshina Bharat Hindi Prachar 
+Sabha Act, 196 4. 
+(2) It shall  come into force on such date1as the Central Government may, by notification in the 
+Official Gazette, appoint.  
+2. Definitions .—In this Act, unless the context otherwise requires, — 
+(a) “memorandum ” means the memorandum of association of the Sabha  filed with the Registrar 
+of Joint Stock Companies, Madras, under the Societies Registration Act, 1860 (21 of 1860);  
+(b) “rules and regulations ” includes any rule or regulation, by whatever name called, which the 
+Sabha  is competent to make in the exercise of the powers conferred on it under the Societies 
+Registration Act, 1860, but shall not include any bye -laws or standing orders made under the rules 
+and regulations for the conduct of its work;  
+(c) “Sabha” means the Dakshina Bharat Hindi Prachar Sabha  registered under the Societies 
+Registration Act, 1860.  
+3. Declaration of the Dakshina Bharat Hindi Prachar Sabha  as an institution of national 
+importance .—Whereas the objects of the institution known as the Dakshina  Bharat Hindi Prachar 
+Sabha  are such as to make it an institution of national importance, it is hereby declared that the Dakshina 
+Bharat Hindi Prachar Sabha  is an institution of national importance.  
+4. Grant of degrees, diplomas and certificates by the Sabha .—Notwithstanding anything contained 
+in the University Grants Commission Act, 1956 (3 of 1956), or in any other law for the time being in 
+force, the Sabha  may hold such examinations and grant such degrees, diplomas and certificates for 
+proficiency in  the Hindi or in the teaching of Hindi as may be determined by the Sabha  from time to time.  
+5. Accounts and Audit.—(1) The Sabha  shall maintain proper accounts and other relevant records 
+and prepare an annual statement of accounts including the balance -sheet in such form as may be 
+prescribed by the Central Government.  
+(2) The accounts of the Sabha  shall, once at least in every year, be audited by a chartered accountant 
+in practice within the meaning of the Chartered Accountants Act, 1949 (38 of 1949), to be appointed 
+annually by the Sabha : 
+Provided that no member of the Sabha  who is a chartered acc ountant or a person who is in 
+partnership with such member, shall be eligible for appointment as an auditor under this section.  
+(3) Every auditor shall, in the performance of his duties, have at all reasonable times access to the 
+registers, books of accoun t, records and other documents of the Sabha  or of any committee, council, 
+board or branch of the Sabha . 
+(4) As soon as may be practicable at the end of each year, the auditors shall submit their report to the 
+Sabha  and shall also forward a copy thereof to the Central Government for its information.  
+                                                           
+1. 1st June, 1964, vide notification No. S.O. 1898, dated 30th May, 1964, see Gazette of India, Extraordinary, Part II,               
+sec. 3 (ii). 3 6. Prior approval of the Central Government necessary for certain action by the Sabha .—
+Notwithstanding anything contained in the Societies Registration Act, 1860 (21 of 1860), or in the 
+memorandum or rules and regulations, the Sabha  shall not, except with the previous appro val of the 
+Central Government, — 
+(a) alter, extend or abridge any of the purposes for which it has been established or for which it is 
+being used immediately before the commencement of this Act, or amalgamate itself, either wholly or 
+partially, with any other institution or society; or  
+(b) alter or amend in any manner the m emorandum or rules and regulations; or  
+(c) be dissolved.  
+7. Review of work done, etc .—(1) The Central Government may constitute, after consultation with 
+the Sabha , one or more committees consisting of such number of persons as it thinks fit to appoint thereto 
+for all or any of  the following purposes, namely: — 
+(a) reviewing the work done by the Sabha  during any specified period and the progress made by 
+it; and  
+(b) evaluating the work done by the Sabha . 
+(2) The Sabha  shall afford all necessary facilities to any committee constituted under sub -section ( 1) 
+for the purpose of enabling it to carry out its duties.  
+(3) The report of any committee constituted under sub -section ( 1) shall be submitted to the Central 
+Government within such time and in such manner as  that Government may direct.  
+(4) The Sabha  shall be entitled to appoint a representative who shall have the right to be present and 
+to be heard at such review or evaluation.  
+(5) The Central Government may address the President of the Sabha  with reference t o the result of 
+such review or evaluation as disclosed in the report of any committee constituted under sub -section ( 1), 
+and the President of the Sabha  shall communicate to the Central Government the action, if any, taken 
+thereon.  
+(6) When the Central Gove rnment has, in pursuance of sub -section ( 5), addressed the President of the 
+Sabha  in connection with any matter and the President of the Sabha  does not within a reasonable time 
+take action to the satisfaction of the Central Government in respect thereof, t he Central Government may, 
+after allowing the Sabha  an opportunity of furnishing explanations or making representations, issue such 
+directions as that Government considers necessary in respect of any of the matters dealt with in the report 
+and the Sabha  shall  notwithstanding anything contained in any law for the time being in force or in the 
+memorandum or rules and regulations of the Sabha , comply with such directions.  
+(7) The members of any committee constituted under sub -section ( 1) shall be paid such allowances as 
+the Central Government may, by order, fix and such allowances together with the expenses incurred, with 
+the previous approval of the Central Government, by any such committee in the performance of its 
+functions (including any salary, remunera tions or allowances, if any, payable to any person employed by 
+any such committee), shall, notwithstanding anything contained in any law for the time being in force or 
+in the memorandum or rules and regulations of the Sabha , be paid out of the funds of the  Sabha . 
+ 
+--------------------------The Delhi (Delegation of Powers) Act, 1964--------------------------
+1 
+ THE DELHI (DELEGATION OF POWERS) ACT, 1964  
+ACT NO. 23 OF 1964  
+[16th June, 1964 .]  
+An Act to provide for the delegation of certain powers vested in the Administrator of the Union 
+territory of Delhi.  
+BE it enacted by Parliament in the Fifteenth Year of the Republic of India as follows: — 
+1. Short title and extent. —(1) This Act may be called the Delhi (Delegation of Powers) Act, 1964.  
+(2) It extends to the whole of the Union territory of Delhi.  
+2. Definiti ons.—In this Act, unless the context otherwise requires, — 
+(a) “Administrator ” means the Administrator of Delhi appointed by the President under          
+article 239 of the Constitution;  
+(b) “Chief Secretary ” means the Chief Secretary of the Delhi Administr ation;  
+(c) “Delhi” means the Union territory of Delhi;  
+(d) “District Judge ” means the District Judge, Delhi, and includes an Additional District Judge, 
+Delhi.  
+3. Delegation of powers, etc., vested in Administrator under certain laws. —(1) Any power, 
+authority or jurisdiction or any duty which the Administrator may exercise o r discharge by or under the 
+provisions of any enactment mentioned in column 1 of the Schedule may be exercised or discharged 
+also— 
+(a) by any officer or authority mentioned in rela tion thereto in column 2 of the said Schedule;  
+(b) by such other officer or authority as may be specified in this behalf by the                       
+Central Government by notification in the Official Gazette.  
+(2) The Administrator may transfer any appeal or application for revision or any other matter pending 
+before him for disposal to an officer or other authority competent under sub -section ( 1) to dispose of the 
+same.  
+(3) The Administrator may withdraw for disposal by himself any appeal or application fo r revision or 
+any other matter pending before an officer or other authority competent under sub -section ( 1) to dispose 
+of the same.  
+  2 
+ THE SCHEDULE  
+(See section 3)  
+ 
+ Name of enactment  Provisions vesting powers 
+in the Administrator  Officer or authority 
+who may also 
+exercise the powers  
+ 1  2 
+1. The Punjab Land Revenue Act, 1887     
+(Punjab Act 17 of 1887), as in force in 
+Delhi.  Sections 13 and 16  Chief Secretary.  
+2. The United Provinces Land Revenue,        
+Act, 1901 (United Provinces Act 3 of 
+1901), as in  force in Delhi.  Sections 210 and 219  Chief Secretary.  
+3. The Bengal Finance (Sales Tax) Act, 1941 
+(Bengal Act 6 of 1941), as in force in 
+Delhi.  Section 20(3)  District Judge.  
+4. The Delhi Land Revenue Act, 1954       
+(Delhi Act 12 of 1954).  Sections 64, 66 and 72  Chief Secretary.  
+5. The Slum Areas (Improvement and 
+Clearance) Act, 1956 (96 of 1956).  Section 20  Chief Secretary.  
+ 
+--------------------------The Food Corporations Act, 1964--------------------------
+1 THE FOOD CORPORATIONS ACT, 1964  
+_________  
+ARRANGEMENT OF SECTIONS  
+__________  
+CHAPTER I  
+PRELIMINARY  
+SECTIONS   
+1. Short title, extent and commencement.  
+2. Definitions.  
+CHAPTER II  
+THE FOOD CORPORATION OF INDIA  
+3. Establishment of Food Corporation of India.  
+4. Offices and agencies.  
+5. Capital of Corporation.  
+6. Management.  
+7. Board of directors.  
+8. Disqualification for office of director.  
+9. Removal and resignation of directors.  
+10. Meetings . 
+11. Advisory Committees.  
+12. Officers and other employees of Corporation.  
+12A. Special provisions for transfer of Government employees to the Corporation in certain cases.  
+13. Functions of Corporation.  
+14. Executive Committee and other commodities . 
+15. Member of board or committee thereof not to vote in certain case s. 
+CHAPTER III  
+BOARDS OF MANAGEMENT  
+16. Boards of Management, their constitution and functions.  
+CHAPTER IV  
+STATE  FOOD CORPORATIONS  
+17. Establishment of State Food Corporation.  
+18. Capital of State Food Corporation.  
+19. Management of State Food Corporation.  
+20. Disqualification for office of member of board of directors.  
+21. Removal and resignation of members of board of directors.  
+22. Meetings.  
+23. Appointment of officers, etc. and their conditions of service.  2 SECTIONS  
+24. Executive Committee and other committees.  
+25. Member of board or committee thereof not to vote in certain cases.  
+CHAPTER V  
+FINANCE , ACCOUNTS AND AUDIT  
+26. Submission of programme of activities and financial estimates.  
+27. Borrowing powers of Food Corporation.  
+ 28. Lending by Food Corporation on security of food grains.  
+29. Power to enter into  agreement for purchase of food grains after harvest.  
+30. Guarantee by Food Corporation.  
+31. Funds of Food Corporation.  
+32. Investment of funds.  
+33. Allocation of surplus profits.  
+34. Accounts and audit.  
+35. Annual report on the working of Food Corporations.  
+CHAPTER VI  
+MISCELLANEOUS  
+36. Vacancies, etc., not to invalidate acts or proceedings of Food Corporation, etc.  
+37. Delegation.  
+38. Declaration of fidelity and secrecy.  
+39. Indemnity of direct ors. 
+40. Protection of action taken under this Act.  
+41. Offences.  
+42. Provisio n relating to income -tax, super -tax, etc.  
+43. Winding up of Food Corporation.  
+44. Power to make rules.  
+45. Power of Food Corporation to make regulations.  
+ 46. Validation.  
+       THE SCHEDULE .3 THE FOOD CORPORATIONS ACT, 1964  
+ACT NO. 37 OF 1964  
+[10th December , 196 4.] 
+An Act to provide for the establishment of Food Corporations for the purpose of trading in    
+foodgrains and other foodstuffs and for matters connected therewith and incidental thereto.  
+BE it enacted by Parliament in the Fifteenth Year of the Republic of India as follows: — 
+CHAPTER I  
+PRELIMINARY  
+1. Short title, extent and commencement .—(1) This Act may be called the Food Corporations Act, 
+1964.  
+(2) It extends to the whole of India  1***. 
+(3) It shall come into force on such date2  as the Central Government may, by notification in the 
+Official Gazette, appoint.  
+2. Definitions .—In this Act, unless t he context otherwise requires, — 
+(a) “Corporation ” means the Food Corporation of India established under section 3;  
+(b) “Food Corporation ” means the Food Corporation of India established under section 3 or a 
+State Food Corporation established under section 17;  
+3[(bb) “foodstuffs ” includes edib le oilseeds and oils;]  
+(c) “prescribed ” means prescribed by rules made under this Act;  
+(d) “schedule d bank ” means a bank for the time being included in the Second Schedule to the 
+Reserve Bank of India Act, 1934  (2 of 1934) ; 
+(e) “State Food Corporation ” means a State Food Corporation established under section 17;  
+(f) “year” means the financial year.  
+CHAPTER II  
+THE FOOD CORPORATION OF INDIA  
+ 3. Establishment of Food Corporation of India .—(1) With effect from such date  as the Central 
+Government may, by notification in the Official Gazette, specify in this behalf, the Central Government 
+shall establish for the purposes of this Act a Corporation known as the Food Corporation of India.  
+(2) The Corporation shall be a body corporate with the name aforesaid ha ving perpetual succession 
+and a common seal with power, subject to the provisions of this Act, to acquire, hold and dispose of 
+property and to contract, and may, by that name, sue and be sued.  
+4. Offices and agencies .—(1) The head office of the Corporation  shall be at Madras or at such other 
+place  as the Central Government may, by notification in the Official Gazette, specify.  
+4[(2) The Corporation may establish offices or agencies at o ther places in or outside India:  
+Provided that no such office or agency shall be established at any place outside India without the 
+previous approval of the Central Government.]  
+                                                           
+1. The words “except the State of Jammu and Kashmir” omitted by Act 67 of 1972, s. 2 (w.e.f. 15 -12-1972).  
+2. 17th December , 1964, vide notification No. G.S.R. 1808 , dated 16th December, 1964 , see Gazette of India, Extraordinary,  
+    Part I I, sec. 3  (i). 
+3. Ins. by s. Act 67 of 1972, s. 3 (w.e.f. 15 -12-1972).  
+4. Subs. by s. 4, ibid., for sub -section ( 2) (w.e.f. 15 -12-1972).  4  5. Capital of Corporation .—(1) The original  capital of the Corporation shall be such sum not 
+exceeding one hundred crores of rupees as the Central Government may fix.  
+(2) The Central Government may from time to time increase the capital of the Corporation to such 
+extent and in such manner as that G overnment may determine.  
+(3) Such capital may be provided by the Central Government from time to time after due 
+appropriation made by Parliament by law for the purpose and subject to such terms and conditions as may 
+be determined by that Government.  
+6. Management .—(1) The general superintendence, direction and management of the affairs and 
+business of the Corporation shall vest in a board of directors which may exercise all such powers and do 
+all such acts and things as may be exercised or done by the C orporation under this Act.  
+(2) The board of directors, in discharging its functions, shall act on business principles having regard 
+to the interests of the producer and consumer and shall be guided by such instructions on questions of 
+policy as may be give n to it by the Central Government.  
+(3) If any doubt arises as to whether a question is or is not a question of policy, the decision of the 
+Central Government thereon shall be final.  
+7. Board of directors .—(1) The board of directors of the Corporation shall  consist of the following, 
+namely:— 
+(a) a Chairman;  
+(b) three directors to represent respectively the Ministries of the Central Government dealing 
+with— 
+(i) food,  
+(ii) finance, and  
+(iii) co-operation;  
+(c) the managing director of the Central Warehousing Corporation established under section 3 of 
+the Warehousing Corporations Act, 1962  (8 of 1962) , ex officio ; 
+(d) a managing director;  
+(e) six other directors.  
+(2) All the directors of the Corporation other t han the director referred to in clause ( c) of                         
+sub-section ( 1) shall be appointed by the Central Government.  
+(3) The managing director, shall — 
+(a) exercise such powers and perform such duties as the board of directors may entrust or 
+delegate to him ; and 
+(b) receive such salary and allowances as the board of directors may, with the approval of the 
+Central Government, fix:  
+Provided that the first managing director shall receive such salary and allowances as the Central 
+Government may fi x. 
+(4) The term of office of, and the manner of filling casual vacancies among, the directors of the 
+Corporation, other than the director referred to in clause ( c) of sub -section ( 1), and the other terms and 
+conditions of appointment of the directors of th e Corporation shall, subject to the provisions of                   
+sub-section ( 3), be such as may be prescribed.  
+8. Disqualification for office of director .—A person shall be disqualified for being appointed as , 
+and for being,  a director of the Corporation — 
+(a) if he is, or at any time has been, adjudicated insolvent or has suspended payment of his debts 
+or has compounded with his creditors; or  5 (b) if he is of unsound mind and stands so declared by a competent court; or  
+(c) if he is or has been convicted of any offence which in the opinion of the Central Government 
+involves moral turpitude; or  
+(d) if he has been removed or dismissed from the service of the Government or a corporation 
+owned or controlled by the Government; or  
+(e) except in the case of the Chairman or the managing director, if he is a salaried official of the 
+Food Corporation of India or a State Food Corporation.  
+9. Removal and resignation of directors .—(1) The Central Government may, at any  time, after 
+consultation with the Corporation, remove the managing director from office after giving him a 
+reasonable opportunity of showing cause against the proposed removal.  
+(2) The board of directors may remov e any director from office who — 
+(a) is or has become su bject to any of the disqualifications mentioned in section 8; or  
+(b) is absent without leave of the board of directors from more than three consecutive meetings 
+thereof without cause sufficient, in the opinion of the board, to exonerate his absence.  
+(3) A director of the Corporation may resign his office by giving notice thereof in writing to the 
+Central Government and on such resignation being accepted, he shall be deemed to have vacated his 
+office.  
+10. Meetings .—(1) The board of directors of the Corporati on shall meet at such times and places and 
+shall observe such rules of procedure in regard to the transaction of business at its meetings (including the 
+quorum at meetings) as may be provided by regulations made by the Corporation under this Act.  
+(2) The C hairman of the Board or, if for any reason he is unable to attend any meeting, any other 
+director elected by the directors present at the meeting, shall preside at the meeting.  
+(3) All questions which come up before any meeting of the board shall be decide d by a majority of 
+the votes of the directors present and voting, and, in the event of an equality of votes, the Chairman, or in 
+his absence, the person presiding, shall have and exercise a second or casting vote.  
+11. Advisory Committees .—(1) The Central Government may , in consultation with the Corporation, 
+by notification in the Official Gazette, constitute one or more Advisory Committees consisting of such 
+persons and on such terms and conditions as may be prescribed.  
+(2) It shall be the duty of any such  Advisory Committee to advi ce the Central Government or the 
+Corporation in regard to any matter connected with the purposes of this Act in respect of which its advice 
+is sought by the Central Government, or, as the case may be, by the Corporation.  
+(3) The expenses in relation to the Advisory Committees shall be met by the Corporation.  
+12. Officers and other employees of Corporation .—(1) The Central Government shall after 
+consultation with the Corporation, appoint a person to be the Secretary of the Corporat ion. 
+(2) Subject to such rules as may be made by the Central Government in this behalf, the Corporation 
+may appoint such other officers and employees as it considers necessary for the efficient performance of 
+its functions.  
+(3) The methods of appointment, the conditions of service and the scales of pay of the officers and 
+other empl oyees of the Corporation shall — 
+(a) as respects the Secretary, be such as may be prescribed;  6 (b) as respects the other officers and employees, be such as may be determined by regulations 
+made by the Corporation under this Act.  
+1[12A. Special provisions for transfer of Government employees to the Corporation in certain 
+cases .—(1) Where the Central Government has ceased or ceases to perform any functions which under 
+section 13 ar e functions of the Corporation, it shall be lawful for the Central Government to transfer, by 
+order and with effect from such date or dates (which may  be either retrospective to any date not earlier 
+than the 1st January, 1965, or prospective) as may be spe cified in the order, to the Corporation any of the 
+officers or employees serving in the Department of the Central Government dealing with food or any of 
+its subordinate or attached offices and engaged in the performance of those functions:  
+Provided that no  order under this sub -section shall be made in relation to any officer or employee in 
+such Department or office who has, in respect of the proposal of the Central Government to transfer such 
+officer or employee to the Corporation, intimated within such tim e as may be specified in this behalf by 
+that Government, his intention of not becoming an employee of the Corporation.  
+(2) In making an order under sub -section ( 1), the Central Government shall, as far as may be, take 
+into consideration the functions which  the Central Government has ceased or ceases to perform and the 
+areas in which such functions have been or are performed.  
+(3) An officer or other employee transferred by an order made under sub -section ( 1) shall, on and 
+from the date of transfer, cease to be an employee of the Central Government and become an employee of 
+the Corporation with such designation as the Corporation may determine and shall,  2[subject to the 
+provisions of sub -sections ( 4), (4A), (4B), (4C), (5) and ( 6)], be governed by the regulat ions made by the 
+Corporation under this Act as respects remuneration and other conditions of service including pension, 
+leave and provident fund, and shall continue to be an officer or employee of the Corporation unless and 
+until his employment is terminat ed by the Corporation.  
+(4) Every officer or other employee transferred by an order made under sub -section ( 1) shall, within 
+six months from the date of transfer, exercise his opt ion in writing to be governed ,— 
+(a) by the scale of pay applicable to the post held by him under the Government immediately 
+before the date of transfer or by the scale of pay applicable to the post under the Corporation to which 
+he is transferred,  
+(b) by the leave, provident fund, retirement or other terminal benefits admissible to employees of 
+the Central Government in accordance with the rules and others of the Central Government as 
+amended from time to time or the leave, provident fund or other terminal benefits admissible to the 
+employees of the Corporation  under the regulations made by the Corporation under this Act,  
+and such option once exercised shall be final:  
+Provided that the option exercised under clause ( a) shall be applicable only in respect of the post to 
+which such officer or employee is transferr ed to the Corporation and on appointment to a higher post 
+under the Corporation, he shall be eligible only for the scale of pay  applicable to such higher post:  
+Provided further that if immediately before the date of his transfer any such officer or employe e is 
+officiating in a higher post under the Government either in a leave vacancy or in any other vacancy of a 
+specified duration, his pay, on transfer, shall be protected for the unexpired period of such vacancy and 
+thereafter he shall be entitled to the s cale of pay applicable to the post under the Government to which he 
+would have reverted or to the scale of pay applicable to the post under the Corporation to which he is 
+transferred, whichever he may opt:  
+Provided also that when an officer or other employ ee serving in the Department of the Ministry of the 
+Central Government dealing with food or in any of its attached or subordinate offices is promote d to 
+officiate in a higher post  in the Department or office subsequent to the transfer to the Corporation of  any 
+other officer or employee senior to him in that Department or office before such transfer, the officer or 
+other employee who is promoted to officiate in such higher post shall, on transfer to the Corporation, be 
+                                                           
+1. Ins. by Act 57 of 1968, s. 2 (w.e.f 28 -12-1968).  
+2. Subs. by Act 12 of 1977, s. 2, for “subject to the provisions of sub -sections ( 4), (5) and ( 6)” (w.e.f. 31 -12-1976).  7 entitled only to the scale of pay appli cable to the post he would have held but for such promotion or the 
+scale of pay applicable to the post under the Corporation to which he is transferred, whichever he may 
+opt. 
+1[(4A) Notwithstanding anything contained in sub -section ( 4),— 
+(a) every officer or other employee in respect of whom an order of transfer under sub -section ( 1) 
+had been made before the date of commencement of the Food Corporations  (Amendment) Act, 1977  
+(hereafter in this section referred to as the appointed day) shall, whether or not he had exercised the 
+option under sub -section ( 4) before the appointed day, exercise such option within six months from 
+the appointed day; and  
+(b) every officer or other employee in respect of whom an order of transfer under sub -section ( 1) 
+may be made aft er the appointed day shall, within six months from the date of such order, exercise his 
+option under sub -section ( 4), 
+and in each such case such option once exercised shall be final:  
+Provided that where an o fficer or other employee having exercised an option under sub -section (4) 
+before the appointed day ,— 
+(i) has died or retired before the appointed day, or dies or retires after the appointed day, 
+before exercising the option as required by this sub -section, or  
+(ii) does not exercise the option a s required by this sub -section,  
+the option already exercised by him shall be deemed to have been validly exercised by him under        
+sub-section ( 4). 
+(4B) Where an officer or other employee — 
+(a) has died or retired, or dies or retires, after an order of tr ansfer under sub -section ( 1) in respect 
+of such officer or other employee is made but before exercising the option under sub -section ( 4) or, as 
+the case may be, as required by sub -section ( 4A); or 
+(b) has died or retired, or dies or retires, before an order of transfer under sub -section ( 1) in 
+respect of such of ficer or other employee is made,  
+he shall, notwithstanding anything contained in sub -section ( 4) or sub -section ( 4A),— 
+(i) in a case falling under clause ( a), be deemed to have exercised an optio n under sub -section ( 4); 
+and 
+(ii) in a case falling under clause ( b), be deemed to have been transferred under sub -section ( 1) 
+and exercised an option under sub -section ( 4), 
+to be governed by the leave, provident fund, retirement or other terminal benefits  admissible to the 
+employees of the Central Government in accordance with the rules and orders of the Central Government 
+as amended from time to time:  
+Provided that nothing in clause ( a) of this sub -section shall apply to an officer or other employee who 
+has, before the appointed day been paid the terminal benefits as admissible to the employees of the 
+Corporation under the regulations made by the Corporation under this Act, unless such officer or other 
+employee refunds in a lump sum within six months from the appointed day the amount of contributions 
+made by the Corporation  towards such terminal benefits:  
+Provided further that nothing in clause ( b) of this sub -section shall apply to an officer or other 
+employee who has intimated, under the proviso to sub -section ( 1), his intention of not becoming an 
+employee of the Corporation.  
+                                                           
+1. Ins. by Act 12 of 1977, s. 2 (w.e.f. 31 -12-1976).   8 (4C) Where an officer or other employee has exercised an option under sub -section ( 4), or exercises, 
+or is deemed to have exercised, an option under that sub -section, read with sub -section ( 4A) or             
+sub-section ( 4B), to be governed by the leave, provident fund, retirement or other terminal benefits 
+admissible to the employees of the Central Government, such benefits shall be calculated on the basis of 
+the pay and allowances drawn by him in the Corporation.]  
+(5) No officer or other employee transferred by an order made under sub -section ( 1),— 
+(a) shall be dismissed or removed by an authority subordinate to that competent to make a similar 
+or equivalent appointment under the Corporation as may be specified in the regulations made by  the 
+Corporation under this Act;  
+1[(b) shall be dismissed or removed or reduced in rank except after an inquiry in which he has 
+been informed of the charges against him and given a reasonable opport unity of being he ard in 
+respect of those charges:]  
+2[Provided that where it is proposed after such inquiry, to impose upon him any such penalty, such 
+penalty may be imposed on the basis of the evidence adduced during such inquiry and it shall not be 
+necessary to give such person any opportunity of making represe ntation on the penalty proposed: ] 
+3[Provided further that]  this clause shall not apply, — 
+(i) where an officer or employee is dismissed or remo ved or reduced in rank on the ground of 
+conduct whi ch has led to his conviction on a criminal charge; or  
+(ii) where the authority empowered to dismiss or remove an officer or employee or to reduce him 
+in rank is satisfied that for some reason, to be recorded by that authority in writing, it is not 
+reasonab ly practicable to hold such  inquiry;  or 
+(iii) to an officer or employee who, after transfer to the Corporation, is appointed to a higher post 
+under the Corporation in response to an open advertisement and in competition with outsiders.  
+(6) If, in respect o f any such officer or employee as aforesaid, a question arises whether it is 
+reasonably practicable to hold such inquiry as is referred to in sub -section ( 5), the decision there on of the 
+authority empowered to dismiss or remove him or to reduce him in rank  shall be final.  
+(7) Nothing contained in sub -section ( 1) shall apply to the members of the Central Secretariat Service 
+or any other service or to persons on deputation to the Depa rtment referred to in that sub -section or to any 
+of its attached or subordin ate offices from any Ministry of the Central Government or from any State 
+Government or from any organisation.  
+13. Functions of Corporation .—(1) Subject to the provisions of this Act, it shall be the primary duty 
+of the Corporation to undertake the purchas e, storage, movement, transport , distribution and sale of              
+foodgrains and other foodstuffs.  
+(2) Subject as aforesaid, the Corporation may also, with the previous appro val of the Central 
+Government, — 
+(a) promote by such means as it thinks fit the  production of foodgrains and other foodstuffs;  
+(b) set up, or assist in the s etting up of, rice mills, flour mills and other undertak ings for the 
+processing of food grains and other foodstuffs, and  
+(c) discharge such other functions as may be prescribed or  as are supplemental, incidental or 
+consequential to any of the functions conferred on it under this Act.  
+14. Executive Committee and other commodities .—(1) The board of directors of the Corporation 
+may constitute an Executive C ommittee which shall consist  of— 
+                                                           
+1. Subs. by Act 53 of 1982, s . 2, for clause ( b) (w.e.f. 21 -10-1982).  
+2. The proviso i ns. by s. 2 , ibid. (w.e.f. 21 -10-1982).  
+3. Subs. by s. 2, ibid., for “Provided that” (w.e.f. 21 -10-1982).  9 (a) the Chairman of the board;  
+(b) the managing director; and  
+(c) three other directors, of whom one shall be a non -official.  
+(2) The Chairman of the board of directors shall be the Chairman of the Executive Committee.  
+(3) Subject to the general control, direction and superintend ence of the board of directors,  the 
+Executive Committee shall be competent to deal with any matter within the competence of the 
+Corporation.  
+(4) The board of directors may constitute such other committees, whether consisti ng wholly of 
+directors or wholly of other persons or partly of directors and partly of other persons as it thinks fit , for 
+such purposes as it may decide.  
+(5) A committee constituted under this section shall meet at such times and places and shall observe 
+such rules of procedure in reward to the transaction of business at its meetings  (including the quorum at 
+meetings) as may be provided by regulations made by the Corporation under this Act.  
+(6) The members of a committee (other than the directors of the bo ard) shall be paid by the 
+Corporation such fees and allowances as may be fixed by it by regulations made under this Act for 
+attending the meetings of the committee and for attending to any other work of the Corporation.  
+ 15. Member of board or committee thereof not to vote in certain cases .—A member of the board 
+of directors of the Corporation or a committee thereof who has any direct or indirect pecuniary interest in 
+any matter coming up for consideration at a meeting of the  board of directors or committee thereof, shall, 
+as soon as possible after relevant circumstances have come to his  knowledge, disclose the nature  of his 
+interest at such meeting and the disclosure shall be recorded in the minutes of the board or the commit tee, 
+as the case may be, and the member shall not take any part in any deliberation or decision of the board or 
+committee with respect to that matter.  
+CHAPTER III  
+BOARDS OF MANAGEMENT  
+ 16. Boards of Management, their constitution and functions .—(1) The Central Government may, 
+on a request received in this behalf from the State Government or Governments concerned or otherwise, 
+by notification in the Official Gazette, establish a Board of Management for a State or two or more 
+contiguous States, if no State  Food Corporation is functioning in such State or States.  
+(2) The head office of the Board of Management shall be at such place as the Central Government 
+may, by notification in the Official Gazette, specify . 
+(3) The Board  of Management shall consist of — 
+(a) a Chairman to be appointed by the Board of directors of the Food Corporation of India;  
+(b) the senior -most executive officer of the said Corporation employed at the head office of the 
+Board of Management; and  
+(c) not more than ten other members to be ap pointed by the Board of directors of the said 
+Corporation.  
+(4) The members of a Board of Management referred to in clauses ( a) and ( c) of sub -section ( 3) shall 
+hold office for a term of two years and shall be eligible for re -appointment and the other terms  and 
+conditions of their appointment shall be such as may be prescribed.  
+(5) The Board of Management shall advise the Corporation on such matters as may be generally or 
+specifically referred to it and shall perform such other functions as the Corporation m ay delegate to it.  
+(6) The provisions of sections 20, 21 and 25 shall, so far as may be , apply in relation to the members 
+of a Board of Management as they apply in relation to the members of the Board of direct ors of a State 
+Food Corporation:  10 Provided that  the reference to the General Manager in clause ( e) of section 20 shall be construed as a 
+reference to the officer of the Corporation referred to in clause ( b) of sub -section ( 3). 
+(7) The Food Corporation of India may, after consultation with a Board of Ma nagement, appoint such 
+staff as it considers necessary to enable that Board to perform its functions under this Act.  
+(8) The Board of Management may, by order in writing, authorise any one or more of its members to 
+exercise and perform, subject to such conditions and limitations, if any, as may be specified in the order, 
+such of its powers and functions as it may think fit.  
+(9) The Board of Management shall follow such procedure as may be provided by regulations made 
+by the Food Corporation of India unde r this Act.  
+(10) Where a Board of Management has been established — 
+(i) for a State, or  
+(ii) for two or mor e States,  
+then such Board shall stand dissolved - 
+(a) in the case referred to in clause ( i), on the establishment of a Food Corporation for that State,  
+and 
+(b) in the case referred to in clause ( ii), on the establishment of such Corporation for any one or 
+more of such States.  
+(11) Where a Board of Management stands dissolved under clause ( b) of sub -section ( 10), the Central 
+Government may establish a new  Board of Management for the State or States for which no Food 
+Corporation has been established.  
+(12) The expenses of the Board of Management in the discharge of its functions under this Act shall 
+be met by the Food Corporation of India.  
+CHAPTER IV  
+STATE  FOOD CORPORATIONS  
+ 17. Establishment of State Food Corporation .—(1) The Central Government may, by notification 
+in the Official Gazette and after consultation with the Government of a State, establish a Food 
+Corporation for that State under such name as may  be specified in the notification.  
+(2) A State Food Corporation established under sub -section ( 1) shall be a body corporate by the name 
+notified under that sub -section, having perpetual succession and a common seal with power, subject to the 
+provisions of this Act, to acquire, hold and dispose of property and to contract, and may, by the said 
+name , sue and be sued.  
+(3) The head office of a State Food Corporation shall be at such place within the State as may  be  
+notified by the Central Government in the Off icial Gazette.  
+(4) Subject to the provisions of this Act , a State Food Corporation may perform such of the functions 
+of the Food Corporation of India as that Corporation may delegate to it.  
+18. Capital of State Food Corporation .—(1) The Capital of a State Food Corporation shall be such 
+sum not exceeding ten crores of rupees as the Central Government may, after consultation with the Food 
+Corporation of India, fix.  
+(2) The Central Government may, after such consultation, from time to time, increase the capital of 
+the State Food Corporation to such extent and in such manner as that Government may determine.  
+(3) Such capital shall be provided — 
+(a) by the Central Government after due appropriation made by Parliament by law for the 
+purpose, and  
+(b) by the Fo od Corporation of India,  
+in such proportion and subject to such terms and conditions as may be determined by the Central 
+Government.  11 19. Management of State Food Corporation .—(1) The general superintendence, direction and 
+management of the affairs and business of a State Food Corporation shall vest in a board of directors 
+which shall consist of a Chairman, a General Manager and not more than ten other members, all of whom 
+shall be appointed by the Food Corporation of India after consultation with the Ce ntral Government and 
+the State Government.  
+(2) The General Manager shall — 
+(a) exercise such powers and perform such duties as the board of directors may entrust or 
+delegate to him; and  
+(b) receive such salary and allowances and be governed by such terms an d conditions of service 
+as the board of directors may, in consultation with the Food Corporation of India, fix.  
+(3) The board of directors, in discharging its functions, shall act on business principles having regard 
+to the interests of the producer and co nsumer and shall be guided by such instructions on questions of 
+policy as may be given to it by the Food Corporation of India.  
+(4) If any doubt arises as to whether a question is or is not a question of policy, the matter shall be 
+referred to the Central G overnment whose decision thereon shall be final.  
+(5) The members of the board of directors, other than the General Manager, shall be entitled to 
+receive by way of remuneration or fees such sums as may be prescribed:  
+Provided that no official member shall b e entitled to receive any remuneration other than any 
+allowances admissible to him under the rules regulating his conditions of service.  
+(6) The term of office of , and the manner of filling casual vacancies among, the members of the board 
+of directors shal l be such as may be prescribed.  
+20. Disqualification for office of member of board of directors .—A person shall be disqualified 
+for being appointed as, and for being, a member of the board of director s of a State Food Corporation — 
+(a) if he is, or at any time has been adjudicated insolvent or has suspended payment of his debts 
+or has compounded with his creditors; or  
+(b) if he is of unsound mind and stands so declared by a competent court; or  
+(c) if he is or has been convicted of any offence which in the o pinion of the Central Government 
+involves moral turpitude; or  
+(d) if he has been removed or dismissed from the service of the Government or a corporation 
+owned or controlled by the Government; or  
+(e) except in the case of the Chairman or the General Manage r, if he is a salaried official of the 
+Food Corporation of India or a State Food Corporation.  
+21. Removal and resignation of members of board of directors .—(1) The Food Corporation of 
+India may, at any time, after consultation with the State Food Corporati on, remove the General Manager 
+from office after giving him a reasonable opportunity of showing cause against the proposed removal.  
+(2) The board of directors of a State Food Corporation may remove from offi ce any member of that 
+board who — 
+(a) is or has become subject to any of the disqualifications mentioned in section 20 ; or 
+(b) is absent without leave of the board of directors from more than three consecutive meetings 
+thereof without cause sufficient, in the opinion of the board, to exonerate his absen ce. 
+(3) A member of such board may resign his office by giving notice thereof in writing to the Food 
+Corporation of India and on such resignation being accepted, he shall be deemed to have vacated his 
+office.  
+22. Meetings .—(1) The board of directors of a S tate Food Corporation shall meet at such times and 
+places and shall observe such rules of procedure in regard to the transaction of business at its meetings 12 (including the quorum at meetings) as may be provided by regulations made by that Corporation under  
+this Act.  
+(2) The Chairman of the board of directors , or, if for any reason he is unable to attend any meeting, 
+any other member of the board elected by the members of the board present at the meeting, shall preside 
+at the meeting.  
+(3) All questions which come up before any meeting of the board of directors shall be decided by a 
+majority of the votes of the members present and voting, and in the event of an equality of votes, the 
+Chairman or in his absence, the person presiding shall h ave and exercise a second or casting vote.  
+23. Appointment of officers, etc. and their conditions of service .—(1) A State Food Corporation 
+may appoint such officers and other employees as it considers necessary for the efficient performance of 
+its function s. 
+(2) Every person employed by a State Food Corporation under this Act shall be subject to such 
+conditions of service and shall be entitled to such remuneration as may be determined by regulations 
+made by the Corporation under this Act.  
+24. Executive Comm ittee and other committees .—(1) The board of directors of a State Food 
+corporation may constitute an Executive Co mmittee which shall consist of — 
+(a) the Chairman of the board of directors;  
+(b) the General Manager; and  
+(c) three other members of the board of directors, of whom one shall be a non -official.  
+(2) the Chairman of the board of directors shall be the Chairman of the Executive Committee.  
+(3) Subject to the general control, direction and superintendence of the board  of directors, the 
+Executive Committee shall be competent to deal with any matter within the competence of the State Food 
+Corporation.  
+(4) The board of directors may constitute such other committees, whether consisting wholly of 
+members of the board or who lly of other persons or partly of such members and partly of other persons as 
+it thinks fit , for such purposes as it may decide.  
+(5) A committee constituted under this section  shall meet at such times and places and shall observe 
+such rules of procedure in  regard to the transaction of business at its meetings (including the quorum at 
+meetings) as may be provided by regulations made by the State Food Corporation under this Act.  
+(6) The members of a committee (other than the directors of the board) shall be p aid by the State 
+Food Corporation such fees and allowances as may be fixed by it by regulations made under this Act, for 
+attending the meeting s of the committee and for attending to any other work of that Corporation.  
+25. Member of board or committee there of not to vote in certain cases .—A member of the board 
+of directors of a State Food Corporation or a committee thereof who has any direct or indirect pecuniary 
+interest in any matter coming up for consideration at a meeting of the board of directors or committee 
+thereof, shall , as soon as possible after relevant circumstances have come to his knowledge, disclose the 
+nature of his interest at such meeting and the disclosure shall be recorded in the minutes of the board or 
+the committee, as the case may be , and the member shall not take any part in any deliberation or decision 
+of the board or the committee with respect to that matter.  
+CHAPTER V  
+FINANCE , ACCOUNTS AND AUDIT  
+26. Submission of programme of activities and financial estimates .—(1) A Food Corporation 
+shall, before the commencement of each year, prepare a statement of programme of its activities during 
+the forthcoming year as well as a financial estimate in respect thereof.  
+(2) The statement prepared under sub -section ( 1) shall not less than  three months before the 
+commencement of each year, be submitted for approval — 
+(a) in the case of the Food Corporation of India, to the Central Government;  13 (b) in the case of a State Food Corporation, to the Food Corporation of India.  
+(3) The statement and  the financial estimate of a Food Corporation referred to in sub -section ( 1) may, 
+with the approval of the Central Government, in the case of the Food Corporation of India, or with the 
+approval of the Food Corporation of India in the case of a State Food Corporation, be revised by the Food 
+Corporation.  
+27. Borrowing powers of Food Corporation .—1[(1) A Food Corporation may, for the purpose of 
+carrying out its functions under  this Act— 
+(a) take ad vances against stocks of food grains or other foodstuf fs held by it, or borrow money — 
+(i) from any scheduled bank, or  
+(ii) from any other bank or financial institution approved by the Central Government in this 
+behalf, or  
+(iii) from any other authority, organisation or institution or from the public on such terms and  
+conditions as may be approved by the Central Government; or  
+(b) issue and sell bonds and debentures carrying interest at such rates as may be fixed by the 
+Central Government at the time the bonds or debentures are issued:  
+2[Provided that the amount borrow ed by a Food Corporation under clause ( b) shall not at any time 
+exceed ten times the paid -up capital and the reserve fun d established under section 33. ]] 
+(2) The Central Government may guarantee the loans and advances taken by a Food Corporation 
+under sub -section ( 1) as to the re -payment of principal and the payment of interest thereon and other 
+incidental charges.  
+3[(3) A Food Corporation may, for the purpose of carrying out its functions under this Act, also 
+borrow money from the Central Government; and that Government may, after due appropriation made by 
+Parliament by law in this behalf, pay to the Food Corporation such sums of money by way of loan on 
+such terms and conditions as that Government may determine.]  
+ 28. Lending by Food C orporation on securit y of food grains .—A Food Corporation may lend or 
+advance money to any person en gaged in the production of food grains upon the security of foodgrains or 
+such other security as may be prescribed, for any purpose connected with such production.  
+29. Power to en ter into agreement for purchase of foodgrains after harvest .—(1) A Food 
+Corporation may enter into agreement with any grower of foodcrops for the purchase of foodgrains after 
+the harvest of such crops and any such agreement may provide that any sum payable  by the Corporation 
+to the grower under such agreement shall be payable to any scheduled bank or other financing agency 
+nominated by the grower in this behalf to such extent as may be specified in the agreement.  
+(2) The scheduled bank or other financing ag ency referred to in sub -section ( 1) may, on the basis of 
+any agreement referred to in that sub -section, lend money to a grower of food crops who has entered into 
+such agreement.  
+30. Guarantee by Food Corporation .—A Food Corporation may, upon such terms and  conditions 
+as it may think fit , guarantee any loan referred to in sub -section ( 2) of section 29, and also any other loan 
+raised by a grower of food crops, which is re -payable within a period not exceeding five years.  
+31. Funds of Food Corporation .—(1) A Fo od Corporation shall have its own fund and all receipts 
+of the Corporation shall be credited thereto and all payments of the  Corporation shall be met there from.  
+                                                           
+1. Subs. by Act 36 of 1988, s. 2, for sub -section ( 1) (w.e.f. 20 -8-1988).  
+2. Subs. by Act 27 of 2001, s. 2, for the proviso (w.e.f. 22 -5-2001).  
+3. Ins. by Act 67 of 1972, s. 5 (w.e.f. 15 -12-1972).  14 (2) Such fund shall be applied for meeting all administrative expenses of the Food Corporation and 
+for carrying out the purposes of this Act.  
+ 32. Investment of funds .—A Food Corporation may invest its funds in the securities of the Central 
+Government or any State Government or in such other manner as may be prescribed.  
+33. Allocation of surplus profits .—(1) A Food Corporation shall establish a reserve fund to which 
+shall be credited every year such portion of its annual net profits as that Corporation thinks fit.  
+(2) After making provision for such reserve fund and for bad and doubtful debts, depreciation in 
+assets and all other matters which are usually provided for by companies registered and incorporated 
+under the Companies Act, 1956  (1 of 1956) , the balance of its an nual net profits shall be paid — 
+(a) in the case of the Food Corporation of India, to the Central Government, and  
+(b) in the case of a State Food Corporation, to the Central Government and the Food Corporation 
+of India in the same proportion as the capital provided by them.  
+1[34. Accounts and audit .—(1) A Food Corporation shall maintain proper accounts and other 
+relevant records and prepare an annual statement of accounts including the profit and loss account and the 
+balance -sheet in such form as may be prescribed by the Central Government in consultation with t he 
+Comptroller and Auditor -General of India.  
+(2) The accounts of a Food Corporation shall be audited annually by the Comptroller and                  
+Auditor -General of India and any expenditure incurred by him in connection with such audit shall be 
+payabl e by the Food Corporation to the Comptroller and Auditor -General of India.  
+(3) The Comptroller and Auditor -General of India and any person appointed by him in connection 
+with the audit of the accounts of a Food Corporation shall have the same rights, privi leges and authority 
+in connection with such audit as the Comptroller and Auditor -General has in connection with the audit of 
+Government accounts and, in particular, shall have the right to demand the production of books, accounts, 
+connected vouchers and ot her documents and papers and to inspect any office of the Food Corporation.  
+(4) The accounts of a Food Corporation as certified by the Comptroller and Auditor -General of India 
+or any other person appointed by him in this behalf together with the audit report thereon shall be 
+forwarded annually by the Comptroller and Auditor -General of India to, — 
+(i) the Food Corporation concerned;  
+(ii) where the accounts relate to a State Food Corporation, also to the Food Corporation of India;  
+(iii) the Central Governm ent, 
+and that Government shall, as soon thereafter as may be, cause the same to be laid before both Houses of 
+Parliament.]  
+ 35. Annual report on the working of Food Corporations .—(1) A Food Corporation shall, as soon 
+as possible after the end of each year,  submit to the Central Government an annual report on the working 
+and affairs of the Corporation.  
+(2) The Central Government shall, as soon as may be after the receipt of such report, cause such 
+report and the audit report received under section 34  2[together with any comments thereon or supplement 
+thereto by the Comptroller and Auditor -General of India] to be laid before both Houses of Parliament.  
+CHAPTER VI  
+MISCELLANEOUS  
+                                                           
+1. Subs. by Act 12 of 2000, s. 2, for s ection  34 (w.e.f. 2 -6-2000).  
+2. Ins. by Act 67 of 1972, s. 7 (w.e.f. 15 -12-1972).  15 36. Vacancies, etc., not to invalidate acts or proceedings of Food Corporation,  etc.—(1) No act or 
+proceeding of a Food Corporation or a committee thereof or a Board of Management shall be invalid by 
+reason only of the existence of any vacancy in, or any defect in the constitution of , the board of directors 
+of the Food Corporation or such Committee or Board of Management.  
+(2) No act done by any person acting in good faith as a member of a board of directors of a Food 
+Corporation or of a Board of Management shall be deemed to be invalid  by reason only of his 
+disqualification for being appointed as, or for being, a member of such board of directors or Board of 
+Management.  
+37. Delegation .—A Food Corporation may, by general or special order in writing, delegate to the 
+Chairman or any other member of the board of directors or the Secretary or other officer of the 
+Corporation, subject to such conditions and limitations, if any, as may be specified in the order, such of 
+its powers and functions under this Act as it may deem necessary.  
+38. Decla ration of fidelity and secrecy .—Every director, member of an Advisory Committee or 
+other committee, auditor, officer or other employee of a Food Corporation and every member of a Board 
+of Management and its staff shall, before entering upon his duties, mak e a declaration of fidelity and 
+secrecy in the form set out in the Schedule.  
+39. Indemnity of directors .—(1) Every member of the board of directors of a Food Corporation and 
+of a Board of Management shall be indemnified by the Corporation against all losse s and expenses 
+incurred by him in the discharge of his duties except s uch as are caused by his own wi lful act or default.  
+(2) A member of the board of directors of a Food Corporation or a Board of Management shall not be 
+responsible for any other member or  for any officer or other employee of the Corporation or Board of 
+Management or for any loss or expense resulting to the Corporation from the insufficiency or deficiency 
+of value of, or title to, any property or security acquired or taken on behalf of the Corporation in good 
+faith, or by the insolvency or wrongful act of any person under obligation to the Corporation or by 
+anything done in good faith, in the execution of the duties of his office or in relation thereto.  
+40. Protection of action taken under t his Act .—No suit or other legal proceeding shall lie against a 
+Food Corporation or any member of the board of directors thereof or any officer or other employee 
+thereof or any member of a Board of Management or its staff or any other person authorised by a  Food 
+Corporation or a Board of Management to discharge any functions under this Act for any loss or damage 
+caused or likely to be caused by anything which is in good faith done or intended to be done in pursuance 
+of this Act.  
+41. Offences .—(1) Whoever, without the consent in writing of a Food Corporation, uses its name in 
+any prospectus or advertisement, shall be punishable with imprisonment for a term which may extend to 
+six months, or with fine which may extend to one thousand rupees, or with both.  
+(2) No court shall take cognizance of any offence under sub -section ( 1) except on a complaint in 
+writing by an officer authorised in this behalf by the Food Corporation concerned.  
+42. Provisio n relating to income -tax, super -tax, etc .—For the purposes of the I ncome -tax                   
+Act, 1961  (43 of 1961) , or any other enactment for the time being in force relating to income -tax,               
+super -tax or any other tax on income, profits or gains, a Food Corporation shall be deemed to be a 
+company within t he meaning of the Income -tax Act, 1961, and shall be liable to tax accordingly on its 
+income, profits and gains.  
+43. Winding up of Food Corporation .—No provision of law relating to the winding up of 
+companies or corporations shall apply to a Food Corporation and it shall not be placed in liquidation save 
+by order of the Central Government and in such manner as that Government may direct.  
+44. Power to make rules .—(1) The Central Government may, by notification in the Official Gazette, 
+make rules to c arry out the purposes of this Act.  
+(2) Without prejudice to the generality of the foregoing p ower, such rule may provide for — 16 (a) the term of office of , and the manner of filling casual vacancies among, and the other terms 
+and conditions of appointment of,  the directors of the Corporation;  
+(b) the composition of Advisory Committees and the terms and conditions of service of members 
+thereof;  
+(c) the additional functions which the Corporation may perform;  
+(d) the remuneration or fees payable to the members of  the board of directors of a State Food 
+Corporation and the term of office of, and the manner of filling casual vacancies among, such 
+members;  
+(e) the securities (other than food grains) upon which a Food Corporation may lend or advance 
+money;  
+(f) the manner in which a Food Corporation may invest its funds;  
+(g) the form of the annual statement of accounts and the balance sheet to be prepared by a Food 
+Corporation;  
+(h) any other matter which has to be or may by prescribed.  
+(3) Every rule made by the Central Government under this section shall be laid as soon as may be 
+after it is made , before each House of Parliament while it is in session for a total period of thirty days  
+1[which may be comprised in one session or in two or more successive sessions , and if, before the expiry 
+of the session immediately following the session or the successive sessions aforesaid,] both Houses agree 
+in making any modification in the rule or both Houses agree that the rule should not be made , the rule 
+shall thereafter have  effect only in such modified form or be of no effect, as the case may be ; so however 
+that any such modification or annulment shall be without prejudice to the validity of anything previously 
+done under that rule.  
+45. Power of Food Corporation to make regu lations .—(1) A Food Corporation may , with the 
+previous sanction of the Central Government, by notification in the Official Gazette, make regulations not 
+inconsistent with th is Act and the rules made there under, to provide for all matters for which provision is 
+necessary or expedient for the purpose of giving effect to the provisions of this Act.  
+2[1A) The power to make regulations under this section shall include the power to give retrospective 
+effect from a date not earlier than the date of commenc ement of this Act, to the regulations or any of them 
+but no retrospective effect shall be given to any regulation so as to prejudicially affect the interests of any 
+person to whom such regulation may be applicable.]  
+(2) Without prejudice to the generality of the foregoing power, s uch regulation may provide for — 
+(a) the methods of appointment, the conditions of service and the scales of pay of the officers and 
+employees of a Food Corporation, other than the Secretary of the Food Corporation of India;  
+(b) the  duties and conduct of officers and employees of a Food Corporation, other than the 
+Secretary aforesaid;  
+(c) the functions and duties which may be entrusted or delegated to the managing director or, as 
+the case may be, the General Manager, or a Food Corpor ation:  
+(d) the times and places at which meetings of a Food Corporation or any committee thereof shall 
+be held and the procedure to be followed thereat;  
+(e) the fees and allowances payable to the members of a committee under sub -section ( 6) of 
+section 14 or sub -section ( 6) of section 24;  
+                                                           
+1. Subs. b y Act 53 of 1982, s. 3, for certain words (w.e.f. 21 -10-1982).  
+2. Ins. by s. 4, ibid. (w.e.f. 21 -10-1982).   17 (f) generally, the efficient conduct of the affairs of a Food Corporation.  
+(3) The Central Government may, by notification in the Official Gazette, rescind any regulation 
+which it has sanctioned and thereupon such regulatio n shall cease to have effect.  
+(4) Any regulation which may be made by the Food Corporation of India under this Act may be made 
+by the Central Government within three months from the establishment of that Corporation and any 
+regulation which may be made by a State Food Corporation under this Act may be made by the Food 
+Corporation of India within three months from the establishment of such State Food Corporation ; and any 
+regulation so made may be altered or rescinded by the Food Corporation concerned in the exercise of its 
+powers under this Act.  
+1[(5) Every regulation made under this Act shall be laid, as soon as may be after it is made, before 
+each House of Parli ament, while it is in session, for a total period of thirty days which may  be comprised 
+in one session or in two or more successive sessions, and if, before the expiry of the session immediately 
+following the session or the successive sessions aforesaid, b oth Houses agree in making any modification 
+in the regulation or both Houses agree that the regulation should not be made, the regulation shall 
+thereafter have effect only in such modified form or be of no effect, as the case may be; so, however, that 
+any such modification or annulment shall be without prejudice to the validity of anything previously done 
+under that regulation.]  
+2[46. Validation .—No regulation made or purporting to have been made with retrospective                    
+effect, under section 45 before the commencement of the Food Corporations (Amendment)                              
+Act, 1982  (53 of 1982)  shall be deemed to be invalid or ever to have been invalid merely on the ground 
+that such regulation was made with ret rospective effect and accordingly every such regulation and any 
+action taken or thing done there under shall be as valid and effective as if the provisions of section 45, as 
+amended by the Food Corporations (Amendment) Act , 1982 were in force at all materia l times when such 
+regulation was made or action or thing was taken or done. ] 
+                                                           
+1. Added by Act 53 of 1982, s. 4 (w.e.f 21 -10-1982).  
+2. Ins. by s. 5, ibid. (w.e.f 21 -10-1982).   18 THE SCHEDULE  
+(See Section 38)  
+DECLARATION OF FIDELITY AND SECRECY  
+ 
+I,____________________________________________,  declare that I will faithfully, truly                      
+and to the best of my judgment, skill and ability execute and perform the duties which  are required of me 
+as director, m ember of ____________________, committee, officer, employee or auditor (as th e case 
+may be) of the Food Corporation  of India  or as member of the Board of Management  at ____________ ___ 
+                      Food Corporation  
+under the Food Corporation  of India and which properly relate to the office or position in or in relation to 
+that Corporation held by me. 
+I further declare that I will not communicate or allow to be communicated to any person not legally 
+entitled thereto any information relating to the affairs of the said Corporation or to the affairs of any 
+person having any dealing with the said Corporatio n nor will I allow any person not legally entitled as 
+aforesaid to inspect or have access to any books or documents belonging to, or in the possession of, the 
+said Corporation and relating to the business of the said Corporation or the business of any pers on having 
+any dealing with the said Corporation  
+ (Signature )________  
+Signed before me.  
+ 
+_________________ 
+--------------------------The Legal Tender (Inscribed Notes) Act, 1964--------------------------
+1 
+ THE LEGAL TENDER (INSCRIBED NOTES) ACT, 1964  
+ACT NO. 28 OF 1964  
+[30th September, 1964.]  
+An Act to restrict the negotiability of currency and other notes inscribed with messages of a 
+political character.  
+BE it enacted by Parliament in the Fifteenth Year of the Republic of India as follows: — 
+1. Short title and extent. —(1) This Act may be called the Legal Tend er (Inscribed Notes) Act, 1964.  
+(2) It extends to the whole of India.  
+2. Notes bearing messages of a political character not to be legal tender. —Notwithstanding 
+anything contained in the Reserve Bank of India Act, 1934 (2 of 1934), or in the Currency          
+Ordinance, 1940 (Ord. 4 of 1940), or in any other law for the time being in force, a currency not e of the 
+Government of India, a bank note issued by the Reserve Bank of India, or a Government of India        
+one-rupee note issued under the Currency Ordinance, 1940, which bears written upon it any extrinsic 
+words or visible representations intended to convey or capable of conveying a message of a political 
+chara cter, shall not be legal tender ; and the Reserve Bank of India shall not be under any legal obligation 
+to receive any such note, or to issue rupee coin or other coin or currency notes or bank not es in exchange 
+for any such note, or to refund the value of any such note:  
+Provided that the Reserve Bank of India may refund as of grace the whole or part of the value of any 
+such note.  
+3. Repeal and savings. —(1) The Legal Tender (Inscribed Notes) Ordinan ce, 1942 (Ord. 59 of 1942), 
+is hereby repealed.  
+(2) Notwithstanding such repeal, anything done or any action taken under the said Ordinance, shall be 
+deemed to have been done or taken under this Act as if this Act were in force on the day on which such 
+thing was done or such action was taken.  
+--------------------------The Public Employment (Requirement as to Residence) Amendment Act, 1964--------------------------
+1 
+ THE PUBLIC EMPLOYMENT (REQUIREMENT AS TO RESIDENCE)  
+AMENDMENT ACT, 1964  
+ACT NO. 10 OF 1964  
+[9th May, 1964 .] 
+An Act to amend the Public Employment (Requirement as to Residence) Act, 1957 . 
+BE it enacted by Parliament in the Fifteenth Year of t he Republic of India as follows :— 
+1. Short title .—This Act  may be called the Public Employment (Requirement as to Residence) 
+Amendment Act, 1964.  
+1*                                    *                                   *                                  *                                  * 
+4. Validity of rules and action taken thereunder .—For the removal of doubts, it is hereby declared 
+that all rules made under section 3 of the principal Act and in force immediately before the 21st       
+March, 1964, shall continue t o be in force after that date until amended, varied or rescinded, as if such 
+rules were made under the principal Act as amended by this Act; and any action taken (including 
+appointments made) in pursuance of those ru les on or after the 21st March, 1964 and  before the 
+commencement of this Act shall be as valid and operative as if it had been taken in  accordance with low.  
+ 
+                                                           
+1. Sections 2 and 3 rep. by Act  56 of 1974 , s. 2 and the First Schedule (w.e.f. 2 0-12-1974). 
+--------------------------The Taxation Laws (Continuation and Validation of Recovery Proceedings) Act, 1964--------------------------
+1 THE TAXATION LAWS (CONTINUATION AND VALIDATION OF  RECOVERY 
+PROCEEDINGS) ACT, 1964  
+__________  
+ARRANGEMENT OF SECTIONS  
+__________  
+SECTIONS  
+1. Short title . 
+2. Definitions . 
+3. Continuation and validation of certain proceedings . 
+4. Power to amend the Schedule . 
+5. Act to have retrospective effect . 
+6. Power to remove difficulties.  
+7. Power to make rules.  
+THE SCHEDULE . 
+  2 THE TAXATION LAWS (CONTINUATION AND VALIDATION OF  RECOVERY 
+PROCEEDINGS) ACT, 1964  
+ACT NO. 11 OF 1964  
+[12th May , 1964 .] 
+An Act to provide for the continuation and validation of proceedings in relation to Government 
+dues and for matters connected therewith.  
+BE it enacted by Parliament in the Fifteenth Year of the Republic of India as follows: — 
+ 1. Short title .—This Act may be called the Taxation Laws (Continuation and Validation of 
+Recovery Proceedings) Act, 1964.  
+2. Definitions .—In this Act, unless the context otherwise requires, — 
+(a) “assess ee”, in relation to — 
+(i) the Excess Profits Tax Act, 1940  (15 of 1940) , or the Business Profits Tax Act , 1947  (21 
+of 1947) , means a person by whom the tax or any other sum is payable under that Act;  
+(ii) the Estate Duty Act, 1953  (34 of 1953) , means a person accountable or an accountable 
+person as defined in that Act;  
+(iii) any other scheduled Act, means an assessee as defined in that Act;  
+(b) “Government dues ”, in relation to any scheduled Act, means any tax, duty, penalty, fine, 
+interest, annuity deposit or any other sum paya ble to the Government by an assessee under that Act;  
+(c) “scheduled Act ” means an Act specified in the Schedule;  
+(d) “Taxing Authority ”, in relation to any scheduled Act, means an officer (by whatever name 
+called) empowered to serve upon an assessee a noti ce of demand in respect of any Government dues 
+under that Act;  
+(e) “Tax Recovery Officer ”, in relation to any scheduled Act, means a Tax Recovery Officer as 
+defined in that Act and where there is no such definition, means an officer (by whatever name calle d) 
+to whom a certificate for the recovery of arrears of Government dues may be issued under that Act.  
+3. Continuation and validation of certain proceedings .—(1) Where any notice of demand in 
+respect of any Government dues is served upon an assessee  by a Taxing Authority under any scheduled 
+Act, and any appeal or other proceeding is filed or taken in respect of such Government dues, then, — 
+(a) where such Government dues are enhanced in such appeal or proceeding, the Taxing 
+Authority shall serve upon the assessee another notice of demand only in respect of the amount by 
+which such Government dues are enhanced and any proceedings in relation to such Government dues 
+as are covered by the notice or notices of demand served upon him before the disposal of such appeal 
+or proceeding may, without the service of any fresh notice of demand, be continued from the stage at 
+which such proceedings stood immediately before such disposal;  
+(b) where such Government dues are reduced in such appeal or proceeding, — 
+(i) it shall not be necessary for the Taxing Authority to serve upon th e assessee a fresh notice 
+of demand;  
+(ii) the Taxing Authority shall give intimation of the fact of such reduction to the assessee, 
+and where a certificate has been issued to the Tax Recovery  Officer for the recovery of such 
+amount, also to that officer;  
+(iii) any proceedings initiated on the basis of the notice or notices of demand served upon the 
+assessee before the disposal of such appeal or proceeding may be continued in relation to the 
+amount so reduced from the stage at which such proceedings stood immediately before such 
+disposal;  3 (c) no proceedings in relation to such Government dues (including the imposition of penalty or 
+charging of interest) shall be invalid by reason only that no fr esh notice of demand was served upon 
+the assessee after the disposal of such appeal or proceeding or that such Government dues have been 
+enhanced or reduc ed in such appeal or proceeding : 
+Provided that if as a result of any final order such Government dues (other than annuity deposit) 
+have been reduced and the penalty imposed on the assessee for default in payment thereof exceeds the 
+amount so reduced , the excess shall not be recovered, and if it has already been recovered, it shall be 
+refunded to the assessee on an application made by him to the Taxing Authority wihin such time and 
+in such manner as may be prescribed by rules made under this Act:  
+Provided further that if the amount of penalty imposed on the assessee for failure to make any 
+annuity depo sit exceeds one -half of the amount of the annuity deposit required to be made as  a result 
+of such order, the excess shall not be recovered and if it has already been recovered, shall be refunded 
+to the assessee on an application made by him to the Taxing A uthority within such time and in such 
+manner as may be prescribed by rules made under this Act:  
+Provided further that where any Government dues are reduced in such appeal or proceeding and 
+the assessee is entitled to any refund thereof, such refund shall b e made in accordance with the 
+provisions of that Act.  
+(2) For the removal of doubts , it is hereby declared that no fresh notice of demand shall be necessary 
+in any case where the amount of Government dues is not varied as a result of any order passed in an y 
+appeal or other proceeding under any scheduled Act.  
+(3) The provisions of this section shall have effect notwithstanding any judgment, decree or order of 
+any court, tribunal or other authority.  
+4. Power to amend the Schedule .—The Central Government may, by notification in the Official 
+Gazette, add the name of any Central Act providing for the imposition or levy of any tax or duty in the 
+Schedule and on the issue of any such notification, the Act so added shall be deemed to be an Act 
+specified in the Sched ule within the meaning of clause ( c) of section 2.  
+ 5. Act to have retrospective effect .—The provisions of this Act shall apply and shall be deemed 
+always to have applied, in relation to every notice of demand served upon an assessee by any Taxing 
+Authorit y under any scheduled Act whether such notice was or is served before or after the commence -
+ment of this Act.  
+6. Power to remove difficulties .—If any difficulty arises in giving effect to the provisions of this 
+Act, the Central Government may, by order pub lished in the Official Gazette, make such provisions not 
+inconsistent with the purpose s of this Act, as appear to it to be necessary or expedient for removing the 
+difficulty.  
+7. Power to make rules .—(1) The Central Government may1[by notification in the Official Gazette] 
+make rules for carrying out the purposes of this Act.  
+(2) Every rule made under this Act shall be laid as soon as may be after it is made, before each House 
+of Parliament while it is in session for a total period of thirty days which may b e comprised in one session 
+or2[in two or more successive sessions, and if , before the expiry of the session immediately following the 
+session or the successive sessions aforesaid] both Houses agree in making any modification in the rule or 
+both Houses agre e that the rule should not be made, that rule shall thereafter have effect , only in such 
+modified form or be of no effect, as the case may be, so however that any such modification or annulment 
+shall be without prejudice to the validity of anything previou sly done under that rule.  
+                                                           
+1. Ins. by Act 4 of 1986, s. 2 and the Schedule (w.e.f. 15-5-1986).  
+2. Subs. by s. 2 and the Schedule, ibid., for certain words (w.e.f. 15-5-1986).  4 THE SCHEDULE  
+[See section 2( c)] 
+1.The Indian Income -tax Act, 1922 (11 of 1922).  
+2.The Excess Profits Tax Act, 194 0 (15 of 1940).  
+3.The Business Profits Tax Act, 1947 (21 of 1947).  
+4.The  Estate Duty Act, 1953 (34 of 1953).  
+5.The Wealth -tax Act, 1957 (27 of 1957).  
+6.The Expenditure -tax Act, 1957 (29 of 1957).  
+7.The Gift -tax Act, 1958 (18 of 1958).  
+8.The Income -tax Act , 1961 (43 of 1961).  
+9.The Super Profits Tax Act, 1963 (14 of 1963).  
+1[10. The  Companies (Profits) Surtax Act, 1964 (7 of 1964).]  
+                                                           
+1. Added by Notification No. S.O. 1914, d ated 1-6-1964 . 

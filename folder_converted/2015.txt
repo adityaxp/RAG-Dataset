@@ -1,0 +1,2481 @@
+--------------------------The Black Money (Undisclosed Foreign Income and Assets) and Imposition of Tax Act, 2015--------------------------
+1 THE BLACK MONEY (UNDISCLOSED FOREIGN INCOMEAND ASSETS) AND 
+IMPOSITION OF TAX ACT, 2015 
+____________ 
+ARRANGEMENT OF SECTIONS 
+____________ 
+CHAPTER I 
+PRELIMINARY
+SECTIONS 
+1.Short title, extent and commencement. 
+2.Definitions. 
+CHAPTER II 
+BASIS OF CHARGE 
+3.Charge of tax. 
+4.Scope of total undisclosed foreign income and asset. 
+5.Computation of total undisclosed foreign income and asset. 
+CHAPTER III 
+TAX MANAGEMENT 
+6.Tax authorities. 
+7.Change of incumbent. 
+8.Powers regarding discovery and production of evidence. 
+9.Proceedings before tax authorities to be judicial proceedings. 
+10.Assessment. 
+11.Time limit for completion of assessment and reassessment. 
+12.Rectification of mistake. 
+13.Notice of demand. 
+14.Direct assessment or recovery not barred. 
+15.Appeals to the Commissioner (Appeals). 
+16.Procedure to be followed in appeal. 
+17.Powers of Commissioner (Appeals). 
+18.Appeals to Appellate Tribunal. 
+19.Appeal to High Court. 
+20.Case before High Court to be heard by not less than two Judges. 
+21.Appeal to Supreme Court. 
+22.Hearing before Supreme Court. 
+23.Revision of orders prejudicial to revenue. 
+24.Revision of other orders. 
+25.Tax to be paid pending appeal. 
+26.Execution of order for costs awarded by Supreme Court. 
+27.Amendment of assessment on appeal. 
+28.Exclusion of time taken for obtaining copy. 2 SECTIONS
+29.Filing of appeal by tax authority. 
+30.Recovery of tax dues by Assessing Officer. 
+31.Recovery of tax dues by Tax Recovery Officer. 
+32.Modes of recovery of tax dues. 
+33.Tax Recovery Officer by whom recovery of tax dues is to be effected. 
+34.Recovery of tax dues in case of a company in liquidation. 
+35.Liability of manager of a company. 
+36.Joint and several liability of participants. 
+37.Recovery through State Government. 
+38.Recovery of tax dues in pursuance of agreements with foreign countries or specified territory. 
+39.Recovery by suit or under other law not affected. 
+40.Interest for default in furnishing return and payment or deferment of advance tax. 
+CHAPTER IV 
+PENALTIES
+41.Penalty in relation to undisclosed foreign income and asset. 
+42.Penalty for failure to furnish return in relation to foreign income and asset. 
+43.Penalty for failure to furnish in return of income, an information or furnish inaccurate particulars 
+about an asset (including financial interest in any entity) located outside India. 
+44.Penalty for default in payment of tax arrear. 
+45.Penalty for other defaults. 
+46.Procedure. 
+47.Bar of limitation for imposing penalty. 
+CHAPTER V 
+OFFENCES AND PROSECUTIONS 
+48.Chapter not in derogation of any other law or any other provision of this Act. 
+49.Punishment for failure to furnish return in relation to foreign income and asset. 
+50.Punishment for failure to furnish in return of income, any information about an asset (including 
+financial interest in any entity) located outside India. 
+51.Punishment for wilful attempt to evade tax. 
+52.Punishment for false statement in verification. 
+53.Punishment for abetment. 
+54.Presumption as to culpable mental state. 
+55.Prosecution to be at instance of Principal Chief Commissioner or Chief Commissioner or 
+Principal Commissioner or Commissioner. 
+56.Offences by companies. 
+57.Proof of entries in records of documents. 
+58.Punishment for second and subsequent offences. 3 CHAPTER VI 
+TAX COMPLIANCE FOR UNDISCLOSED FOREIGN INCOME AND ASSETS 
+SECTIONS
+59.Declaration of undisclosed foreign asset. 
+60.Charge of tax. 
+61.Penalty. 
+62.Manner of declaration. 
+63.Time for payment of tax. 
+64.Undisclosed foreign asset declared not to be included in total income. 
+65.Undisclosed foreign asset declared not to affect finality of completed assessments. 
+66.Tax in respect of voluntarily disclosed asset not refundable. 
+67.Declaration not admissible in evidence against declarant. 
+68.Declaration by misrepresentation of facts to be void. 
+69.Exemption from wealth-tax in respect of assets specified in declaration. 
+70.Applicability of certain provisions of Income-tax Act and of Chapter V of Wealth-tax Act. 
+71.Chapter not to apply to certain persons. 
+72.Removal of doubts. 
+CHAPTER VII 
+GENERAL PROVISIONS 
+73.Agreement with foreign countries or specified territories. 
+74.Service of notice generally. 
+75.Authentication of notices and other documents. 
+76.Notice deemed to be valid in certain circumstances. 
+77.Appearance by approved valuer in certain matters. 
+78.Appearance by authorised representative. 
+79.Rounding off of income, value of asset and tax. 
+80.Cognizance of offences. 
+81.Assessment not to be invalid on certain grounds. 
+82.Bar of suits in civil courts. 
+83.Income-tax papers to be available for purposes of this Act. 
+84.Application of provisions of Income-tax Act. 
+85.Power to make rules. 
+86.Power to remove difficulties. 
+87.Amendment of section 2 of Act 54 of 1963. 
+88.Amendment of Act of 15 of 2003. 4 THE BLACK MONEY (UNDISCLOSED FOREIGN INCOME AND ASSETS) AND 
+IMPOSITION OF TAX ACT, 2015 
+ACT NO. 22 OF 2015 
+[26th May , 2015.] 
+An Act to make provisions to deal with the problem of the Black money that is undisclosed 
+foreign income and assets, the procedure for dealing with such income and assets and to 
+provide for imposition of tax on any undisclosed foreign income and asset held outside India 
+and for matters connected therewith or incidental thereto. 
+BE it enacted by Parliament in the Sixty-sixth Year of the Republic of India as follows:— 
+CHAPTER I 
+PRELIMINARY
+1. Short title, extent and commencement .—(1) This Act may be called the Black Money 
+(Undisclosed Foreign Income and Assets) and Imposition of Tax Act, 2015. 
+(2) It extends to the whole of India. 
+(3) Save as otherwise provided in this Act, it shall come into force on the 1st day of April, 2016. 
+2. Definitions. —In this Act, unless the context otherwise requires,— 
+(1) “Appellate Tribunal” means the Appellate Tribunal constituted under section 252 of the 
+Income-tax Act; 
+(2) “assessee” means a person, being a resident other than not ordinarily resident in India within 
+the meaning of clause ( 6) of section 6 of the Income-tax Act, by whom tax in respect of undisclosed 
+foreign income and assets, or any other sum of money, is payable under this Act and includes every 
+person who is deemed to be an assessee in default under this Act; 
+(3) “assessment” includes reassessment; 
+(4) “assessment year” means the period of twelve months commencing on the 1st day of April 
+every year; 
+(5) “Board” means the Central Board of Direct Taxes constituted under the Central Boards of 
+Revenue Act, 1963 (54 of 1963); 
+(6) “Income-tax Act” means the Income-tax Act, 1961 (43 of 1961); 
+(7) “participant” means— 
+(a) a partner in relation to a firm; or 
+(b) a member in relation to an association of persons or body of individuals; 
+(8) “prescribed” means prescribed by rules made under this Act; 
+(9) “previous year” means— 
+(a) the period beginning with the date of setting up of a business and ending with the date of 
+the closure of the business or the 31st day of March following the date of setting up of such 
+business, whichever is earlier; 5 (b) the period beginning with the date on which a new source of income comes into existence 
+and ending with the date of closure of the business or the 31st day of March following the date on 
+which such new source comes into existence, whichever is earlier; 
+(c) the period beginning with the 1st day of the financial year and ending with the date of 
+discontinuance of the business other than business referred to in clause ( b) or dissolution of an 
+unincorporated body or liquidation of a company, as the case may be; or 
+(d) the period of twelve months commencing on the 1st day of April of the relevant year in 
+any other case, 
+and which immediately precedes the assessment year. 
+(10) “resident” means a person who is resident in India within the meaning of Section 6 of the 
+Income-tax Act; 
+(11) “undisclosed asset located outside India” means an asset (including financial interest in any 
+entity) located outside India, held by the assessee in his name or in respect of which he is a beneficial 
+owner, and he has no explanation about the source of investment in such asset or the explanation 
+given by him is in the opinion of the Assessing Officer unsatisfactory; 
+(12) “undisclosed foreign income and asset” means the total amount of undisclosed income of an 
+assessee from a source located outside India and the value of an undisclosed asset located outside 
+India, referred to in section 4, and computed in the manner laid down in Section 5; 
+(13) “unincorporated body” means— 
+(a) a firm; 
+(b) an association of persons; or 
+(c) a body of individuals; 
+(14) “value of an undisclosed asset” shall have the meaning assigned to it in sub-section ( 2) of 
+Section 3; 
+(15) all other words and expressions used herein but not defined and defined in the Income-tax 
+Act shall have the meanings respectively assigned to them in that Act. 
+CHAPTER II 
+BASIS OF CHARGE 
+3. Charge of tax. —(1) There shall be charged on every assessee for every assessment year 
+commencing on or after the 1st day of April, 2016, subject to the provisions of this Act, a tax in respect of 
+his total undisclosed foreign income and asset of the previous year at the rate of thirty per cent. of such 
+undisclosed income and asset: 
+Provided that an undisclosed asset located outside India shall be charged to tax on its value in the 
+previous year in which such asset comes to the notice of the Assessing Officer. 
+(2) For the purposes of this section, “value of an undisclosed asset” means the fair market value of an 
+asset (including financial interest in any entity) determined in such manner as may be prescribed. 6 4. Scope of total undisclosed foreign income and asset. —(1) Subject to the provisions of this Act, 
+the total undisclosed foreign income and asset of any previous year of an assessee shall be,— 
+(a) the income from a source located outside India, which has not been disclosed in the return of 
+income furnished within the time specified in Explanation 2 to sub-section ( 1) or under  
+sub-section ( 4) or sub-section ( 5) of section 139 of the Income-tax Act; 
+(b) the income, from a source located outside India, in respect of which a return is required to be 
+furnished under section 139 of the Income-tax Act but no return of income has been furnished within 
+the time specified in Explanation 2 to sub-section ( 1) or under sub-section ( 4) or sub-section ( 5) of 
+section 139 of the said Act; and 
+(c) the value of an undisclosed asset located outside India. 
+(2) Notwithstanding anything contained in sub-section ( 1), any variation made in the income from a 
+source outside India in the assessment or reassessment of the total income of any previous year, of the 
+assessee under the Income-tax Act in accordance with the provisions of section 29 to section 43C or 
+section 57 to section 59 or section 92C of the said Act, shall not be included in the total undisclosed 
+foreign income. 
+(3) The income included in the total undisclosed foreign income and asset under this Act shall not 
+form part of the total income under the Income-tax Act. 
+5. Computation of total undisclosed foreign income and asset. —(1) In computing the total 
+undisclosed foreign income and asset of any previous year of an assessee,— 
+(i) no deduction in respect of any expenditure or allowance or set off of any loss shall be allowed 
+to the assessee, whether or not it is allowable in accordance with the provisions of the Income-tax 
+Act; 
+(ii) any income,— 
+(a) which has been assessed to tax for any assessment year under the Income-tax Act prior to 
+the assessment year to which this Act applies; or 
+(b) which is assessable or has been assessed to tax for any assessment year under this Act, 
+shall be reduced from the value of the undisclosed asset located outside India, if, the assessee furnishes 
+evidence to the satisfaction of the Assessing Officer that the asset has been acquired from the income 
+which has been assessed or is assessable, as the case may be, to tax. 
+(2) The amount of deduction referred to in clause ( ii) of sub-section ( 1) in case of an immovable 
+property shall be the amount which bears to the value of the asset as on the first day of the financial year 
+in which it comes to the notice of the Assessing Officer, the same proportion as the assessable or assessed 
+foreign income bears to the total cost of the asset. 
+Illustration 
+A house property located outside India was acquired by an assessee in the previous year 2009-10 for 
+fifty lakh rupees. Out of the investment of fifty lakh rupees, twenty lakh rupees was assessed to tax in the 
+total income of the previous year 2009-10 and earlier years. Such undisclosed asset comes to the notice of 
+the Assessing Officer in the year2017-18. If the value of the asset in the year 2017-18 is one crore rupees, 
+the amount chargeable to tax shall be A-B= C 
+where, 
+A = Rs.1 crore, B = Rs. (100 × 20/50) lakh = Rs.40 lakh, C = Rs. (100-40) lakh = Rs.60 lakh. 7 CHAPTER III 
+TAX MANAGEMENT
+6. Tax authorities. —(1) The income-tax authorities specified in Section 116 of the Income-tax Act 
+shall be the tax authorities for the purposes of this Act. 
+(2) Every such authority shall exercise the powers and perform the functions of a tax authority under 
+this Act in respect of any person within his jurisdiction. 
+(3) Subject to the provisions of sub-section ( 4), the jurisdiction of a tax authority under this Act shall 
+be the same as he has under the Income-tax Act by virtue of orders or directions issued under section 120 
+of that Act (including orders or directions assigning the concurrent jurisdiction) or under any other 
+provision of that Act. 
+(4) The tax authority having jurisdiction in relation to an assessee who has no income assessable to 
+income-tax under the Income-tax Act shall be the tax authority having jurisdiction in respect of the area in 
+which the assessee resides or carries on its business or has its principal place of business. 
+(5) Section 118 of the Income-tax Act and any notification issued thereunder shall apply in relation to 
+the control of tax authorities as they apply in relation to the control of the corresponding income-tax 
+authorities, except to the extent to which the Board may, by notification in the Official Gazette, otherwise 
+direct in respect of any tax authority. 
+7. Change of incumbent. —(1) The tax authority who succeeds another authority as a result of 
+change in jurisdiction or for any other reason, shall continue the proceedings from the stage at which it 
+was left by his predecessor. 
+(2) The assessee in such a case may be given an opportunity of being heard, if he so requests in 
+writing, before passing any order in his case. 
+8. Powers regarding discovery and production of evidence. —(1) The prescribed tax authorities 
+shall, for the purposes of this Act, have the same powers as are vested in a court under the Code of Civil 
+Procedure, 1908 (5 of 1908), while trying a suit in respect of the following matters, namely:— 
+(a) discovery and inspection; 
+(b) enforcing the attendance of any person, including any officer of a banking company and 
+examining him on oath; 
+(c) compelling the production of books of account and other documents; and 
+(d) issuing commissions. 
+(2) For the purposes of making any inquiry or investigation, the prescribed tax authority shall be 
+vested with the powers referred to in sub-section ( 1), whether or not any proceedings are pending before 
+it. 
+(3) Any tax authority prescribed for the purposes of sub-section ( 1) or sub-section ( 2) may, subject to 
+the rules made in this behalf, impound any books of account or other documents produced before it and 
+retain them in its custody for such period as it thinks fit. 
+(4) Any tax authority below the rank of Commissioner shall not— 
+(a) impound any books of account or other documents without recording his reasons for doing so; 
+or 8 (b) retain in his custody any such books or documents for a period exceeding thirty days without 
+obtaining the approval of the Principal Chief Commissioner or the Chief Commissioner or the 
+Principal Commissioner or the Commissioner. 
+9. Proceedings before tax authorities to be judicial proceedings. —(1) Any proceeding under this 
+Act before a tax authority shall be deemed to be a judicial proceeding within the meaning of section 193 
+and section 228 and for the purposes of section 196 of the Indian Penal Code (45 of 1860). 
+(2) Every tax authority shall be deemed to be a civil court for the purposes of section 195, but not for 
+the purposes of Chapter XXVI of the Code of Criminal Procedure, 1973 (2 of 1974). 
+10. Assessment. —(1) For the purposes of making an assessment or reassessment under this Act, the 
+Assessing Officer may, on receipt of an information from an income-tax authority under the Income-tax 
+Act or any other authority under any law for the time being in force or on coming of any information to 
+his notice, serve on any person, a notice requiring him on a date to be specified to produce or cause to be 
+produced such accounts or documents or evidence as the Assessing Officer may require for the purposes 
+of this Act and may, from time to time, serve further notices requiring the production of such other 
+accounts or documents or evidence as he may require. 
+(2) The Assessing Officer may make such inquiry, as he considers necessary, for the purpose of 
+obtaining full information in respect of undisclosed foreign income and asset of any person for the 
+relevant financial year or years. 
+(3) The Assessing Officer, after considering such accounts, documents or evidence, as he has 
+obtained under sub-section ( 1), and after taking into account any relevant material which he has gathered 
+under sub-section ( 2) and any other evidence produced by the assessee, shall by an order in writing, 
+assess the undisclosed foreign income and asset and determine the sum payable by the assessee. 
+(4) If any person fails to comply with all the terms of the notice under sub-section ( 1), the Assessing 
+Officer shall, after taking into account all the relevant material which he has gathered and after giving the 
+assessee an opportunity of being heard, make the assessment of undisclosed foreign income and asset to 
+the best of his judgment and determine the sum payable by the assessee. 
+11. Time limit for completion of assessment and reassessment. —(1) No order of assessment or 
+reassessment shall be made under section 10 after the expiry of two years from the end of the financial 
+year in which the notice under sub-section ( 1) of section 10 was issued by the Assessing Officer. 
+(2) Notwithstanding anything contained in sub-section ( 1), an order of fresh assessment in pursuance 
+of an order passed under section 18 setting aside or cancelling an assessment, may be made at any time 
+before the expiry of the period of two years from the end of the financial year in which the order under 
+section 18 is received by the Principal Commissioner or the Commissioner. 
+(3) The provisions of sub-section ( 1) shall not apply to the assessment or reassessment made in 
+consequence of, or to give effect to, any finding or direction contained in an order under section 15 or 
+section 18 or section 19 or section 22 of this Act or in an order of any court in a proceeding otherwise 
+than by way of appeal under this Act and such assessment or reassessment may, subject to the provisions 
+of sub-section ( 2), be completed at any time, before the expiry of the period of two years from the end of 
+the financial year in which such order is received by the Principal Commissioner or the Commissioner. 
+Explanation 1.—In computing the period of limitation for the purpose of this section— 
+(i) the time taken in reopening the whole or any part of the proceeding; or 
+(ii) the period during which the assessment proceeding is stayed by an order or injunction of any 
+court; or 9 (iii) the period commencing from the date on which a reference or first of the references for 
+exchange of information is made by an authority competent under an agreement referred to in section 
+90 or section 90A of the Income-tax Act or under section 73 of this Act and ending with the date on 
+which the Principal Commissioner or the Commissioner last receives, the information so requested or 
+a period of one year, whichever is less, shall be excluded: 
+Provided that where immediately after the exclusion of the aforesaid time or period, the period of 
+limitation referred to in sub-sections ( 1), (2) and ( 3) available to the Assessing Officer for making an 
+order of assessment or reassessment, as the case may be, is less than sixty days, such remaining period 
+shall be extended to sixty days and the aforesaid period of limitation shall be deemed to be extended 
+accordingly. 
+Explanation 2.—Where, by an order referred to in sub-section ( 3), any undisclosed foreign income 
+and asset is excluded from the total undisclosed foreign income and asset for an assessment year in 
+respect of an assessee, then, an assessment of such undisclosed foreign income and asset for another 
+assessment year shall, for the purposes of section 10 and this section, be deemed to be one made in 
+consequence of, or to give effect to, any finding or direction contained in the said order. 
+12. Rectification of mistake. —(1) A tax authority may amend any order passed by it under this Act 
+so as to rectify any mistake apparent from the record. 
+(2) No amendment under this section shall be made after a period of four years from the end of the 
+financial year in which the order sought to be amended was passed. 
+(3) The tax authority shall not make any amendment, which has the effect of enhancing the 
+undisclosed foreign income and asset or reducing a refund or otherwise increasing the liability of the 
+assessee, unless the authority concerned has given to the assessee an opportunity of being heard. 
+(4) The tax authority concerned may make an amendment under this section— 
+(a) on its own motion; or 
+(b) on an application made to it by the assessee or, as the case may be, by the Assessing Officer. 
+(5) Any application received by the tax authority for amendment of an order shall be decided within a 
+period of six months from the end of the month in which such application is received by it. 
+(6) In a case where the order has been made in an appeal or revision, the power of the tax authority to 
+amend the order shall be restricted to matters other than those decided in appeal or revision. 
+13. Notice of demand. —Any sum payable in consequence of any order made under this Act shall be 
+demanded by a tax authority by serving upon the assessee a notice of demand in such form and manner as 
+may be prescribed. 
+14. Direct assessment or recovery not barred. —Nothing in this Chapter shall prevent either the 
+direct assessment of the person on whose behalf or for whose benefit the undisclosed income from a 
+source located outside India is receivable or undisclosed asset located outside India is held, or the 
+recovery from such person of the tax or any other sum of money payable in respect of such income and 
+asset. 
+15. Appeals to the Commissioner (Appeals). —(1) Any person,— 
+(a) objecting to the amount of tax on undisclosed foreign income and asset for which he is assessed 
+by the Assessing Officer; or  
+(b) denying his liability to be assessed under this Act; or  10 (c) objecting to any penalty imposed by the Assessing Officer; or  
+(d) objecting to an order of rectification having the effect of enhancing the assessment or reducing 
+the refund; or 
+(e) objecting to an order refusing to allow the claim made by the assessee for a rectification under 
+section 12, may appeal to the Commissioner (Appeals). 
+(2) Every appeal shall be filed in such form and verified in such manner and be accompanied by a fee 
+as may be prescribed. 
+(3) An appeal shall be presented within a period of thirty days from— 
+(a) the date of service of the notice of demand relating to the assessment or penalty, or 
+(b) the date on which the intimation of the order sought to be appealed against is served in any 
+other case. 
+(4) The Commissioner (Appeals) may admit an appeal after the expiration of the period referred to in 
+sub-section ( 3)— 
+(a) if he is satisfied that the appellant had sufficient cause for not presenting it within that period; 
+and 
+(b) the delay in preferring the appeal does not exceed a period of one year. 
+(5) The Commissioner (Appeals) shall hear and determine the appeal and, subject to the provisions of 
+this Act, pass such orders as he thinks fit and such orders may include an order enhancing the assessment 
+or penalty: 
+Provided that an order enhancing the assessment or penalty shall not be made unless the assessee has 
+been given a reasonable opportunity of being heard. 
+16. Procedure to be followed in appeal. —(1) The Commissioner (Appeals) shall fix a date and 
+place for the hearing of the appeal, and shall give notice of the same to the appellant and the Assessing 
+Officer against whose order the appeal is preferred. 
+(2) The following shall have the right to be heard at the hearing of the appeal, namely:— 
+(a) the appellant, either in person or by an authorised representative; 
+(b) the Assessing Officer, either in person or by a representative. 
+(3) The Commissioner (Appeals) may adjourn the hearing of the appeal whenever he considers it 
+necessary or expedient to do so. 
+(4) The Commissioner (Appeals) may, before disposing of any appeal, make such further inquiry as 
+he thinks fit. 
+(5) The Commissioner (Appeals) may, during the proceedings before him, direct the Assessing 
+Officer to make an inquiry and report to him on the points arising out of any question of law or fact. 
+(6) The Commissioner (Appeals) may, at the hearing of an appeal, allow the appellant to go into any 
+ground of appeal not specified in the grounds of appeal, if the Commissioner (Appeals) is satisfied that 
+the omission was not wilful or unreasonable. 
+(7) The order of the Commissioner (Appeals) disposing of the appeal shall be in writing and shall 
+state the points for determination, the decision thereon and the reasons therefor. 11 (8) Every appeal preferred under section 15 shall be heard and disposed of by the Commissioner 
+(Appeals) as expeditiously as possible and endeavour shall be made to dispose of such appeal within a 
+period of one year from the end of the financial year in which the appeal is preferred. 
+(9) On the disposal of the appeal, the Commissioner (Appeals) shall communicate the order passed by 
+him to the assessee and to the Principal Chief Commissioner or the Chief Commissioner or the Principal 
+Commissioner or the Commissioner. 
+17. Powers of Commissioner (Appeals). —(1) In disposing of an appeal, the Commissioner 
+(Appeals) shall have the following powers, namely:— 
+(a) in an appeal against an order of assessment, he may confirm, reduce, enhance or annul the 
+assessment; 
+(b) in an appeal against an order imposing a penalty, he may confirm or cancel such order; 
+(c) in any other case, he may determine the issues arising in the appeal and pass such orders 
+thereon, as he thinks fit. 
+(2) The Commissioner (Appeals) may consider and decide any matter which was not considered by 
+the Assessing Officer. 
+(3) The Commissioner (Appeals) shall not enhance an assessment or a penalty unless the appellant 
+has been given an opportunity of being heard. 
+(4) In disposing of an appeal, the Commissioner (Appeals) may consider and decide any matter 
+arising out of the proceedings in which the order appealed against was passed, notwithstanding that such 
+matter was not raised before him by the appellant. 
+18. Appeals to Appellate Tribunal. —(1) Any assessee aggrieved by an order passed by the 
+Commissioner (Appeals) under section 15, or an order passed by the Principal Commissioner or the 
+Commissioner under any provision of this Act, may appeal to the Appellate Tribunal against such order. 
+(2) The Principal Commissioner or the Commissioner may, if he objects to any order passed by the 
+Commissioner (Appeals) under any provision of this Act, direct the Assessing Officer to appeal to the 
+Appellate Tribunal against the order. 
+(3) Every appeal under sub-section ( 1) or sub-section ( 2) shall be filed within a period of sixty days 
+from the date on which the order sought to be appealed against is communicated to the assessee or to the 
+Principal Commissioner or the Commissioner, as the case may be. 
+(4) The Assessing Officer or the assessee, as the case may be, on receipt of notice that an appeal 
+against the order of the Commissioner (Appeals) has been preferred under sub-section ( 1) or  
+sub-section ( 2) by the other party may, notwithstanding that he may not have appealed against such order 
+or any part thereof, within thirty days of the receipt of the notice, file a memorandum of cross-objections, 
+verified in the prescribed manner, against any part of the order of the Commissioner (Appeals), and such 
+memorandum shall be disposed of by the Appellate Tribunal as if it were an appeal presented within the 
+time specified in sub-section ( 3). 
+(5) The Appellate Tribunal may admit an appeal or permit the filing of a memorandum of cross-
+objections after the expiry of the period referred to in sub-section ( 3) or sub-section ( 4), if — 
+(a) it is satisfied that there was sufficient cause for not presenting it within that period; and 
+(b) the delay in filing the appeal does not exceed a period of one year. 12 (6) An appeal to the Appellate Tribunal shall be filed in such form, and verified in such manner, and 
+shall, except in the case of an appeal referred to in sub-section ( 2) or a memorandum of cross-objections 
+referred to in sub-section ( 4), be accompanied by a fee as may be prescribed. 
+(7) Subject to the provisions of this Act, in hearing and making an order on any appeal under this 
+section, the Appellate Tribunal shall exercise the same powers and follow the procedure as it exercises 
+and follows in hearing and making an order on any appeal under the Income-tax Act. 
+19. Appeal to High Court. —(1) An appeal shall lie to the High Court from every order passed in 
+appeal by the Appellate Tribunal, if the High Court is satisfied that the case involves a substantial 
+question of law. 
+(2) The Principal Chief Commissioner or the Chief Commissioner or the Principal Commissioner or 
+the Commissioner or an assessee, may file an appeal to the High Court on being aggrieved by any order 
+passed by the Appellate Tribunal and such appeal shall be — 
+(a) filed within a period of one hundred and twenty days from the date on which the order 
+appealed against is received by the Principal Chief Commissioner or the Chief Commissioner or the 
+Principal Commissioner or the Commissioner or the assessee; 
+(b) in the form of a memorandum of appeal precisely stating therein the substantial question of 
+law involved. 
+(3) The High Court may admit an appeal after the expiry of the period of one hundred and twenty 
+days referred to in sub-section ( 2), if it is satisfied that there was sufficient cause for not filing the appeal 
+within that period. 
+(4) If the High Court is satisfied that a substantial question of law is involved in any case, it shall 
+formulate that question. 
+(5) The appeal shall be heard only on the question so formulated, and the respondents shall, at the 
+hearing of the appeal, be allowed to argue that the case does not involve such question. 
+(6) Notwithstanding anything in sub-sections ( 4) and ( 5), the High Court may exercise its power to 
+hear the appeal on any other substantial question of law not formulated by it, if it is satisfied that the case 
+involves such question of law. 
+(7) The High Court shall decide the question of law so formulated and deliver such judgment thereon 
+containing the grounds on which such decision is founded and may award such cost as it deems fit. 
+(8) The High Court may determine any issue which — 
+(a) has not been determined by the Appellate Tribunal; or 
+(b) has been wrongly determined by the Appellate Tribunal, by reason of a decision on the 
+question of law referred to in sub-section ( 1). 
+(9) The provisions of the Code of Civil Procedure, 1908 (5 of 1908), relating to appeals to the High 
+Court shall, so far as may be, apply in the case of appeals under this section. 
+(10) When the High Court delivers a judgment in an appeal filed before it under sub-section ( 7), 
+effect shall be given to the order passed on the appeal by the Assessing Officer on the basis of a certified 
+copy of the judgment. 
+20. Case before High Court to be heard by not less than two Judges. —(1) An appeal filed before 
+the High Court shall be heard by a Bench of not less than two Judges of the High Court and shall be 13 decided in accordance with the opinion of such Judges or if the Bench is of more than two Judges, by the 
+majority of such Judges. 
+(2) Where there is no such majority, the Judges shall state the point of law upon which they differ and 
+the case shall then be heard upon that point only by one or more of the other Judges of the High Court and 
+such point shall be decided according to the opinion of the majority of the Judges who have heard the 
+case including those who first heard it. 
+21. Appeal to Supreme Court. —An appeal shall lie to the Supreme Court from any judgment of the 
+High Court delivered under section 19 which the High Court certifies to be a fit case for appeal to the 
+Supreme Court. 
+22. Hearing before Supreme Court. —(1) The provisions of the Code of Civil Procedure, 1908 
+(5 of 1908), relating to appeals to the Supreme Court shall, so far as may be, apply in the case of appeals 
+under section 21 as they apply in the case of appeals from decrees of a High Court. 
+(2) The costs of the appeal shall be in the discretion of the Supreme Court. 
+(3) Where the judgment of the High Court is varied or reversed in the appeal, effect shall be given to 
+the order of the Supreme Court in the manner provided in sub-section ( 10) of section 19. 
+23. Revision of orders prejudicial to revenue. —(1) The Principal Commissioner or the 
+Commissioner may, for the purposes of revising any order passed in any proceeding under this Act before 
+any tax authority subordinate to him, call for and examine all available records relating thereto. 
+(2) The Principal Commissioner or the Commissioner may, after giving the assessee an opportunity of 
+being heard, pass an order (hereinafter referred to as the revision order) as the circumstances of the case 
+justify, if he is satisfied that the order sought to be revised is erroneous in so far as it is prejudicial to the 
+interests of the revenue. 
+(3) The Principal Commissioner or the Commissioner may make, or cause to be made, such inquiry 
+as he considers necessary for the purposes of passing an order under sub-section ( 2). 
+(4) The revision order passed by the Principal Commissioner or the Commissioner under  
+sub-section ( 2) may have the effect of enhancing or modifying the assessment but shall not be an order 
+cancelling the assessment and directing a fresh assessment. 
+(5) The power of the Principal Commissioner or the Commissioner under sub-section ( 2) for revising 
+an order shall extend to such matters as have not been considered and decided in any appeal. 
+(6) No order under sub-section ( 2) shall be made after the expiry of a period of two years from the 
+end of the financial year in which the order sought to be revised was passed. 
+(7) Notwithstanding anything in sub-section ( 6), an order in revision under this section may be passed 
+at any time in respect of an order which has been passed in consequence of, or to give effect to, any 
+finding or direction contained in an order of the Appellate Tribunal, the High Court or the Supreme Court. 
+(8) In computing the period of limitation under sub-section ( 6), the following shall not be included, 
+namely:— 
+(a) the time taken in giving an opportunity to the assessee to be reheard under section 7; or 
+(b) any period during which any proceeding under this section is stayed by an order or injunction 
+of any court. 14 (9) Without prejudice to the generality of the foregoing provisions, an order passed by a tax authority 
+shall be deemed to be erroneous in so far as it is prejudicial to the interests of the revenue, if in the 
+opinion of the Principal Commissioner or the Commissioner— 
+(a) the order is passed without making inquiries or verification which, should have been made; or 
+(b) the order has not been made in accordance with any order, direction or instruction issued by 
+the Board; or 
+(c) the order has not been passed in accordance with any decision, prejudicial to the assessee, 
+rendered by the jurisdictional High Court or the Supreme Court in the case of the assessee or any 
+other person under this Act or the Income-tax Act. 
+(10) In this section, “record” shall include all records relating to any proceeding under this Act 
+available at the time of examination by the Principal Commissioner or the Commissioner. 
+24. Revision of other orders. —(1) The Principal Commissioner or the Commissioner may, either 
+suo-motu or on an application made by the assessee, for the purposes of revising any order passed by an 
+authority subordinate to him, other than an order to which section 23 applies, call for and examine all 
+available records relating thereto. 
+(2) The Principal Commissioner or the Commissioner may pass an order, as he considers necessary, 
+which is not prejudicial to the assessee. 
+(3) The power of the Principal Commissioner or the Commissioner under sub-section ( 2) to revise an 
+order shall not extend to such order— 
+(a) against which an appeal has not been filed but the time for filing an appeal before the 
+Commissioner (Appeals) has not expired; 
+(b) against which an appeal is pending before the Commissioner (Appeals); or 
+(c) which has been considered and decided in any appeal. 
+(4) The assessee shall make the application for revision of any order referred to in sub-section ( 1), 
+within a period of one year from the date on which the order sought to be revised was communicated to 
+him, or the date on which he otherwise came to know of it, whichever is earlier. 
+(5) The Principal Commissioner or the Commissioner may, if he is satisfied that the assessee was 
+prevented by sufficient cause from making the application within the period of one year, admit an 
+application made after the expiry of one year but before expiry of two years from the date referred to in 
+sub-section ( 4). 
+(6) Every application by an assessee for revision under this section shall be accompanied by such fees 
+as may be prescribed. 
+(7) No order under sub-section ( 2) shall be made after the expiry of— 
+(a) a period of one year from the end of the financial year in which an application is made by the 
+assessee under sub-section ( 4); or 
+(b) a period of one year from the date of the order sought to be revised, if the order is revised  
+suo-motu by the Commissioner. 
+(8) In computing the period of limitation under sub-section ( 7), the following shall not be included, 
+namely:— 
+(a) the time taken in giving an opportunity to the assessee to be reheard under section 7; or15 (b) any period during which any proceeding under this section is stayed by an order or injunction 
+of any court. 
+(9) An order by the Principal Commissioner or the Commissioner declining to interfere shall, for the 
+purposes of this section, be deemed not to be an order prejudicial to the assessee. 
+25. Tax to be paid pending appeal. —Notwithstanding any appeal preferred to the High Court or the 
+Supreme Court, the tax shall be paid in accordance with the assessment made under this Act. 
+26. Execution of order for costs awarded by Supreme Court. —The High Court may, on petition 
+made for the execution of the order in respect of the costs awarded by the Supreme Court, transmit such 
+order for execution to any court subordinate to it. 
+27. Amendment of assessment on appeal. —Where as a result of an appeal under section 15 or 
+section 18, any change is made in the assessment of a body of individuals or an association of persons or 
+an order for new assessment of a body of individuals or an association of persons is made, the 
+Commissioner (Appeals) or the Appellate Tribunal, as the case may be, shall pass an order authorising the 
+Assessing Officer either to amend the assessment made or make a fresh assessment on any member of the 
+body or association. 
+28. Exclusion of time taken for obtaining copy. —In computing the period of limitation prescribed 
+for an appeal under this Act, the day on which the notice of the order was served upon the assessee 
+without serving a copy of the order, the time taken for obtaining a copy of such order, shall be excluded. 
+29. Filing of appeal by tax authority. —(1) The Board may, from time to time, issue orders, 
+instructions or directions to other tax authorities, fixing such monetary limits as it may deem fit, for the 
+purpose of regulating the filing of appeal by any tax authority under this Chapter. 
+(2) Where, in pursuance of the orders, instructions or directions issued under sub-section ( 1), a tax 
+authority has not filed any appeal on any issue in the case of an assessee for any financial year, it shall not 
+preclude such authority from filing an appeal on the same issue in the case of— 
+(a) the same assessee for any other financial year; or 
+(b) any other assessee for the same or any other financial year. 
+(3) Notwithstanding that no appeal has been filed by a tax authority pursuant to the orders or 
+instructions or directions issued under sub-section ( 1), it shall not be lawful for an assessee, being a party 
+in any appeal, to contend that the tax authority has acquiesced in the decision on the disputed issue by not 
+filing an appeal in any case. 
+(4) The Appellate Tribunal, hearing such appeal, shall have regard to the orders, instructions or 
+directions issued under sub-section ( 1) and the circumstances under which such appeal was filed or not 
+filed in respect of any case. 
+(5) Every order, instruction or direction which has been issued by the Board fixing monetary limits 
+for filing an appeal shall be deemed to have been issued under sub-section ( 1) and the provisions of  
+sub-sections ( 2), (3) and ( 4) shall apply accordingly. 
+30. Recovery of tax dues by Assessing Officer. —(1) Any amount specified as payable in a notice of 
+demand under section 13 shall be paid within a period of thirty days of the service of the notice, to the 
+credit of the Central Government in such manner as may be prescribed. 
+(2) Where the Assessing Officer has any reason to believe that it will be detrimental to the interests of 
+revenue, if the period of thirty days referred to in sub-section ( 1) is allowed, he may, with the previous 
+approval of the Joint Commissioner, reduce such period as he deems fit. 16 (3) The Assessing Officer may, on an application made by the assessee, before the expiry of a period 
+of thirty days or the period reduced under sub-section ( 2) or during the pendency of appeal with the 
+Commissioner (Appeals), extend the time for payment, or allow payment by instalments, subject to such 
+conditions as he may think fit to impose in the circumstances of the case. 
+(4) An assessee shall be deemed to be an assessee in default, if the tax arrear is not paid within the 
+time allowed under sub-section ( 1) or the period reduced under sub-section ( 2) or extended under  
+sub-section ( 3), as the case may be. 
+(5) Where an assessee defaults in paying any one of the instalments within the time fixed under  
+sub-section ( 3), he shall be deemed to be an assessee in default in respect of the whole of the then 
+outstanding amount. 
+(6) The Assessing Officer may, in a case where no certificate has been drawn up under section 31 by 
+the Tax Recovery Officer, recover the amount in respect of which the assessee is in default, or is deemed 
+to be in default, by any one or more of the modes provided in section 32. 
+(7) The Tax Recovery Officer shall be vested with the powers to recover the tax arrear on drawing up 
+of a statement of tax arrear under section 31. 
+31. Recovery of tax dues by Tax Recovery Officer. —(1) The Tax Recovery Officer may draw up 
+under his signature a statement of tax arrears of an assessee referred to in sub-section ( 4) or  
+sub-section ( 5) of section 30, in such form, as may be prescribed (such statement hereafter in this Chapter 
+referred to as “certificate”). 
+(2) The certificate under sub-section ( 1) shall stand amended from time to time consequent to any 
+proceeding under this Act and the Tax Recovery Officer shall recover the amount so modified. 
+(3) The Tax Recovery Officer may rectify any mistake apparent from the record. 
+(4) The Tax Recovery Officer shall have the power to extend the time for payment, or allow payment 
+by instalments, subject to such conditions as he may think fit to impose in the circumstances of the case. 
+(5) The Tax Recovery Officer shall proceed to recover from the assessee the amount specified in the 
+certificate by one or more of the modes referred to in section 32 or in the Second Schedule to the  
+Income-tax Act. 
+(6) It shall not be open to the assessee to dispute the correctness of any certificate drawn up by the 
+Tax Recovery Officer on any ground whatsoever, but it shall be lawful for the Tax Recovery Officer to 
+cancel the certificate if, for any reason, he thinks it necessary so to do. 
+32. Modes of recovery of tax dues. —(1) The Assessing Officer or the Tax Recovery Officer may 
+require the employer of the assessee to deduct from any payment to the assessee such amount as is 
+sufficient to meet the tax arrear from the assessee. 
+(2) Upon requisition under sub-section ( 1), the employer shall comply with the requisition and shall 
+pay the sum so deducted to the credit of the Central Government in such manner as may be prescribed. 
+(3) Any part of the salary, exempt from attachment in execution of a decree of a civil court under 
+section 60 of the Code of Civil Procedure, 1908 (5 of 1908), shall be exempt from any requisition made 
+under sub-section ( 1). 
+(4) The Assessing Officer or the Tax Recovery Officer may, by notice in writing, require any debtor 
+of the assessee to pay such amount, not exceeding the amount of debt, as is sufficient to meet the tax 
+arrear of the assessee. 17 (5) Upon receipt of the notice under sub-section ( 4), the debtor shall comply with the requisition and 
+shall pay the sum to the credit of the Central Government in such manner as may be prescribed within the 
+time (not being before the debt becomes due to the assessee) specified in the notice. 
+(6) A copy of the notice issued under sub-section ( 4) shall be forwarded to the assessee at his last 
+address known to the Assessing Officer or the Tax Recovery Officer and in the case of a joint account, to 
+all the joint holders at their last addresses known to the Assessing Officer or the Tax Recovery Officer. 
+(7) It shall not be necessary for any pass book, deposit receipt, policy or any other document to be 
+produced for the purpose of any entry, endorsement or the like being made before payment is made, 
+notwithstanding any rule, practice or requirement to the contrary if the notice under sub-section ( 4) is 
+issued to a post office, banking company, insurer or any other person. 
+(8) Any claim in respect of any property, in relation to which a notice under sub-section ( 4) has been 
+issued, arising after the date of the notice, shall be void as against any demand contained in the notice. 
+(9) A person to whom a notice under sub-section ( 4) has been issued, shall not be required to pay the 
+amount of tax arrear specified therein, or part thereof, if he objects to it by a statement on oath that the 
+sum demanded, or any part thereof, is not due to the assessee or that he does not hold any money for, or 
+on account of, the assessee. 
+(10) The person referred to in sub-section ( 9) shall be personally liable to the Assessing Officer or the 
+Tax Recovery Officer, as the case may be, to the extent of his own liability to the assessee on the date of 
+the notice, or to the extent of the liability of the assessee for any sum due under this Act, whichever is 
+less, if it is discovered that the statement made by him was false in any respect. 
+(11) The Assessing Officer or the Tax Recovery Officer may amend or revoke any notice issued 
+under sub-section ( 4) or extend the time for making any payment in pursuance of such notice. 
+(12) The Assessing Officer or the Tax Recovery Officer shall grant a receipt for any amount paid in 
+compliance with a notice issued under sub-section ( 4), and the person so paying shall be fully discharged 
+from his liability to the assessee to the extent of the amount so paid. 
+(13) Any person discharging any liability to the assessee after receipt of a notice under sub-section ( 4) 
+shall be personally liable to the Assessing Officer or the Tax Recovery Officer to the extent of his own 
+liability to the assessee so discharged or to the extent of the liability of the assessee for any sum due under 
+this Act, whichever is less. 
+(14) The debtor to whom a notice under sub-section ( 4) is sent shall be deemed to be an assessee in 
+default, if he fails to make such payment and further proceedings may be initiated against him for the 
+realisation of the amount in the manner provided in this section and the Second Schedule to the  
+Income-tax Act. 
+(15) The Assessing Officer or the Tax Recovery Officer may apply to the court, in whose custody 
+there is money belonging to the assessee, for payment to him of the entire amount of such money or if it 
+is more than the tax arrear, an amount sufficient to meet the tax arrear. 
+(16) The Assessing Officer or the Tax Recovery Officer shall effect the recovery of any tax arrear in 
+the same manner as attachment, distraint and sale of any movable property under the Second Schedule to 
+the Income-tax Act, if he is so authorised by the Principal Chief Commissioner or the Chief 
+Commissioner, or the Principal Commissioner or the Commissioner, by general or special order. 18 (17) In this section,— 
+(a) ‘‘debtor’’, in relation to an assessee, means,— 
+(i) any person from whom any money is due, or may become due, to the assessee; or 
+(ii) any person who holds, or may subsequently hold, any money for, or on account of, the 
+assessee; or 
+(iii) any person who holds, or may subsequently hold, any money for, or on account of, the 
+assessee jointly with any other person; 
+(b) shares of the joint holders in the account shall be presumed, until the contrary is proved, to be 
+equal. 
+33. Tax Recovery Officer by whom recovery of tax dues is to be effected. —(1) The Tax Recovery 
+Officer competent to take action under section 31 shall be the Tax Recovery Officer — 
+(a) within whose jurisdiction — 
+(i) the assessee carries on his business; 
+(ii) the principal place of business of the assessee is situate; 
+(iii) the assessee resides; or 
+(iv) any movable or immovable property of the assessee is situate; or 
+(b) who has been assigned jurisdiction under section 6. 
+(2) The Tax Recovery Officer, referred to in sub-section ( 1), may send a certificate, in such manner as 
+may be prescribed, specifying the tax arrear to be recovered, to another Tax Recovery Officer within 
+whose jurisdiction the assessee resides or has property, if the first-mentioned Tax Recovery Officer — 
+(a) is not able to recover the entire amount by sale of the property, movable or immovable, within 
+his jurisdiction; or 
+(b) is of the opinion that, for the purpose of expediting, or securing, the recovery of the whole, or 
+any part, of the amount under this Chapter, it is necessary to send such certificate. 
+(3) The second-mentioned Tax Recovery Officer shall, on receipt of the certificate, assume 
+jurisdiction for recovery of the amount of tax arrear specified therein and proceed to recover the amount 
+in accordance with the provisions of this Chapter. 
+34. Recovery of tax dues in case of a company in liquidation. —(1) The liquidator shall inform the 
+Assessing Officer, who has jurisdiction to assess the undisclosed foreign income and asset of the 
+company, of his appointment within a period of thirty days of his becoming the liquidator. 
+(2) The Assessing Officer shall, within a period of three months from the date on which he receives 
+the information, intimate to the liquidator the amount which, in his opinion, would be sufficient to 
+provide for any tax arrears or any amount which is likely to become payable thereafter, by the company 
+under this Act. 
+(3) The liquidator— 
+(a) shall not part with any of the assets of the company, or the properties, in his custody until he 
+has been intimated by the Assessing Officer under sub-section ( 2); and 
+(b) on being so intimated, shall set aside an amount equal to the amount intimated.19 (4) Upon receipt of the intimation from the Assessing Officer under sub-section ( 2), the amount so 
+intimated shall, notwithstanding anything in any other law for the time being in force, be the first charge 
+on the assets of the company remaining after payment of the following dues, namely:— 
+(a) workmen’s dues; and 
+(b) debts due to secured creditors to the extent such debts under clause ( iii) of the proviso to  
+sub-section ( 1) of section 325 of the Companies Act, 2013 (18 of 2013) are pari passu with such 
+dues. 
+(5) The liquidator shall be personally liable for the payment of the amount payable by the company, if 
+he— 
+(a) fails to inform in accordance with sub-section ( 1); or 
+(b) fails to set aside the amount as required by sub-section ( 3). 
+(6) The obligations and liabilities attached to the liquidator under this section shall attach to all the 
+liquidators jointly and severally in a case where there is more than one liquidator. 
+(7) The provisions of this section shall prevail over anything to the contrary contained in any other 
+law for the time being in force. 
+(8) In this section,— 
+(a) “liquidator” in relation to a company which is being wound up, whether under the orders of a 
+court or otherwise, shall include a receiver of the assets of the company; 
+(b) “workmen’s dues” shall have the meaning assigned to it in section 325 of the Companies  
+Act, 2013 (18 of 2013). 
+35. Liability of manager of a company .—(1) Every person being a manager at any time during the 
+financial year shall be jointly and severally liable for the payment of any amount due under this Act in 
+respect of the company for the financial year, if the amount cannot be recovered from the company. 
+(2) The provisions of sub-section ( 1) shall not apply, if the manager proves that non-recovery cannot 
+be attributed to any neglect, misfeasance or breach of duty on his part in relation to the affairs of the 
+company. 
+(3) The provisions of this section shall prevail over anything to the contrary contained in the 
+Companies Act, 2013 (18 of 2013). 
+(4) In this section, “manager” shall include a managing director and both shall have the meaning 
+respectively assigned to them in clause ( 53) and clause ( 54) of section 2 of the Companies Act, 2013 
+(18 of 2013). 
+36. Joint and several liability of participants. —(1) Every person, being a participant in an 
+unincorporated body at any time during the financial year, or the representative assessee of the deceased 
+participant, shall be jointly and severally liable, along with the unincorporated body, for payment of any 
+amount payable by the unincorporated body under this Act and all the provisions of this Act shall apply 
+accordingly. 
+(2) In case of a limited liability partnership, the provisions of sub-section ( 1) shall not apply, if the 
+partner proves that non-recovery cannot be attributed to any neglect, misfeasance or breach of duty on his 
+part in relation to the affairs of the partnership. 
+(3) The provisions of this section shall prevail over anything to the contrary contained in the Limited 
+Liability Partnership Act, 2008 (6 of 2009). 20 37. Recovery through State Government. —If the recovery of tax in any area has been entrusted to 
+a State Government under clause (1) of article 258 of the Constitution, the State Government may direct, 
+with respect to that area or any part thereof, that tax shall be recovered therein with, and as an addition to, 
+any municipal tax or local rate, by the same person and in the manner as the municipal tax or local rate is 
+recovered. 
+38. Recovery of tax dues in pursuance of agreements with foreign countries or specified 
+territory. —(1) The Tax Recovery Officer may, in a case where an assessee has property in a country or a 
+specified territory outside India, forward a certificate to the Board for recovery of the tax arrears from the 
+assessee, where the Central Government or any specified association in India has entered into an 
+agreement with that country or territory under section 90 or section 90A of the Income-tax Act or under 
+sub-sections ( 1), (2) or sub-section ( 4) of section 73 of this Act, as the case may be, for the purposes of 
+recovery of tax. 
+(2) On receipt of the certificate under sub-section ( 3) from the Tax Recovery Officer, the Board may 
+take such action thereon as it may deem appropriate having regard to the terms of the agreement with 
+such country or a specified territory. 
+39. Recovery by suit or under other law not affected. —(1) The several modes of recovery 
+specified in this Chapter shall not affect in anyway— 
+(a) any other law for the time being in force relating to the recovery of debts due to the 
+Government; or 
+(b) the right of the Government to institute a suit for the recovery of the tax arrears from the 
+assessee. 
+(2) It shall be lawful for the Assessing Officer, or the Government, to have recourse to any such law 
+or suit, notwithstanding that the tax arrears are being recovered from the assessee by any mode specified 
+in this Chapter. 
+40. Interest for default in furnishing return and payment or deferment of advance tax. —(1) 
+Where the assessee has any income from a source outside India which has not been disclosed in the return 
+of income furnished under sub-section ( 1) of section 139of the Income-tax Act or the return of income 
+has not been furnished under the said sub-section, interest shall be chargeable in accordance with the 
+provisions of section 234A of the Income-tax Act. 
+(2) Where the assessee has any undisclosed income from a source outside India and the advance tax 
+on such income has not been paid in accordance with Part C of Chapter XVII of the Income-tax Act, 
+interest shall be chargeable in accordance with the provisions of sections 234B and 234C of the  
+Income-tax Act. 
+CHAPTER IV 
+PENALTIES
+41. Penalty in relation to undisclosed foreign income and asset. —The Assessing Officer may 
+direct that in a case where tax has been computed under section 10 in respect of undisclosed foreign 
+income and asset, the assessee shall pay by way of penalty, in addition to tax, if any, payable by him, a 
+sum equal to three times the tax computed under that section. 
+42. Penalty for failure to furnish return in relation to foreign income and asset. —If a person, 
+being a resident other than not ordinarily resident in India within the meaning of clause ( 6) of section 6 of 
+the Income-tax Act, who is required to furnish a return of his income for any previous year, as required 21 under sub-section ( 1) of section 139 of the Income-tax Act or by the provisos to that sub-section, and who 
+at any time during such previous year,— 
+(i) held any asset (including financial interest in any entity) located outside India as a beneficial 
+owner or otherwise; or 
+(ii) was a beneficiary of any asset (including financial interest in any entity) located outside India; 
+or 
+(iii) had any income from a source located outside India, 
+and fails to furnish such return before the end of the relevant assessment year, the Assessing Officer may 
+direct that such person shall pay, by way of penalty, a sum of ten lakh rupees: 
+Provided that this section shall not apply in respect of an asset, being one or more bank accounts 
+having an aggregate balance which does not exceed a value equivalent to five hundred thousand rupees at 
+any time during the previous year. 
+Explanation. —For determining the value equivalent in rupees of the balance in an account 
+maintained in foreign currency, the rate of exchange for calculation of the value in rupees shall be the 
+telegraphic transfer buying rate of such currency as on the date for which the value is to be determined as 
+adopted by the State Bank of India constituted under the State Bank of India Act, 1955 (23 of 1955). 
+43. Penalty for failure to furnish in return of income, an information or furnish inaccurate 
+particulars about an asset (including financial interest in any entity) located outside India. —If any 
+person, being a resident other than not ordinarily resident in India within the meaning of clause ( 6) of 
+section 6 of the Income-tax Act, who has furnished the return of income for any previous year under  
+sub-section ( 1) or sub-section ( 4) or sub-section ( 5) of section 139 of the said Act, fails to furnish any 
+information or furnishes inaccurate particulars in such return relating to any asset (including financial 
+interest in any entity) located outside India, held by him as a beneficial owner or otherwise, or in respect 
+of which he was a beneficiary, or relating to any income from a source located outside India, at any time 
+during such previous year, the Assessing Officer may direct that such person shall pay, by way of penalty, 
+a sum of ten lakh rupees: 
+Provided that this section shall not apply in respect of an asset, being one or more bank accounts 
+having an aggregate balance which does not exceed a value equivalent to five hundred thousand rupees at 
+any time during the previous year. 
+Explanation .—The value equivalent in rupees shall be determined in the manner provided in the 
+Explanation to section 42. 
+44. Penalty for default in payment of tax arrear. —(1) Every person who is an assessee in default, 
+or an assessee deemed to be in default, as the case may be, in making payment of tax, and in case of 
+continuing default by such assessee, he shall be liable to a penalty of an amount, equal to the amount of 
+tax arrear. 
+(2) An assessee shall not cease to be liable to any penalty under sub-section ( 1) merely by reason of 
+the fact that before the levy of such penalty he has paid the tax. 
+45. Penalty for other defaults. —(1) A person shall be liable to a penalty if he has, without 
+reasonable cause, failed to— 
+(a) answer any question put to him by a tax authority in the exercise of its power sunder this Act; 
+(b) sign any statement made by him in the course of any proceedings under this Act which a tax 
+authority may legally require him to sign; 22 (c) attend or produce books of account or documents at the place or time, if he is required to 
+attend or to give evidence or produce books of account or other documents, at certain place and time 
+in response to summons issued under section 8. 
+(2) The penalty referred to in sub-section ( 1) shall be a sum which shall not be less than fifty thousand 
+rupees but which may extend to two lakh rupees. 
+46. Procedure. —(1) The tax authority shall, for the purposes of imposing any penalty under this 
+Chapter, issue a notice to an assessee requiring him to show cause why the penalty should not be imposed 
+on him. 
+(2) The notice referred to in sub-section ( 1) shall be issued— 
+(a) during the pendency of any proceedings under this Act for the relevant previous year, in 
+respect of penalty referred to in section 41; 
+(b) within a period of three years from the end of the financial year in which the default is 
+committed, in respect of penalties referred to in section 45. 
+(3) No order imposing a penalty under this Chapter shall be made unless the assessee has been given 
+an opportunity of being heard. 
+(4) An order imposing a penalty under this Chapter shall be made with the approval of the Joint 
+Commissioner, 1[or the Joint Director ] if— 
+(a) the penalty exceeds one lakh rupees and the tax authority levying the penalty is in the rank of 
+Income-tax Officer; or 
+(b) the penalty exceeds five lakh rupees and the tax authority levying the penalty is in the rank of 
+Assistant Commissioner or Deputy Commissioner 1[or Assistant Director or Deputy Director]. 
+(5) Every order of penalty issued under this Chapter shall be accompanied by a notice of demand in 
+respect of the amount of penalty imposed and such notice of demand shall be deemed to be a notice under 
+section 13. 
+47. Bar of limitation for imposing penalty. —(1) No order imposing a penalty under this Chapter 
+shall be passed after the expiry of a period of one year from the end of the financial year in which the 
+notice for imposition of penalty is issued under section 46. 
+(2) An order imposing, or dropping the proceedings for imposition of, penalty under this Chapter may 
+be revised, or revived, as the case may be, on the basis of assessment of the undisclosed foreign income 
+and asset as revised after giving effect to the order of the Commissioner (Appeals), the Appellate 
+Tribunal, the High Court or the Supreme Court or order of revision under section 23 or section 24. 
+(3) An order revising or reviving the penalty under sub-section ( 2) shall not be passed after the expiry 
+of a period of six months from the end of the month in which order of the Commissioner (Appeals), the 
+Appellate Tribunal, the High Court or the Supreme Court is received by the Principal Chief 
+Commissioner or the Chief Commissioner or the Principal Commissioner or the Commissioner or the 
+order of revision under section 23 or section 24 is passed. 
+(4) In computing the period of limitation for the purposes of this section, the following time or period 
+shall not be included— 
+(a) the time taken in giving an opportunity to the assessee to be reheard under section 7; and 
+1. Ins. by Act 13 of 2018, s. 219 (w.e.f. 1-4-2018).  23 (b) any period during which a proceeding under this Chapter for the levy of penalty is stayed by 
+an order, or injunction, of any court. 
+CHAPTER V 
+OFFENCES AND PROSECUTIONS 
+48. Chapter not in derogation of any other law or any other provision of this Act. —(1) The 
+provisions of this Chapter shall be in addition to, and not in derogation of, the provisions of any other law 
+providing for prosecution for offences there under. 
+(2) The provisions of this Chapter shall be independent of any order under this Act that may be made, 
+or has not been made, on any person and it shall be no defence that the order has not been made on 
+account of time limitation or for any other reason. 
+49. Punishment for failure to furnish return in relation to foreign income and asset. —If a 
+person, being a resident other than not ordinarily resident in India within the meaning of clause ( 6) of 
+section 6 of the Income-tax Act, who at any time during the previous year, held any asset (including 
+financial interest in any entity) located outside India as a beneficial owner or otherwise, or was a 
+beneficiary of such asset or had income from a source outside India and wilfully fails to furnish in due 
+time the return of income which he is required to furnish under sub-section ( 1) of section 139 of that Act, 
+he shall be punishable with rigorous imprisonment for a term which shall not be less than six months but 
+which may extend to seven years and with fine: 
+Provided that a person shall not be proceeded against under this section for failure to furnish in due 
+time the return of income under sub-section ( 1) of section 139 of the Income-tax Act if the return is 
+furnished by him before the expiry of the assessment year. 
+50. Punishment for failure to furnish in return of income, any information about an asset 
+(including financial interest in any entity) located outside India. —If any person, being a resident other 
+than not ordinarily resident in India within the meaning of clause ( 6) of section 6 of the Income-tax Act, 
+who has furnished the return of income for any previous year under sub-section ( 1) or sub-section ( 4) or 
+sub-section ( 5) of section 139 of that Act, wilfully fails to furnish in such return any information relating 
+to anasset (including financial interest in any entity) located outside India, held by him, as a beneficial 
+owner or otherwise or in which he was a beneficiary, at any time during such previous year, or disclose 
+any income from a source outside India, he shall be punishable with rigorous imprisonment for a term 
+which shall not be less than six months but which may extend to seven years and with fine. 
+51. Punishment for wilful attempt to evade tax. —(1) If a person, being a resident other than not 
+ordinarily resident in India within the meaning of clause ( 6) of section 6 of the Income-tax Act, wilfully 
+attempts in any manner whatsoever to evade any tax, penalty or interest chargeable or imposable under 
+this Act, he shall be punishable with rigorous imprisonment for a term which shall not be less than three 
+years but which may extend to ten years and with fine. 
+(2) If a person wilfuly attempts in any manner whatsoever to evade the payment of any tax, penalty or 
+interest under this Act, he shall, without prejudice to any penalty that maybe imposable on him under any 
+other provision of this Act, be punishable with rigorous imprisonment for a term which shall not be less 
+than three months but which may extend to three years and shall, in the discretion of the court, also be 
+liable to fine. 
+(3) For the purposes of this section, a wilful attempt to evade any tax, penalty or interest chargeable 
+or imposable under this Act or the payment thereof shall include a case where any person— 24 (i) has in his possession or control any books of account or other documents(being books of 
+account or other documents relevant to any proceeding under this Act) containing a false entry or 
+statement; or 
+(ii) makes or causes to be made any false entry or statement in such books of account or other 
+documents; or 
+(iii) wilfuly omits or causes to be omitted any relevant entry or statement in such books of 
+account or other documents; or 
+(iv) causes any other circumstance to exist which will have the effect of enabling such person to 
+evade any tax, penalty or interest chargeable or imposable under this Act or the payment thereof. 
+52. Punishment for false statement in verification. —If a person, makes a statement in any 
+verification under this Act or under any rule made thereunder, or delivers an account or statement which 
+is false, and which he either knows or believes to be false, or does not believe to be true, he shall be 
+punishable with rigorous imprisonment for a term which shall not be less than six months but which may 
+extend to seven years and with fine. 
+53. Punishment for abetment. —If a person abets or induces in any manner another person to make 
+and deliver an account or a statement or declaration relating to tax payable under this Act which is false 
+and which he either knows to be false or does not believe to be true or to commit an offence under  
+sub-section ( 1) of section 51, he shall be punishable with rigorous imprisonment for a term which shall 
+not be less than six months but which may extend to seven years and with fine. 
+54. Presumption as to culpable mental state. —(1) In any prosecution for any offence under this Act 
+which requires a culpable mental state on the part of the accused, the court shall presume the existence of 
+such mental state but it shall be a defence for the accused to prove the fact that he had no such mental 
+state with respect to the act charged as an offence in that prosecution. 
+Explanation. —In this sub-section, “culpable mental state” includes intention, motive or knowledge of 
+a fact or belief in, or reason to believe, a fact. 
+(2) For the purposes of this section, a fact is said to be proved only when the court believes it to exist 
+beyond reasonable doubt and not merely when its existence is established by a preponderance of 
+probability. 
+55. 1[Prosecution to be at instance of Principal Chief Commissioner or Principal Director 
+General or Chief Commissioner or Director General or Principal Commissioner or 
+Commissioner]. —(1) A person shall not be proceeded against for an offence under section 49 to section 
+53 (both inclusive) except with the sanction of the Principal Commissioner or Commissioner or the 
+Commissioner (Appeals), as the case may be. 
+(2) The Principal Chief Commissioner or the Chief Commissioner 2[or the Principal Director General 
+or the Director General] may issue such instructions, or directions, to the tax authorities referred to in  
+sub-section ( 1) as he may think fit for the institution of proceedings under this section. 
+(3) The power of the Board to issue orders, instructions or directions under this Act shall include the 
+power to issue orders, instructions or directions (including instructions or directions to obtain its previous 
+approval) to other tax authorities for the proper initiation of proceedings of offences (including an 
+authorisation to file and pursue complaints by one or more Inspectors of tax) under this section. 
+1. Subs. by Act 13 of 2018, s. 219, for “Prosecution to be at instance of Principal Chief Commissioner or Chief Commissioner or 
+Principal Commissioner or Commissioner” (w.e.f. 1-4-2018).  
+2. Ins. by  s. 219, ibid. (w.e.f. 1-4-2018).  25 56. Offences by companies. —(1) Where an offence under this Act has been committed by a 
+company, every person who, at the time the offence was committed, was in charge of, and was 
+responsible to, the company for the conduct of the business of the company as well as the company shall 
+be deemed to be guilty of the offence and shall be liable to be proceeded against and punished 
+accordingly. 
+(2) Nothing in sub-section ( 1) shall render any such person liable to any punishment if he proves that 
+the offence was committed without his knowledge or that he had exercised all due diligence to prevent the 
+commission of such offence. 
+(3) Notwithstanding anything in sub-section ( 1), where an offence under this Act has been committed 
+by a company and it is proved that the offence has been committed with the consent or connivance of, or 
+is attributable to any neglect on the part of, any director, manager, secretary or other officer of the 
+company, such director, manager, secretary or other officer shall also be deemed to be guilty of that 
+offence and shall be liable to be proceeded against and punished accordingly. 
+(4) Where an offence under this Act has been committed by a person, being a company, and the 
+punishment for such offence is imprisonment and fine, then, without prejudice to sub-section ( 1) or  
+sub-section ( 3), such company shall be punished with fine and every person, referred to in sub-section ( 1), 
+or the director, manager, secretary or other officer of the company referred to in sub-section ( 3), shall be 
+liable to be proceeded against and punished in accordance with the provisions of this Act. 
+(5) In this section— 
+(a) “company” means a body corporate, and includes — 
+(i) an unincorporated body; 
+(ii) a Hindu undivided family; 
+(b) “director”, in relation to — 
+(i) an unincorporated body, means a participant in the body; 
+(ii) a Hindu undivided family, means an adult member of the family; and 
+(iii) a company, means a whole-time director, or where there is no such director, any other 
+director or manager or officer, who is in charge of the affairs of the company. 
+57. Proof of entries in records or documents. —(1) The entries in the records, or other documents, 
+in the custody of a tax authority shall be admitted in evidence in any proceeding for the prosecution of 
+any person for an offence under this Chapter. 
+(2) The entries referred to in sub-section ( 1) may be proved by the production of— 
+(a) the records or other documents (containing such entries) in the custody of the tax authority; or 
+(b) a copy of the entries certified by that authority under its signature, as true copy of the original 
+entries contained in the records or other documents in its custody. 
+58. Punishment for second and subsequent offences. —If any person convicted of an offence under 
+section 49 to section 53 (both inclusive)is again convicted of an offence under any of the aforesaid 
+provisions, he shall be punishable for the second and every subsequent offence with rigorous 
+imprisonment for a term which shall not be less than three years, but which may extend to ten years and 
+with fine which shall not be less than five lakh rupees, but which may extend to one crore rupees. 26 CHAPTER VI 
+TAX COMPLIANCE FOR UNDISCLOSED FOREIGN INCOME AND ASSETS 
+59. Declaration of undisclosed foreign asset. —Subject to the provisions of this Chapter, any person 
+may make, on or after the date of commencement of this Act but on or before a date to be notified by the 
+Central Government in the Official Gazette, a declaration in respect of any undisclosed asset located 
+outside India and acquired from income chargeable to tax under the Income-tax Act for any assessment 
+year prior to the assessment year beginning on 1st day of April, 2016— 
+(a) for which he has failed to furnish a return under section 139 of the Income-tax Act; 
+(b) which he has failed to disclose in a return of income furnished by him under the Income-tax 
+Act before the date of commencement of this Act; 
+(c) which has escaped assessment by reason of the omission or failure on the part of such person 
+to make a return under the Income-tax Act or to disclose fully and truly all material facts necessary 
+for the assessment or otherwise. 
+60. Charge of tax. —Notwithstanding anything contained in the Income-tax Act or in any Finance 
+Act, the undisclosed asset located outside India and declared under section 59 within the time specified 
+therein shall be chargeable to tax at the rate of thirty per cent. of value of such undisclosed asset on the 
+date of commencement of this Act. 
+61. Penalty. —Notwithstanding anything contained in the Income-tax Act or in any Finance Act, the 
+person making a declaration of undisclosed asset located outside India shall, in addition to tax charged 
+under section 60, be liable to penalty at the rate of one hundred per cent. of such tax. 
+62. Manner of declaration. —(1) A declaration under section 59 shall be made to the Principal 
+Commissioner or the Commissioner and shall be in such form and shall be verified in such manner as 
+may be prescribed. 
+(2) The declaration shall be signed,— 
+(i) where the declarant is an individual, by the individual himself; where such individual is absent 
+from India, by the individual concerned or by some person duly authorised by him in this behalf; and 
+where the individual is mentally incapacitated from attending to his affairs, by his guardian or by any 
+other person competent to act on his behalf; 
+(ii) where the declarant is a Hindu undivided family, by the karta , and where the karta is absent 
+from India or is mentally incapacitated from attending to his affairs, by any other adult member of 
+such family; 
+(iii) where the declarant is a company, by the managing director thereof, or where for any 
+unavoidable reason such managing director is not able to sign th edeclaration or where there is no 
+managing director, by any director thereof; 
+(iv) where the declarant is a firm, by the managing partner thereof, or where for any unavoidable 
+reason such managing partner is not able to sign the declaration, or where there is no managing 
+partner as such, by any partner thereof, not being a minor; 
+(v) where the declarant is any other association, by any member of the association or the principal 
+officer thereof; and 
+(vi) where the declarant is any other person, by that person or by some other person competent to 
+act on his behalf. 27 (3) Any person, who has made a declaration under sub-section ( 1) in respect of his asset or as a 
+representative assessee in respect of the asset of any other person, shall not been titled to make any other 
+declaration, under that sub-section in respect of his asset or the asset of such other person, and any such 
+other declaration, if made, shall be deemed to be void. 
+63. Time for payment of tax. —(1) The tax payable under section 60 and penalty payable under 
+section 61 in respect of the undisclosed asset located outside India, shall be paid on or before a date to be 
+notified by the Central Government in the Official Gazette. 
+(2) The declarant shall file the proof of payment of tax and penalty on or before the date notified 
+under sub-section ( 1), with the Principal Commissioner or the Commissioner before whom the 
+declaration under section 59 was made. 
+(3) If the declarant fails to pay the tax in respect of the declaration made under section59 on or before 
+the date notified under sub-section ( 1), the declaration filed by him shall be deemed never to have been 
+made under this Chapter. 
+64. Undisclosed foreign asset declared not to be included in total income. —The amount of 
+undisclosed investment in an asset located outside India declared in accordance with section 59 shall not 
+be included in the total income of the declarant for any assessment year under the Income-tax Act, if the 
+declarant makes the payment of tax referred to in section 60 and the penalty referred to in section 61 by 
+the date notified under sub-section ( 1) of section 63. 
+65. Undisclosed foreign asset declared not to affect finality of completed assessments. —The 
+declarant shall not be entitled, in respect of undisclosed asset located outside India declared or any 
+amount of tax paid thereon, to reopen any assessment or reassessment made under the Income-tax Act or 
+the Wealth-tax Act, 1957 (27 of 1957) or claim any set off or relief in any appeal, reference or other 
+proceeding in relation to any such assessment or reassessment. 
+66. Tax in respect of voluntarily disclosed asset not refundable. —Any amount of tax paid under 
+section 60 or penalty paid under section 61 in pursuance of a declaration made under section 59 shall not 
+be refundable. 
+67. Declaration not admissible in evidence against declarant. —Notwithstanding anything 
+contained in any other law for the time being in force, nothing contained in any declaration made under 
+section 59 shall be admissible in evidence against the declarant for the purpose of any proceeding relating 
+to imposition of penalty, other than the penalty leviable under section 61, or for the purposes of 
+prosecution under the Income-tax Act or the Wealth-tax Act, 1957 (27 of 1957) or the Foreign Exchange 
+Management Act,1999 (42 of 1999) or the Companies Act, 2013 (18 of 2013) or the Customs Act, 1962 
+(52 of 1962) . 
+68. Declaration by misrepresentation of facts to be void. —Notwithstanding anything contained in 
+this Chapter, where a declaration has been made by misrepresentation or suppression of facts, such 
+declaration shall be void and shall be deemed never to have been made under this Chapter. 
+69. Exemption from wealth-tax in respect of assets specified in declaration. —(1) Where the 
+undisclosed asset located outside India is represented by cash(including bank deposits), bullion or any 
+other assets specified in the declaration made under section 59— 
+(a) in respect of which the declarant has failed to furnish a return under section14 of the  
+Wealth-tax Act, 1957 (27 of 1957) for the assessment year commencing on or before the1st day of 
+April, 2015; or 28 (b) which have not been shown in the return of net wealth furnished by him for the said 
+assessment year or years; or 
+(c) which have been understated in value in the return of net wealth furnished by him for the said 
+assessment year or years, then, notwithstanding anything contained in the Wealth-tax Act, 1957         
+(27 of 1957) or any rules made thereunder,— 
+(I) wealth-tax shall not be payable by the declarant in respect of the assets referred to in clause ( a) or 
+clause ( b) and such assets shall not be included in his net wealth for the said assessment year or years; 
+(II) the amount by which the value of the assets referred to in clause ( c) has been understated in the 
+return of net wealth for the said assessment year or years, to the extent such amount does not exceed the 
+voluntarily disclosed income utilised for acquiring such assets, shall not be taken into account in 
+computing the net wealth of the declarant for the said assessment year or years. 
+Explanation. —Where a declaration under section 59 is made by a firm, the assets referred to in  
+clause ( I) or, as the case may be, the amount referred to in clause ( II) shall not be taken into account in 
+computing the net wealth of any partner of the firm or, as the case may be, in determining the value of the 
+interest of any partner in the firm. 
+(2) The provisions of sub-section ( 1) shall not apply unless the conditions specified in 
+sub-sections ( 1) and ( 2) of section 63 are fulfilled by the declarant. 
+70. Applicability of certain provisions of Income-tax Act and of Chapter V of Wealth-tax Act. —
+The provisions of Chapter XV of the Income-tax Act relating to liability in special cases and of section 
+189 of that Act or of Chapter V of the Wealth-tax Act, 1957 (27 of 1957)relating to liability to assessment 
+in special cases shall, so far as may be, apply in relation to proceeding sunder this Chapter as they apply 
+in relation to proceedings under the Income-tax Act or, as the case may be, the Wealth-tax Act. 
+71. Chapter not to apply to certain persons. —The provisions of this Chapter shall not apply— 
+(a) to any person in respect of whom an order of detention has been made under the Conservation 
+of Foreign Exchange and Prevention of Smuggling Activities Act, 1974 (52 of 1974): 
+Provided that— 
+(i) such order of detention, being an order to which the provisions of section 9 or section 12A 
+of the said Act do not apply, has not been revoked on the report of the Advisory Board under 
+section 8 of the said Act or before the receipt of the report of the Advisory Board; or 
+(ii) such order of detention, being an order to which the provisions of section 9 of the said Act 
+apply, has not been revoked before the expiry of the time for, or on the basis of, the review under 
+sub-section ( 3) of section 9, or on the report of the Advisory Board under section 8, read with  
+sub-section ( 2) of section 9, of the said Act; or 
+(iii) such order of detention, being an order to which the provisions of section 12A of the said 
+Act apply, has not been revoked before the expiry of the time for, or on the basis of, the first 
+review under sub-section ( 3) of that section, or on the basis of the report of the Advisory Board 
+under section 8, read with sub-section ( 6) of section 12A, of the said Act; or 
+(iv) such order of detention has not been set aside by a court of competent jurisdiction; 
+(b) in relation to prosecution for any offence punishable under Chapter  IX or Chapter XVII of 
+the Indian Penal Code (45 of 1860), the Narcotic Drugs and Psychotropic Substances Act, 1985 
+(61 of 1985), the Unlawful Activities (Prevention) Act, 1967 (37 of 1967), the Prevention of 
+Corruption Act, 1988 (49 of 1988); 29 (c) to any person notified under section 3 of the Special Court (Trial of Offences Relating to 
+Transactions in Securities) Act, 1992 (27 of 1992). 
+(d) in relation to any undisclosed asset located outside India which has been acquired from 
+income chargeable to tax under the Income-tax Act for any previous year relevant to an assessment 
+year prior to the assessment year beginning on the 1st day of April, 2016— 
+(i) where a notice under section 142 or sub-section ( 2) of section 143 or section 148 or 
+section 153A or section 153C of the Income-tax Act has been issued in respect of such 
+assessment year and the proceeding is pending before the Assessing Officer; or 
+(ii) where a search has been conducted under section 132 or requisition has been made under 
+section 132A or a survey has been carried out under section 133A of the Income-tax Act in a 
+previous year and a notice under sub-section( 2) of section 143 for the assessment year relevant to 
+such previous year or a notice under section 153A or under section 153C of the said Act for an 
+assessment year relevant to any previous year prior to such previous year has not been issued and 
+the time for issuance of such notice has not expired; or 
+(iii) where any information has been received by the competent authority under an agreement 
+entered into by the Central Government under section 90 or section 90A of the Income-tax Act in 
+respect of such undisclosed asset. 
+Explanation.— For the purpose of this sub-clause asset shall include a bank account whether 
+having any balance or not. 
+72. Removal of doubts. —For the removal of doubts, it is hereby declared that— 
+(a) save as otherwise expressly provided in the Explanation to sub-section ( 1)of section 69, 
+nothing contained in this Chapter shall be construed as conferring any benefit, concession or 
+immunity on any person other than the person making the declaration under this Chapter; 
+(b) where any declaration has been made under section 59 but no tax and penalty has been paid 
+within the time specified under section 60 and section 61, the value of such asset shall be chargeable 
+to tax under this Act in the previous year in which such declaration is made; 
+(c) where any asset has been acquired or made prior to commencement of this Act, and no 
+declaration in respect of such asset is made under this Chapter, such asset shall be deemed to have 
+been acquired or made in the year in which a notice under section 10 is issued by the Assessing 
+Officer and the provisions of this Act shall apply accordingly. 
+CHAPTER VII 
+GENERAL PROVISIONS 
+73. Agreement with foreign countries or specified territories. —(1) The Central Government may 
+enter into an agreement with the Government of any other country— 
+(a) for exchange of information for the prevention of evasion or avoidance of tax on undisclosed 
+foreign income chargeable under this Act or under the corresponding law in force in that country, or 
+investigation of cases of such evasion or avoidance; 
+(b) for recovery of tax under this Act and under the corresponding law in force in that country. 
+(2) The Central Government may enter into an agreement with the Government of any specified 
+territory outside India for the purposes specified in sub-section ( 1). 30 (3) The Central Government may, by notification, make such provisions as may be necessary for 
+implementing the agreements referred to in sub-sections ( 1) and ( 2). 
+(4) Any specified association in India may enter into an agreement with any specified association in 
+the specified territory outside India for the purposes of sub-section ( 1) and the Central Government may 
+by notification make such provisions as may be necessary for adopting and implementing such 
+agreement. 
+(5) Any term used but not defined in this Act or in the agreement referred to in sub-sections ( 1), (2) or 
+sub-section ( 4) shall, unless the context otherwise requires, and is not inconsistent with the provisions of 
+this Act or the agreement, have the meaning assigned to it in the notification issued by the Central 
+Government and such meaning shall be deemed to have effect from the date on which the said agreement 
+came into force. 
+74. Service of notice generally. —(1) The service of any notice, summons, requisition, order or any 
+other communication under this Act (herein referred to in this section as “communication”) may be made 
+by delivering or transmitting a copy thereof, to the person named therein,— 
+(a) by post or by such courier service as may be approved by the Board; 
+(b) in such manner as provided under the Code of Civil Procedure, 1908 (5 of 1908) for the 
+purposes of service of summons; 
+(c) in the form of any electronic record as provided in Chapter IV of the Information Technology 
+Act, 2000 (21 of 2000); or 
+(d) by any other means of transmission of documents, including fax message or electronic mail 
+message, as may be prescribed. 
+(2) The Board may make rules providing for the addresses including the address for electronic mail or 
+electronic mail message to which the communication referred to in sub-section ( 1) may be delivered or 
+transmitted to the person named therein. 
+(3) In this section, the expressions “electronic mail” and “electronic mail message” shall have the 
+same meanings as assigned to them in the Explanation to section 66A of the Information Technology  
+Act, 2000 (21 of 2000). 
+75. Authentication of notices and other documents. —(1) A notice or any other document required 
+to be issued, served or given for the purposes of this Act by any tax authority shall be authenticated by 
+that authority. 
+(2) Every notice or other document to be issued, served or given for the purposes of this Act by any 
+tax authority shall be deemed to be authenticated, if the name and office of a designated tax authority is 
+printed, stamped or otherwise written thereon. 
+(3) In this section, a designated tax authority shall mean any tax authority authorized by the Board to 
+issue, serve or give such notice or other document after authentication in the manner as provided in  
+sub-section ( 2). 
+76. Notice deemed to be valid in certain circumstances. —(1) A notice which is required to be 
+served upon a person for the purposes of assessment under this Act shall be deemed to have been duly 
+served upon him in accordance with the provisions of this Act, if the person has appeared in any 
+proceeding or co-operated in any inquiry relating to an assessment. 
+(2) The person, referred to in sub-section ( 1), shall be precluded from taking any objection in any 
+proceeding or inquiry under this Act that the notice was— 31 (a) not served upon him; 
+(b) not served upon him in time; or 
+(c) served upon him in an improper manner. 
+(3) The provisions of this section shall not apply, if the person has raised the objection before the 
+completion of the assessment. 
+77. Appearance by approved valuer in certain matters. —(1) Any assessee who is entitled or 
+required to attend before any tax authority or the Appellate Tribunal, in connection with any matter 
+relating to the valuation of any asset, may attend through a valuer approved by the Principal 
+Commissioner or the Commissioner in accordance with such rules as may be prescribed. 
+(2) The provisions of sub-section ( 1) shall not apply in a case where the assessee is required to attend 
+personally for examination on oath or affirmation under section 8. 
+78. Appearance by authorised representative. —(1) Any assessee who is entitled or required to 
+attend before any tax authority or the Appellate Tribunal, in connection with any proceeding under this 
+Act, may attend through an authorised representative. 
+(2) The provisions of sub-section ( 1) shall not apply in a case where the assessee is required to attend 
+personally for examination on oath or affirmation under section 8. 
+(3) In this section, “authorised representative” means a person authorised by the assessee in writing to 
+appear on his behalf, being— 
+(a) a person related to the assessee in any manner, or a person regularly employed by the 
+assessee; 
+(b) any officer of a scheduled bank with which the assessee maintains a current account or has 
+other regular dealings; 
+(c) any legal practitioner who is entitled to practice in any civil court in India; 
+(d) an accountant; 
+(e) any person who has passed any accountancy examination recognised in this behalf by the 
+Board; or 
+(f) any person who has acquired such educational qualifications as may be prescribed. 
+(4) The following persons shall not be qualified to represent an assessee under sub-section ( 1), 
+namely:— 
+(a) a person who has been dismissed or removed from Government service; 
+(b) a legal practitioner, or an accountant, who is found guilty of misconduct in his professional 
+capacity by any authority entitled to institute disciplinary proceedings against him; 
+(c) a person, not being a legal practitioner or an accountant, who is found guilty of misconduct in 
+any tax proceedings by such authority as may be prescribed. 
+(5) The Principal Chief Commissioner or the Chief Commissioner may, by an order in writing, 
+specify the period upto which the disqualification under sub-section ( 4) shall continue, having regard to 
+the nature of misconduct and such disqualification shall not exceed— 
+(i) in case of clauses ( a) and ( c) of sub-section ( 4), a period of ten years; 32 (ii) in case of clause ( b) of sub-section ( 4), the period for which the legal practitioner or an 
+accountant is not entitled to practice. 
+(6) A person shall not be allowed to appear as an authorised representative, if he has committed any 
+fraud or misrepresented the facts which resulted in loss to the revenue and that person has been declared 
+as such by an order of the Principal Chief Commissioner or the Chief Commissioner. 
+Explanation .—In this section, “accountant” means a chartered accountant as defined in clause ( b) of 
+sub-section ( 1) of section 2 of the Chartered Accountants Act, 1949 (38 of 1949) who holds a valid 
+certificate of practice under sub-section ( 1) of section 6 of that Act. 
+79. Rounding off of income, value of asset and tax. —(1) The amount of undisclosed foreign 
+income and asset computed in accordance with this Act shall be rounded off to the nearest multiple of one 
+hundred rupees. 
+(2) Any amount payable or receivable by the assessee under this Act shall be rounded off to the 
+nearest multiple of ten rupees. 
+(3) The method of rounding off under sub-section ( 1) or sub-section ( 2), shall be such as may be 
+prescribed.
+80.  Cognizance of offences. —No court inferior to that of a metropolitan magistrate or a magistrate 
+of the First Class shall try any offence under this Act. 
+81. Assessment not to be invalid on certain grounds. —No assessment, notice, summons or other 
+proceedings, made or issued or taken or purported to have been made or issued or taken in pursuance of 
+any of the provisions of this Act shall be invalid or shall be deemed to be invalid merely by reason of any 
+mistake, defector omission in such assessment, notice, summons or other proceeding if such assessment, 
+notice, summons or other proceeding is in substance and effect in conformity with or according to the 
+intent and purpose of this Act. 
+82. Bar of suits in civil courts. —(1) No suit shall be brought in any civil court to set aside or modify 
+any proceeding taken or order made under this Act. 
+(2) No prosecution, suit or other proceeding shall lie against the Government or any officer of the 
+Government, for anything in good faith done or intended to be done, under this Act. 
+83. Income-tax papers to be available for purposes of this Act. —Notwithstanding anything 
+contained in the Income-tax Act, all information contained in any statement or return made or furnished 
+under the provisions of that Act or obtained or collected for the purposes of the said Act may be used for 
+the purposes of this Act. 
+84. Application of provisions of Income-tax Act .—The provisions of clauses ( c) and ( d) of  
+sub-section ( 1) of section 90, clauses ( c) and ( d) of sub-section ( 1) of section 90A, sections 119, 133, 134, 
+135, 138, Chapter XV and sections 237, 240, 245, 280, 280A, 280B, 280D, 281, 281B and 284 of the 
+Income-tax Act shall apply with necessary modifications as if the said provisions refer to undisclosed 
+foreign income and asset instead of to income-tax. 
+85. Power to make rules. —(1) The Board may, subject to the approval of the Central Government, 
+by notification in the Official Gazette, make rules for carrying out the provisions of this Act. 
+(2) In particular, and without prejudice to the generality of the foregoing power, such rules may 
+provide for all or any of the following matters, namely:— 
+(a) the manner of determination of the value of an undisclosed foreign as setreferred to in  
+sub-section ( 2) of section 3; 33 (b) the tax authority to be prescribed for any of the purposes of this Act; 
+(c) the form and manner of service of a notice of demand under section 13; 
+(d) the form in which any appeal, revision or cross-objection may be filed under this Act, the 
+manner in which they may be verified and the fee payable in respect thereof; 
+(e) the form in which the Tax Recovery Officer may draw up the statement of tax arrears under 
+sub-section ( 1) of section 31; 
+(f) the manner in which the sum is to be paid to the credit of Central Government under  
+sub-section ( 2) or sub-section ( 5) of section 32; 
+(g) the manner in which the Tax Recovery Officer shall send a certificate referred to in  
+sub-section ( 2) of section 33; 
+(h) the form in which a declaration referred to in sub-section ( 1) of section 62 is to be made and 
+the manner in which it is to be verified; 
+(i) the means of transmission of documents under clause ( d) of sub-section ( 1)of section 74; 
+(j) the procedure for approval of a valuer by the Principal Commissioner or the Commissioner 
+under section 77; 
+(k) the educational qualifications required, to be an authorised representative under clause ( f) of 
+sub-section ( 3) of section 78; 
+(l) the tax authority under clause ( c) of sub-section ( 4) of section 78; 
+(m) the method of rounding off of the amount referred to in sub-section ( 1) or sub-section ( 2) of 
+section 79; 
+(n) any other matter which by this Act is to be, or may be, prescribed. 
+(3) The power to make rules conferred by this section shall include the power to give retrospective 
+effect to the rules or any of them from a date not earlier than the date of commencement of this Act and 
+no retrospective effect shall be given to any rule so as to prejudicially affect the interest of assessees. 
+(4) The Central Government shall cause every rule made under this Act to be laid as soon as may be 
+after it is made before each House of Parliament while it is in session for a total period of thirty days 
+which may be comprised in one session or in two or more successive sessions and if, before the expiry of 
+the session immediately following the session or the successive sessions aforesaid, both Houses agree in 
+making any modification in the rule or both Houses agree that the rule should not be made, the rule shall 
+thereafter have effect only in such modified form or be of no effect, as the case may be; so, however, that 
+any such modification or annulment shall be without prejudice to the validity of anything previously done 
+under that rule. 
+86. Power to remove difficulties. —(1) If any difficulty arises in giving effect to the provisions of 
+this Act, the Central Government may, by order, not inconsistent with the provisions of this Act, remove 
+the difficulty: 
+Provided that no such order shall be made after the expiry of a period of two years from the date on 
+which the provisions of this Act come into force. 
+(2) Every order made under this section shall be laid before each House of Parliament. 
+87. Amendment of section 2 of Act 54 of 1963. —In section 2 of the Central Boards of Revenue  
+Act, 1963, in sub-clause ( 1) of clause ( c),— 34 (a) in item ( vii), the word “and” occurring at the end shall be omitted; and 
+(b) after item ( ix) as so amended, the following item shall be inserted, namely:— 
+“(x) the Black Money (Undisclosed Foreign Income and Assets) and Imposition of Tax  
+Act, 2015; and” 
+88. Amendment of Act of 15 of 2003. —In the Prevention of Money-laundering Act, 2002, in the 
+Schedule, in Part C, after entry (3), relating to the offences against property under Chapter XVII of the 
+Indian Penal Code (45 of 1860), the following entry shall be inserted, namely:— 
+“(4) The offence of wilful attempt to evade any tax, penalty or interest referred to in section 51 of the 
+Black Money (Undisclosed Foreign Income and Assets) and Imposition of Tax Act, 2015.”. 
+--------------------------The Coal Mines (Special Provisions) Act, 2015--------------------------
+1 
+ THE COAL MINES (SPECIAL PROVISIONS) ACT, 2015  
+____________  
+ARRANG EMENT OF SECTIONS  
+___________  
+ 
+CHAPTER I  
+PRELIMINARY  
+SECTIONS  
+1. Short title , extent and commencement.  
+2. Declaration as to  expediency of Union  action.  
+3. Definitions.  
+ 
+CHAPTER II  
+AUCTION AND ALLOTMENT  
+4. Eligibility to participate in auction and payment of fees.  
+5. Allotment of mines to Government companies or corporations.  
+6. Central Government to act through nominated authority.  
+7. Power to classify certain Schedule I coal mines by Central Government.  
+8. Nominated authority to issue vesting order or allotment order.  
+9. Priority of disbursal of proceeds.  
+ 
+CHAPTER III  
+TREATMENT OF RIGHTS AND OBLIGATIONS OF PRIOR ALLOTTEES  
+10. Utilisation of movable property used in coal mining operations.  
+11. Discharge or adoption of t hird party contracts with prior allottees.  
+12. Provisions in relation to secured creditors.  
+13. Void alienations a nd permitted security interests.  
+14. Liabilities of prior allottees.  
+15. Commissioner of payments to be appointed and his powers.  
+16. Valuation of compensation fo r payment to prior allottee.  
+ 
+CHAPTER V  
+POWERS OF THE CENTRAL GOVERNMENT AFTER THE APPOINTED DATE  
+17. Responsibility of Central Government after appoint ed date. 
+18. Central Government to appoint designated custodian.  
+19. Powers and functions of designated custodian in respect of Schedule II coal mines.  
+ 
+ 
+ 
+  2 
+  
+CHAPTER V  
+CERTAIN ARRA NGEMENTS  
+SECTIONS  
+20. Power of Central Government to approve certain arrangements.  
+ 
+CHAPTER VI 
+MISCELLANEOUS  
+21. Acquisition of land.  
+22. Realisation of additional levy.  
+23. Penalties for certain offences.  
+24. Penalty for failure to comply with directions of Central Government.  
+25. Offences by companies.  
+26. Cognizance of offences.  
+27. Dispute settlement and Bar of Jurisdiction of civil courts.  
+28. Protection of action taken in good faith.  
+29. Act to have overriding effect.  
+30.  Amendment of certain Acts  contained in Schedule IV . 
+31. Power to make rules.  
+32. Power to remove difficulties.  
+33. Repeal and saving.  
+SCHEDULE I.  
+SCHEDULE II.  
+SCHEDULE III.  
+SCHEDULE IV.  
+ 
+  3 
+ THE COAL MINES (SPECIAL PROVISIONS) ACT, 2015  
+ACT NO. 11 OF 2015  
+[30th March , 2015.]  
+An Act to provide for allocation of coal mines and vesting of the right, title and interest in and over the 
+land and mine infrastructure together with mining leases to successful bidders and allottees with a 
+view to ensure continuity in coal mining operations and production of coal, and for promoting 
+optimum utilisation of coal resources consistent with the requirement of the country in national 
+interest and for matters connected t herewith or incidental thereto.  
+WHEREAS  the Supreme Court vide judgmen t dated 25th August, 2014 read with its order dated 24th 
+September, 2014 has cancelled the allocation of coal blocks and issued directions with regard to such coal 
+blocks and the Central Government in pursuance of the said directions has to take immediate action to 
+implement the said order;  
+AND WHEREAS  it is expedient in public interest for the Central Government to take immediate action 
+to allocate coal mines to successful bidders and allottees keeping in view the energy security of the 
+country and to mini mise any impact on core sectors such as steel, cement and power utilities, which are 
+vital for  the development of the nation;  
+AND WHEREAS Parliament is competent to legislate under entry 54 of List I of the Seventh Schedule 
+to the Constitution for regulation of mines and mineral development to the  extent to which such 
+regulation and development under the control of Union is declared by Parliament by law to be ex pedient 
+in the public interest.  
+BE it enacted by Parliament in the Sixty -sixth Year of the  Republic of India as follows: — 
+CHAPTER I  
+PRELIMINARY  
+1. Short title, extent and commencement. —(1) This Act may be called the Coal Mines (Special 
+Provisions) Act, 2015.  
+(2) It extends to the whole  of India.  
+(3) It shall be deemed to have come into force on  the 21st day of October, 2014.  
+2. Declaration as to expendiency of Union action. —It is hereby declared that it is expedient in the 
+public interest that Union should take action for the development of  Schedule I coal mines and extraction 
+of coal on continuous  basis for optimum utilisation.  
+3. Definitions .—(1) In this Act, unless t he context otherwise requires, — 
+(a) ―additional levy ‖ means, the additional levy as determined by the Supreme Court in Writ 
+Petition (Criminal) No. 120 of 2012 as two hundred and ninety -five rupees per metric tonne of coal 
+extracted;  
+(b) ―allotment order ‖ means the allotmen t order issued under section 5;  
+(c) ―appointed date ‖ in relation to — 
+(i) Schedule I coal mines excluding Schedule II coal mines, shall be the 24th day of 
+September, 2014 being the date on which the allocation of coal blocks to prior  allottees stood 
+cancelled; and  
+(ii) Schedule II coal mines  shall be the 1st day of April, 2015 being the date on which the 
+allocation of coal blocks to prior a llottees shall stand cancelled,  
+in pursuance of the order of the Supreme Court dated the 24th September, 2014 passed in Writ 
+Petition (Criminal) No. 120 of  2012;  
+(d) ―bank ‖ shall have the same meaning as assigned to it in clause (c) of the Securitisation and 
+Reconstruction of Financial Assets and Enforcement of Security Interest Act, 2002  (54 of 2002) ; 
+(e) ―coal mining operations ‖ means any operation undertaken f or the purpose of winning coal;  4 
+ (f) ―company ‖ shall have the same meaning as assigned to it in clause ( 20) of section 2 of the 
+Companie s Act, 2013  (18 of 2013) ; 
+(g) ―corporation ‖ shall have the same meaning as assigned to i t in clause ( 11) of sectio n 2 of the 
+Companies Act, 2013  (18 of 2013) ; 
+(h) ―financial institution ‖ shall have the same meaning as assigned to it in clause ( m) of section 2 
+of the Securitisation and Reconstruction of Financial Assets and Enforcement of Security Interest 
+Act, 2002  (54 of 2002) ; 
+(i) ―Government company ‖ shall have the same meaning as assigned to it in clause ( 45) of sectio n 
+2 of the Companies Act, 2013  (18 of 2013) ; 
+(j) ―mine infrastructure ‖ includes mining infrastructure such as tangible assets used for coal mining 
+operations, being civil works, workshops, immovable coal winning equipment, foundations, 
+embankments, pavements, electrical systems, communication systems, relief centres, site administrative 
+offices, fixed installations, coal h andling arrangements, crushing and conveying systems, railway sidings, 
+pits, shafts, inclines, underground transport systems, hauling systems (except movable equipment unless 
+the same is embedded in land for permanent beneficial enjoyment thereof), land de marcated for 
+afforestation and land for rehabilitation and resettlement of persons affected by coal mining operations 
+under the relevant law;  
+(k) ―nominated authority ‖ means the authority nominated by the Cent ral Government under 
+section 6;  
+(l) ―notificati on‖ means a notification pub lished in the Official Gazette;  
+(m) ―prescribed ‖ means prescribe d by rules made under this Act;  
+(n) ―prior allottee ‖ means prior allottee of Schedule I coal mines as listed therein who had been 
+allotted coal mines between 1993 and 31st day of March, 2011, whose allotments have been 
+cancelled pursuant to the judgment of the Supreme Court dated the 25th August, 2014 and i ts order 
+dated 24th September, 2014 including those allotments which may have been de -allocated prior to 
+and during the pendency of the Writ Peti tion (Criminal) No.120 of 2012.  
+Explanation .—In case a mining lease has been executed in favour of a third part y, subsequent to 
+such allocation of Scheduled I coal mines, then, the third party shall be d eemed to be the prior 
+allottee;  
+(o) ―Schedule ‖ means a  Schedule appended to this Act;  
+(p) ―Schedule I coal mines ‖ means, — 
+(i) all the coal mines and coal blocks the  allocation of which was cancelled by the judgment 
+dated 25th August, 2014 and its order dated 24th September, 2014 passed in Writ Petition 
+(Criminal) No.120 of 2012, including those allotments which may have been de -allocated prior to 
+and during the pend ency of the said Writ Petition;  
+(ii) all the coal bearing land acquired by the prior allottee and lands, in or adjacent to the coal 
+mines used for coal mining operations acquired by the prior allottee;  
+(iii) any existing mine infrastru cture as defined in cl ause ( j); 
+(q) ―Schedule II coal mines ‖ means the forty -two Schedule I coal mines listed in Schedule II 
+which are the coal mines in relation to which the order of the Supreme Court dated 24th d ay of 
+September, 2014 was made;  
+(r) ―Schedule III coal mines ‖ means the thirty -two Schedule I coal mines listed in Schedule III or 
+any other Schedule I coal mine as may be notified under sub -section  (2) of section 7;  
+(s) ―secured creditor ‖ shall have the same meaning as assigned to it in clause ( zd) of section 2 of 
+the Securitisation and Reconstruction of Financial Assets and Enforcement of Security Interest Act, 
+2002 ( 54 of 2002 ); 5 
+ (t) ―secured debt ‖ shall have the same meaning as assigned to it in clause ( ze) of section 2 of the 
+Securitisation and Reconstruction of Financial Assets and Enforcement of Security Interest Act,           
+2002 (54 of 2002);  
+(u) ―security interest ‖ shall have the same meaning as assigned to it in clause ( zf) of section 2 of 
+the Securitisation and Reconstruction of Financia l Assets and Enforcement of Security Interest Act, 
+2002 ( 54 of 2002 ); 
+(v) ―specified end -use‖ means any of the following end -uses and the expression ―specified         
+end-user‖ shall with its grammatical variati ons be construed accordingly, — 
+(i) production of iron and steel;  
+(ii) generation of power including the gener ation of power for captive use;  
+(iii) washin g of coal obtained from a mine;  
+(iv) cement;  
+(v) such other end -use as the Central Government  may, by notification, specify;  
+(w) ―vesting  order ‖ means the vestin g order issued under section 8.  
+(2) Words and expressions used herein and not defined, but defined in the Coal Bearing Areas 
+(Acquisition and Development) Act, 1957  (20 of 1957) , the Mines and Minerals (Development and 
+Regulation) A ct, 1957  (67 of 1957),  and the Coal Mines (Nationalisation) Act, 1973  (26 of 1973),  
+including any rules or regulations made thereunder, shall have the meanings, respectively assign ed to 
+them in those Acts.  
+CHAPTER II  
+AUCTION AND ALLOTMENT  
+4. Eligibility to  participate in auction and payment of fees. —(1) Subject to the provisions of section 
+5, Schedule I coal mines shall be allocated by way of public auction in accordance with such rules, and on 
+the payment of such fees which shall not exceed five cror e rupe es, as may be prescribed.  
+(2) Subject to the provisions in sub -section ( 3) of this section and section 5, the Central Government 
+may, for the purpose of granting reconnaissance permit, prospecting licence or mining lease in respect of 
+any area containing c oal, select any of the following companies through auction by competitive bidding, 
+on such terms and co nditions as may be prescribed –– 
+(a) a Government company or corporation or a joint venture company formed by such company 
+or corporation or between the C entral Government or the State Government, as the case may be, or 
+any other co mpany incorporated in India; or  
+(b) a company or a joint venture company formed by two or more companies,  
+that carry on coal mining operations in India, in any form either for own consumption, sale or for any 
+other purpose in accordance with the permit, prospecting licence or mining lease, as the case may be, and 
+the State Government shall grant such reconnaissance permit, prospecting licence or mining lease in 
+respect of any ar ea containing coal to such company as selected through auction by competit ive bidding 
+under this section.  
+(3) Subject to the provisions of section 5, the following persons who fulfil such norms as may be 
+prescribed, shall be eligible to bid in an auction o f Schedule II coal mines and Schedule III coal mines 
+and to engage in coal mining operations in the event they ar e successful bidders, namely: –– 
+(a) a company engaged in specified end -use including a company having a coal linkage which has 
+made such i nvestment as may be prescribed.  
+Explanation .––A ―company with a coal linkage ‖ includes any such company whose application is 
+pending with the Central Government on the da te of commencement of this Act;  
+(b) a joint venture company formed by two or more comp anies having a common specified end -
+use and are independently eligible to b id in accordance with this Act;  6 
+ (c) a Government company or corporation or a joint venture company formed by such company or 
+corporation or with any other company having c ommon spec ified end -use: 
+Provided that nothing contained in sub -section ( 2) shall apply to this sub -section.  
+(4) A prior allottee shall be eligible to participate in the auction process subject to payment of the 
+additional levy within such period as may be prescribe d and if the prior allottee has not paid such levy, 
+then, the prior allottee, its promoter or any of its company of such prior allottee shall not be eligible to bid 
+either by itsel f or by way of a joint venture . 
+(5) Any prior allottee who is convicted for an offence relating to coal block allocation and sentenced 
+with imprisonment for more than three years, shall not be eligible to participate in the auction.  
+5. Allotment of mines to Government companies or corporations. ––(1) Notwithstanding the 
+provisions  contained in sub -sections ( 1) and ( 3) of section 4, the Central Government may allot a 
+Schedule I coal mine to a Government company or corporation or to a joint venture between two or more 
+Government companies or corporations or to a company which has bee n awarded a power project on the 
+basis of competitive bids for tariff (including Ultra Mega Power Projects) from specified Schedule I coal 
+mines by making an allotment order in accordance with such rules as may be prescribed and the State 
+Government shall grant a reconnaissance permit, prospecting licence or mining lease in respect of any 
+area containing coal to such company or corporation:  
+Provided that the Government company or corporation may carry on Coal Mining in any form either 
+for its own consumption, sale or for any other purpose in accordance with the permit, prospecting licence 
+or mining lease, as the case may be : 
+Provided further that no company other than a Government company or corporation shall hold more 
+than twenty -six per cent. of the paid -up share capital in the Government company or corporation or in the 
+joint venture between a Government company or corporation, either directly or through any of its 
+subsidiar y company or associate company:  
+Provided also that a joint venture of any  two or more Government companies or corporations shall be 
+prohibited from alienating or transferring any interest, except the taking of loans or advances from a bank 
+or financial institution, in the joint venture of whatsoever nature including owners hip in favour of a third 
+party.  
+(2) No allotment under sub -section ( 1) shall be made to a prior allottee, if that allottee has not made 
+the payment of the additional levy within the s pecified period.  
+6. Central Government to act through nominated authority. ––(1) The Central Government shall 
+appoint an officer not below the rank of a Joint Secretary to the Government of India as the nominated 
+authority who shall act for and on behalf of the Central Government for the purposes of this Act and shall 
+exercise su ch powers as may be prescribed.  
+(2) The nominated authority may engage any expert having such qualifications and experience and on 
+such terms and conditions as may be prescribed to make recommendations to the authority for the 
+conduct of auction and in drawing  up of the vesting order or allotment order in rel ation to Schedule I coal 
+mines.  
+(3) The Central Government shall act through the nominated authority for t he following purposes, 
+namely: — 
+(a) conduct the auction process and allotment with the assistance of  experts;  
+(b) execution of the vesting order for transfer and vesting of Schedule I coal  mines pursuant to the 
+auction;  
+(c) executing the allotment order for any Government company or corpora tion in pursuance of 
+section 5;  
+(d) recording and mutating incorp oreal rights of whatsoever nature including, consents, 
+permissions, permits, ap provals, grants, registrations;  
+(e) collection of auction proceeds, adjustment of preferential payments and transfer of amount to 
+the respective State Governments where Schedule  I coal mine is located in accordance w ith the 
+provisions of this Act.  7 
+ (4) The nominated authority shall complete the auction or execute the allotment orders of Schedule I 
+coal mines within such time and in accordance with such rules as may be prescribed.  
+(5) The Central Government may appoint such other officers and staff as it may think fit to assist the 
+nominated authority.  
+(6) The salaries and allowances and other terms and conditions of service of the nominated authority 
+and such other officers and staff appointed under this section shal l be such as may be prescribed.  
+(7) The nominated authority shall be bound by the written direction given by the Central Govern ment 
+on the quesiton of policy.  
+7. Power to classify certain Schedule I coal mines by Cent ral Government .––(1) The Central 
+Government may, before notifying the particulars of auction, classify mines identified from Schedule I 
+coal mines as earmarked for the s ame class of specified end -uses.  
+(2) The Central Government may in public interest, by notification, modify Schedule III coal mines 
+by adding any other Schedule I coal mine for the  purposes of specified end -use. 
+8.  Nominated authority to issue vesting order or allotment order .––(1) The nominated authority 
+shall notify the prior allottees of  Schedule I coal mines to enable them to furnish information required for 
+notifying the particulars of Schedule I coal mines to be auctioned in accordance with s uch rules as may be 
+prescribed.  
+(2) The information required to be furnished under sub -section (1) shall be furnished within a period 
+of fifteen day s from the date of such notice.  
+(3) A successful bidder in an auction conducted on a competitive basis in accordance with such rules 
+as may be prescribed, shall be entitled to the vesting of Schedule I c oal mine for which it bid, pursuant to 
+a vesting order drawn up  in accordance with such rules.  
+(4) The vesting order shall transfer and vest upon the successful bidder, the following, namely: — 
+(a) all the rights, title and interest of the prior allottee, in Schedule I coal mine conce rned with the 
+relevant auction;  
+(b) entitlement to a mining lease to be g ranted by the State Government;  
+(c) any statutory licence, permit, permission, approval or consent required to undertake coal 
+mining operations in Schedule I coal mines if alread y issued to the prior allottee;  
+(d) rights appurtenant to the approved min ing plan of the prior allottee;  
+(e) any right, entitlement or interest not specifically covered under c lauses ( a) to (d). 
+(5) The nominated authority shall, in consultation with the Central Government, determine the floor 
+price or reserve price in accordance with s uch rules as may be prescribed.  
+(6) The successful bidder shall, prior to the issuance and execution of a vesting order, furnish a 
+performance bank guarantee for an amount as notified in relation to Schedule I coal mine auctioned to 
+such bidder within such time, form a nd manner as may be prescribed.  
+(7) After the issuance of a vesting order unde r this section and its filing with the Central Government 
+and with the appropriate authority designated by the respective State Governments, the successful bidder 
+shall be entitled to take possession of the Schedule I coal  mine without let or hindrance.  
+(8) Upon the execution of the vesting order, the successful bidder of the Schedule I coal mine shall be 
+granted a prospecting licence or a mining lease, as applicable, by the concerned State Government in 
+accordance with the Mines and Minerals (Development a nd Regulation) A ct, 1957 (67 of 1957).  
+(9) A Government company or corporation or a joint venture company formed by such company or 
+corporation or between the Central Government or the State Government, as the case may be, or any other 
+company incorporated  in India, allotted a Schedule I coal mine shall be granted a prospecting licence or a 
+mining lease, as applicable, by the concerned State Government in accordance with the Mines and 
+Minerals (Develop ment and Regulation) Act, 1957 (67 of 1957).  8 
+ (10) In rel ation to Schedule II coal mines, the successful bidder which was a prior allottee, shall 
+continue coal mining operations after the appointed date in terms of the approved mining plan, till the 
+mining lease in terms of sub -section ( 8) is granted, upon the g rant of a vesting order and to that extent, the 
+successful bidder shall be deemed to have been granted a mining lease till the execution of the mining 
+lease in  terms of the said sub -section.  
+(11) In relation to Schedule II coal mines, the Government compan y or corporation which was a prior 
+allottee can continue coal mining operations after the appointed date in terms of the approved mining 
+plan, till the mining lease in terms of sub -section ( 9) is granted, upon execution of the allotment order and 
+to that e xtent, the allottee shall be deemed to have been granted a mining lease till the execution of the 
+mining lease i n terms of the said sub -section.  
+(12) The provisions of sub -sections ( 1) and ( 2) and sub -sections ( 4) to ( 7) (both inclusive) of this 
+section as  applicable to a vesting order, shall mutatis mutandis  be also applicable to an allotment order.  
+9. Priority of disbursal of proceeds. ––The proceeds arising out of land and mine infrastructure in 
+relation to a Schedule I coal mine shall be disbursed maintaining, inter alia , the priority of payments in 
+accordance with the relevant laws and s uch rules as may be prescribed — 
+(a) payment to sec ured creditors for any portion of the secured debt in relation to a Schedule I, 
+coal mine which is unpaid as on  the date of the vesting order;  
+(b) compensation payable to the prior allottee in respe ct of the Schedule I coal mine.  
+CHAPTER III  
+TREATMENT OF R IGHTS AND  OBLIGATIONS OF PRIOR ALLOTTEES  
+10. Utilisation of movable property used in coal mining operations. ––(1) A successful bidder or 
+allottee in respect of Schedule I coal mines, may negotiate with prior allottee to own or utilise such 
+movable property  used in coal mining operations on such terms and conditions as may  be mutually agreed 
+to by them.  
+(2) Where a successful bidder or allottee is not vested with any movable property of a Schedule I coal 
+mine, then, he is not bound by any liabilities or obli gations arising out of such ownership or contractual 
+rights, obligations or liabilities which shall continue to remain with the prior allottee.  
+(3) In the event that the successful bidder or allottee is unable to satisfactorily negotiate with the prior 
+allottee or any third party who has a contract with the prior allottee for the movable property, it shall be 
+the obligation of the prior allottee or the third party to remove such movable property within a period not 
+exceeding thirty days from the date of the  vesting order, or the allotment order, as the case may be, and 
+the successful bidder or allottee shall not be liable f or any damage to such property.  
+(4) A successful bidder or allottee which has elected not to purchase or transfer or continue to use the 
+movable property referred to in sub -section ( 1), shall prior to the execution of the vesting order or the 
+allotment order, as the case may be, declare to the nominated authority that he intends to move and store 
+such movable property of the prior allottee or such third party and after the date of the vesting order or the 
+allotment order, as the case may be, the successful bidder or allottee shall be entitled to move and store 
+such movable property, so as not to cause any impedim ent for coal mining operation s. 
+(5) If a prior allottee or such third party which has contracted with the prior allottee for its movable 
+property, fails to remove the movable property which the successful bidder or allottee has elected not to 
+purchase or use in accordance with sub -section ( 4), then, after the period of seventy -five days from the 
+vesting order or the allotment order, as the case may be, a successful bidder or allottee shall be entitled to 
+dispose of such movable property which may be physically located within Schedule I  coal mine, the 
+successful bidder or the allottee, shall, in such event be entitled to appropriate the sale proceeds of such 
+movable property disposed of to pay for any cost incurred by the successful bidder or allottee, for the 
+removal, storage, sale and disposal of such movable property, as a first charge over the sale pro ceeds of 
+such movable property:  
+Provided that the remaining sale proceeds after appropriation of costs, shall be paid by the successful 
+bidder or allottee to the Central Government towar ds any compensation that may be payable to the owner 9 
+ of such movable property sold, upon establishment of title to such movable property in accordance with 
+such rules as m ay be prescribed:  
+Provided further that if a third party contractor to the prior allo ttee owns such movable property, then, 
+such third party shall be entitled to prove its right to receive compensation from the sale proceeds of the 
+movable property sold as per this sub -section, in accordance with s uch rules as may be prescribed.  
+11. Discha rge or  adoption of third party contracts with prior allottees .––(1) Notwithstanding 
+anything contained in any other law for the time being in force, a successful bidder or allottee, as the case 
+may be, in respect of Schedule I coal mines, may elect, to ado pt and continue such contracts which may 
+be existing with any of the prior allottees in relation to coal mining operations and the same shall 
+constitute a novation for the residual term or residua l performance of such contract:  
+Provided that in such an eve nt, the successful bidder or allottee or the prior allottee shall notify the 
+nominated authority to include the vesting of any contracts ad opted by the successful bidder.  
+(2) In the event that a successful bidder or allottee elects not to adopt or continue  with existing 
+contracts which had been entered into by the prior allottees with third parties, in that case all such 
+contracts which have not been adopted or continued shall cease to be enforceable against the successful 
+bidder or allottee in relation to the Schedule I coal mine and the remedy of such contracting parties shall 
+be against the prior allottees.  
+12. Provisions in relation  to secured creditors .––(1) The secured creditors of the prior allottees 
+which had any security interest in any part of the land or mine infrastructure of a Schedule I c oal mine 
+shall be entitled to –– 
+(a) continue with such facility agreements and security interest with the prior allottee if such prior 
+allottee is a suc cessful bidder or allottee; and  
+(b) in the event that the prior allottee is not a successful bidder or allottee, then the security 
+interest of such secured creditor shall only be satisfied out of the compensation payable to such prior 
+allottee, to the extent determined in accordance with such rules as may be prescribed and the 
+outstanding debt shall be recov erable from the prior allottee.  
+(2) The Central Government shall, taking into consideration the provisions contained in section 9, 
+prescribe the manner in which the secured creditor shall be  paid out of the compensation in  respect of any 
+prior allottee.  
+13. Void alienations and permitted security interests .––Any and all alienations of land and mine 
+infrastructure and creation of any encumbrances of whatsoever nature thereon which relate to Sc hedule I 
+coal mines, made by any prior allottee after the 25th day of August, 2014 shall be void, save and except 
+any registered security interest and charge over the land and mine infrastructure as registered by a bank or 
+a financial instituti on or any ot her secured lender.  
+14. Liabilities of prior allottees .––(1) Notwithstanding anything contained in any other law for the 
+time being in force, no proceedings, orders of attachment, distress, receivership, execution or the like, 
+suits for the recovery of mon ey, enforcement of a security or guarantee (except as otherwise provided for 
+under this Act), prior to the date of commencement of this Act shall lie, or be proceeded further with and 
+no remedies shall be available against the successful bidder, or allotte e, as the case may be, or against the 
+land and mine infrastructure in respect of S chedule I coal mines.  
+(2) The proceedings as referred to in sub -section ( 1), shall continue as a personal remedy against the 
+prior allottee but shall not be maintainable or c ontinued against the land or mine infrastructure of 
+Schedule I coal mine or the successful bidder or allottee, pursuant to this Act.  
+(3) Every liability of any prior allottee in relation to a Schedule I coal mine in respect of any period 
+prior to the vesti ng order or allotment order, shall be the liability of such prior allottee and shall be 
+enforceable against it and not against the successful bidder or allo ttee or the Central Government.  
+(4) All unsecured loans shall continue to remain the l iability of th e prior allottee.  
+(5) The additional levy imposed against the prior allottees of Schedule II coal mines shall continue to 
+remain the liability of such prior allottees and such additional levy shall be collected by the Central 
+Government in su ch manner as m ay be prescribed.  10 
+ (6) For the removal of doub ts, it is hereby declared that — 
+(a) no claim for wages, bonus, royalty, rate, rent, taxes, provident fund, pension, gratuity or any 
+other dues in relation to a Schedule I coal mine in respect of any period prior  to the date of vesting 
+order or allotment order, as the case may be, shall be enforceable against the Central Government or 
+the successful bidder or th e allottee, as the case may be;  
+(b) no award, decree, attachment or order of any court, tribunal or othe r authority in relation to 
+any Schedule I coal mine passed prior to the date of commencement of this Act, in relation to the land 
+and mine infrastructure of Schedule I coal mines, shall be enforceable against the Central 
+Government or the successful bidder  or the allottee, as the case may be;  
+(c) no liability for the contravention of any provision of law for the time being in force, relating to 
+any act or omission prior to the date of vesting order or allotment order, as the case may be, shall be 
+enforceabl e against the successful bidder or allo ttee or the Central Government.  
+15. Commissioner of payments to be appointed and his powers .––(1) For the purposes of 
+disbursing the amounts payable to the prior allottees of Schedule I coal mines, the Central Government 
+shall appoint an officer not below the rank of Joint Secretary to the Government of India, to b e the 
+Commissioner of payments.  
+(2) The Central Government may appoint such other officers and staff as it may think fit to assist the 
+Commissioner an d thereupon the Commissioner may authorise one or more of such officers also to 
+exercise all or any of the powers exe rcisable by him under this Act.  
+(3) Any officer authorised by the Commissioner to exercise any powers may exercise those powers in 
+the same  manner and with the same effect as if they have been conferred on him directly by this Act a nd 
+not by way of authorisation.  
+(4) The salaries and allowances and other terms and conditions of service of the Commissioner and 
+other officers and staff appointe d under this section shal l be such as may be prescribed.  
+(5) The Central Government shall, within a period of thirty days from such date as may be notified, 
+pay to the Commissioner for payment to the prior allottee, an amount equal to the compensation 
+determined by the nominated authority.  
+(6) Separate records shall be maintained by the Commissioner in respect of each Schedule I coal mine 
+in relation to which payments have b een made to him under this Act.  
+16. Valuation of compensation for payment to prior a llottee .––(1) The quantum of compensation 
+for the land in relation to Schedule I coal mines shall be as per the registered sale deeds lodged with the 
+nominated authority in accordance with such rules as may be prescribed, together with twelve per cent. 
+simple interest from the date of such purchase or acquisition, till the date of the execution of the vesting 
+order or the allotment order, as the case may be.  
+(2) The quantum of compensation for the mine infrastructure in relation to Schedule I coal mines 
+shall be determined as per the written down value reflected in the statutorily audited balance sheet of the 
+previous financial year in accordance with such rules and in such manner as may be prescribed.  
+(3) If the successful bidder or allottee is a prior all ottee of any of the Schedule I coal mines, then, the 
+compensation payable to such successful bidder or allottee shall be set off or adjusted against the auction 
+sum or the allotment sum payable by such successful bidder or allottee, as the case may be, for  any of the 
+Schedule I coal mines.  
+(4) The prior allottee shall not be entitled to compensation till the additional levy has been paid.  
+CHAPTER IV  
+POWERS OF THE CENTRAL GOVERNMENT AFTER THE APPOINTED DATE  
+17. Responsibility of Central Government after appointed date .––(1) On and from the appointed 
+date, the Central Government or a company owned by the Central Government shall be deemed to have 
+become the lessee or licensee of the State Government in relation to each of the Schedule II coal mines, in 
+respect of which a mining lease or prospecting licence has been granted prior to the date of 
+commencement of this Act, as if a mining lease or prospecting licence in relation to such coal mine had 11 
+ been granted to the Central Government or a company owned by t he Central Government and the period 
+of such lease or licence shall be the maximum period for which such lease or licence could have been 
+granted by the State Government under the Mineral Concession Rules, 1960, and thereupon all the rights 
+under such mini ng lease, including surface, underground and other rights shall be deemed to have been 
+transferred to, and vested in, the Central Government or a company owned by the Central Government.  
+(2) On the expiry of the term of any lease or licence, referred to i n sub -section ( 1), such lease or 
+licence shall be renewed, by the State Government, in consultation with the Central Government for the 
+maximum period for which such lease or licence can be renewed under the Mineral Concession Rules, 
+1960.  
+(3) As it is con sidered expedient and necessary in the public interest and in view of the difficult 
+situation which has arisen, the powers of the State Government, under the Mines and Minerals 
+(Development and Regulation) Act, 1957  (67 of 1957) , to prematurely terminate a  prospecting licence or 
+mining lease, shall stand suspended, in relation to Schedule I coal mines, for a period of one year from the 
+date of commencement of this Act or such other period as may be notified by the Central Government.  
+18. Central Government  to appoint designated custodian. ––(1) On and from the appointed date, if 
+the auction or allotment of Schedule I coal mines is not complete, the Central Government shall appoint 
+any person as a designated custodian to manage and operate such coal mines as may be noti fied by the 
+Central Government.  
+(2) The designated custodian shall act for and on behalf of the Central Government in respect of the 
+notified coal mines under sub -section ( 1) to operate and manage such Schedule I coal mines in such 
+manner as may  be notified, till the completion of the auction of such coal mines or allotment under 
+section 4 and section 5 read with  section 8, as the case may be.  
+19. Power s and functions of designated custodian in respect of Schedule II coal mines .––(1) The 
+designat ed custodian appointed under sub -section ( 1) of section 18, shall be entitled to take control and 
+possession of all lands, in or adjacent to Schedule II coal mines, and used for coal mining operations and 
+the mine infrastructure in relation to Schedule II coal mine, on beha lf of the Central Government.  
+(2) The designated custodian may direct the prior allottees or any other persons in charge of the 
+management of the Schedule II coal mines and coal mining operations immediately before the appointed 
+date to p rovide the requisite manpower, as may be necessary, to ensure continuity in coal mining 
+operations and production of coal.  
+(3) The designated custodian shall receive, to the exclusion of all other persons, any monies due to 
+Schedule II coal mines, notwiths tanding cases where such receipt pertains to a transaction made at any 
+time before the appointed date.  
+(4) The designated custodian may call for any information, records and documents in relation to 
+Schedule II coal mines and coal mining operations from an y or all such persons who were in charge of the 
+management and operation of such Schedule II coal mines prior to the appointed date, and such persons 
+shall be bound to deliver to the designated custodian all such documents in their custody rela ting to 
+Sche dule II coal mines.  
+(5) The designated custodian may appoint such consultants or experts, as may be necessary, in 
+relation to the management and opera tion of Schedule II coal mines.  
+(6) The designated custodian shall transfer the management and operation o f any Schedule II coal 
+mines to such person in su ch manner as may be prescribed.  
+(7) The designated custodian shall have rights, liabilities and obligations as a prior allottee or a 
+successful bidder in respect of coal mines entrusted to it under section 1 8, to be exercised and discharged 
+in su ch manner as may be prescribed.  
+(8) The designated custodian shall have the power to perform such other functions which may be 
+consequential or incidental to the function s specified under this section.  
+(9) Notwithstan ding anything contained in any other law for the time being in force, the designated 
+custodian shall, in exercise of its powers or the performance of its functions under this Act, be bound by 12 
+ such directions on questions of policy, as the Central Governmen t may give in writing to it from time to 
+time.  
+CHAPTER V  
+CERTAIN ARRANGEMENTS  
+20. Power of Central Government to approve certain arrangement s.––(1) A successful bidder or 
+allottee or coal linkage holder shall, with the prior approval of the Central Government and in accordance 
+with such rules as may be prescribed, be entitled to enter into certain agreements or arrangements with 
+other successful bidder or allottee or coal linkage holder, as the case may be, for optimum utilisation of 
+coal mine for th e same end -uses in the public interest an d to achieve cost efficiencies.  
+(2) A successful bidder or allottee may also use the coal mine from a particular Schedule I coal mine 
+for any of its plants engaged in common specified end -uses, in accordance with s uch rules as may be 
+prescribed.  
+CHAPTER VI  
+MISCELLANEOUS  
+21. Acquisition of land .––(1) All existing land acquisition proceedings under the Right to Fair 
+Compensation and Transparency in Land Acquisition, Rehabilitation and Resettlement Act,                       
+2013  (30 of 2013) , in relation to Schedule I coal mines, shall continue in respect of such areas of land in 
+accordance with the provisions of the said Act.  
+(2) All such areas of land which are not subject matter of land acquisition pr oceedings, in relation to 
+the coal mines, under the Right to Fair Compensation and Transparency in Land Acquisition, 
+Rehabilitation and Resettlement Act, 2013  (30 of 2013),  may be proceeded with by the Central 
+Government in terms of the Coal Bearing Areas (Acquisition and Development) Act, 1957  (20 of 1957) .  
+(3) The State Governments which have initiated land acquisition proceedings under provisions of the 
+Right to Fair Compensation and Transparency in Land Acquisition, Rehabilitation and Resettlement Act,  
+2013  (30 of 2013),  and all such lands which are also subject matter of the said Act in respect of             
+Schedule I coal mines, shall —  
+(a) not transfer any land to the prior allottees which have been acquired und er the said Act;  
+(b) continue  the land acquisition proce edings till the appointed date;  
+(c) for such Schedule I coal mines which have not vested in the successful bidder or the allottee, 
+as the case may be, by the appointed date, continue the land acquisition proceedings for and on be half 
+of the Central Government;  
+(d) upon the vesting or the allotment, as the case may be, after the appointed date, continue such 
+land acquisition proceedings on behalf of the su ccessful bidder or the allottee.  
+ 22.  Realisation of additional levy .––If a prior allottee of Schedule II coal mine fails to deposit the 
+additional levy with the Central Government within the specified time, then, such additional levy shall be 
+realised as the arrears of land revenue.  
+23.  Penalties for certain offences .––If any p erson — 
+(a) obstructs or causes any impediment in taking possession or in the management and operation 
+of the Schedule I coal mines by the Central Government or the designated custodian; or  
+(b) fails to deliver to the designated custodian any books of acco unt, registers or any other 
+document in his custody relating to Schedule I coal mines and coal mining operations in respect of 
+the management of which the designated c ustodian has been appointed; or  
+(c) destroys or misuses any mine infr astructure or coal s tock; or  
+(d) retains any property of such coal mine or removes or destroys it,  
+he and any officer -in-default of the company shall be punishable with imprisonment for a term which 
+may extend to two years, or with the minimum fine of one lakh rupees per day and in the case of 13 
+ continuing failure, with a maximum fine of two lakh rupees f or every day during which the failure 
+continues or with both, depending upon the nature of the offence.  
+24. Penalty for failure to comply with directions of Central Government .––If any person fails to 
+comply, without reasonable cause, with a direction given by the Central Government or nominated 
+authority or the designated custodian, he shall be punishable with a fine of one lakh rupees and in the case 
+of continuing failure with a  maximum fine of two lakh rupees for every day during which the failure 
+continues, depending upon the nature of the offence.  
+25. Offences by companies .––(1) Where an offence under this Act has been committed by a 
+company, every person who at the time the o ffence was committed was in charge of, and was responsible 
+to, the company for the conduct of business of the company as well as the company shall be deemed to be 
+guilty of the offence and shall be liable to be proceeded ag ainst and punished accordingly:  
+Provided that nothing contained in this sub -section shall render any such person liable to any 
+punishment, if he proves that the offence was committed without his knowledge and that he had exercised 
+all due diligence to prevent the commission of such offenc e. 
+(2) Notwithstanding anything contained in sub -section ( 1), where any offence under this Act has been 
+committed by a company and it is proved that the offence has been committed with the consent or 
+connivance of, or is attributable to, any neglect on the  part of any director, manager, secretary or other 
+officer of the company, such director, manager, secretary or other officer shall be deemed to be guilty of 
+that offence and shall be liable to be proceeded ag ainst and punished accordingly.  
+26.  Cognizance  of offences .––No court shall take cognizance of any offence punishable under this 
+Act or any rules made thereunder except upon complaint in writing made by a person authorised in this 
+behalf by the Central Government or nominated authority or the designat ed custodian.  
+27. Dispute settlement and Bar of Jurisdiction of civil courts .––(1) Any dispute arising out of any 
+action of the Central Government, nominated authority or Commissioner of payment or designated 
+custodian, or any dispute between the successful bidder or allottee and prior allottee arising out of any 
+issue connected with the Act shall be adjudicated by the Tribunal constituted under the Coal Bearing 
+Areas (Acquisi tion and Development) Act, 1957 (20 of 1957).  
+(2) Where the Central Gover nment is of the opinion that any dispute arising out of any issue 
+connected with the Act exists or is apprehended and th e dispute should be adjudicated  by the Tribunal 
+referred to in sub -section ( 1), then, the Central Government may by order in writing, re fer the dispute or 
+any matter appearing to be connected with, or relevant to, the dispute, to  the Tribunal for adjudication.  
+(3) The Tribunal referred to in sub -section ( 1) shall, after hearing the parties to the dispute, make an 
+award in writing within a period of ninety days from the instituti on or reference of the dispute.  
+(4) On and from the commencement of the Act, no court or other authority, except the Supreme Court 
+and a High Court, shall have, or be entitled to exercise, any jurisdiction, powers or  authority, in relation to 
+matters connected with the Act.  
+28. Protection of action taken in good faith. –– No suit, prosecution or other legal proceeding shall 
+lie against the Central Government, nominated authority, commissioner of payment, or designated 
+custodian or any person acting  on their behalf, in respect of anything which is done or intended to be don e 
+in good faith under this Act.  
+29. Act to have overriding effect .––The provisions of this Act shall have effect, notwithstanding 
+anything inconsisten t therewith contained in any other law for the time being in force, or in any 
+instrument having ef fect by virtue of any such law.  
+30.  Amendment of certain Acts c ontained in Schedule IV .––On and from the date of 
+commencement of this Act, the Coal Mines (Nationalisation) Act, 1973  (26 of 1973 ), and the Mines and 
+Minerals (Develo pment and Regulation) Act, 1957 (67 of 1957),  shall stand amended in the mann er 
+provided in Schedule IV. 31.  
+31. Power to make rules. ––(1) The Central Government may, by notificati on in the Official Gazette, 
+and subject to the condition of previous publication, make rules for carrying out the provisions of this 
+Act. 14 
+ (2) In particular, and without prejudice the generality of the foregoing power, such rules may provide 
+for all or any of the following matters, namely: –– 
+(a) the manner of allocation of Schedule I coal mines by way of public auction and details of fees 
+under sub -section ( 1) of section 4;  
+(b) the terms and conditions for granting reconnaissance permit, prospecting licence or mining 
+lease and the manner and conditions of competitive bidding under sub -section ( 2) of section 4;  
+(c) norms to become eligible to bid in an auction and the amount of investment in respect of a 
+company having a coal linkage under sub -section ( 3) of s ection 4;  
+(d) the period within which the payment of additional levy by the prior allottee under                       
+sub-section ( 4) of section 4;  
+(e) the allotment order to make allocations to a Government company or corporation under              
+sub-section ( 1) of section 5;  
+(f) the powers of the nominated authority under sub -section ( 1) of section 6;  
+(g) the manner of auction or allotment of Schedule I coal mines and execution of the vesting or 
+allotment orders under sub -section ( 4) of section 6;  
+(h) the salaries and allowances and other terms and conditions of service of the nominated 
+authority and other officers and staff under sub -section ( 6) of section 6;  
+(i) the manner of notifying the particulars of Schedule I coal mines to be auctioned and furnishing 
+of required information by the prior allottees under sub -section ( 1) of section 8;  
+(j) the manner of conducting auction and drawing of a vesting order under sub -section ( 3) of 
+section 8;  
+(k) determination  of floor price by the nominated authority under sub -section ( 5) of section 8;  
+(l) the form and manner of furnishing of bank guarantee and the time within which such 
+furnishing of bank guarantee under sub -section ( 6) of section 8;  
+(m) the manner of disburs ement of pri ority payments under section 9;  
+(n) the manner of establishing title of movable property by the prior allottee or third party who 
+has a contract with the prior allottee for the movable property under the first proviso to                        
+sub-section ( 5) of section 10;  
+(o) the manner of receiving compensation from the sale proceeds of the movable property under 
+the second proviso to sub -section ( 5) of section 10;  
+(p) the manner in which the secured creditor paid out of the compensation in r espect of any prior 
+allottee under sub -section ( 2) of section 12;  
+(q) the manner of collection of additional levy by the Central Government from the prior allottees 
+of Schedule II coal mines under sub -section ( 5) of s ection 14;  
+(r) the salaries and allowan ces and other terms and conditions of service of the Commissioner of 
+payments and other officers and staff under sub -section ( 4) of section 15;  
+(s) the manner of determination of compensation payable to prior allottee and the lodging of 
+registered sale de eds with the nominated authority under sub -section ( 1) of section 16;  
+(t) the method of determination of compensation for mine infrastructure in relation to Schedule I 
+and its reflection in the statutorily audited balance sheet under sub -section ( 2) of sec tion 16;  
+(u) the manner of transfer of the management and operation of any Schedule II coal mines by the 
+designated custodian under sub -section ( 6) of section 19;  
+(v) the manner of exercising and discharging the rights, liabilities and obligations by the 
+designated custodian under sub -section ( 7) of section 19;  
+(w) the manner of providing agreements or arrangements for optimum utilisation of coal mine for 
+specified end -uses under sub -section ( 1) of section 20;  15 
+ (x) the manner of usage of coal mine by a succe ssful bidder or allottee for any of its plants under 
+sub-section ( 2) of section 20;  
+(y) any other matter which is require d to be, or may be, prescribed.  
+(3) Every rule made and every notification issued by the Central Government, under this Act, shall be 
+laid, as soon as may be after it is made, before each House of Parliament, while it is in session, for a total 
+period of thirty days which may be comprised in one session or in two or more successive sessions, and 
+if, before the expiry of the session immedi ately following the session or the successive sessions aforesaid, 
+both Houses agree in making any modification in the rule or notification, or both Houses agree that the 
+rule or notification should not be made, the rule or notification shall thereafter hav e effect only in such 
+modified form or be of no effect, as the case may be; so, however, that any such modification or 
+annulment shall be without prejudice to the validity of anything previously done under that rule or  
+notification.  
+32. Power to remove  difficulties .––(1) If any difficulty arises in giving effect to the provisions of 
+this Act, the Central Government may, by order published in the Official Gazette, make such provisions, 
+not inconsistent with the provisions of this Act, as appear to it to be necessary or expedient for removing 
+the d ifficulty:  
+Provided that no such order shall be made after the expiry of a period of two years from the da te of 
+commencement of this Act.  
+(2) Every order made under this section shall, as soon as may be after it is made, be laid b efore each 
+House of Parliament.  
+33. Repeal and saving. ––(1) The Coal Mines (Special Provisions) Second Ordi nance,                  
+2014 (Ord. 7 of 2014) is hereby repealed.  
+(2) Notwithstanding such repeal, anything done or any action taken under the said Ordinance, shall, 
+without prejudice to the judgment of the Supreme Court dated 25th August, 2014 and its order dated 24th 
+September, 2014 passed in Writ Petition (Criminal) No. 120 of 2012, be deemed to have been done or 
+taken under th e corres ponding provisions of this Act.  
+  16 
+ SCHEDULE I  
+[See section 3( 1) (p)] 
+ 
+SI. 
+No. Name of Coal  
+Mine/Block  Name of Prior Allottee  State where Coal  
+Mine/Block  
+Located  
+1       2 3 4 
+1 Tadicherla -I Andhra Pradesh Power Generation Corpn. Ltd.  Telangana  
+2 Anesttipali  Andhra Pradesh Power Generation Corpn. Ltd.  Telangana  
+3 Punkula -Chilka  Andhra Pradesh Power Generation Corpn. Ltd.  Telangana  
+4 Penagaddppa  Andhra Pradesh Power Generation Corpn. Ltd.  Telangana  
+5 Namchik  Namphuk  Arunachal Pradesh Mineral Dev. & Trading Corporation  Arunachal Pradesh  
+6 Sayang  AES Chhattisgarh Energy Pvt. Ltd  Chhattisgarh  
+7 Rajgamar Dipside 
+(Deavnara)  API Ispat &  Powertech Pvt. Ltd., CG Sponge  
+Manufacturers Consortium Coalfield Pvt. Ltd.  Chhattisgarh  
+8 Durgapur -II/ Taraimar  Bharat Aluminium Company Ltd.  Chhattisgarh  
+9 Datima  Binani Cement Ltd.  Chhattisgarh  
+10 Tara Chhattisgarh Mineral Development Corporation Limited  Chhattisgarh  
+11 Gare -Palma,  Sector -I Chhattisgarh Mineral Development Corporation Limited  Chhattisgarh  
+12 Shankarpur Bhatgaon  
+II Extn.  Chhattisgarh Mineral Development Corporation Limited  Chhattisgarh  
+13 Sondhia  Chhattisgarh Mineral Development Corporation Limited  Chhattisgarh  
+14 Parsa  Chhattisgarh State Electricity Board  Chhattisgarh  
+15 Vijay  Central  Coal India Limited, SKS Ispat & Power Ltd.  Chhattisgarh  
+16 Gidhmuri  Chhattisgarh State Electricity Board  Chhattisgarh  
+17 Paturia  Chhattisgarh State Electricity Board  Chhattisgarh  
+18 Durgapur -II /Sarya  DB Power Ltd.  Chhattisgarh  
+19 Bhaskarpara  Electrotherm (India) Ltd., Grasim Industries Ltd.  Chhattisgarh  
+20 West of Umaria  Saini k Finance and Industries Ltd. ( Earlier Garuda Clays 
+Ltd.)  Chhattisgarh  
+21 Morga II  Gujarat Mineral Development Corporation  Chhattisgarh  
+22 Gare -Palma Sector -III Goa Industrial Development Corporation  Chhattisgarh  
+23 Madanpur South  Hindustan Zinc Ltd., Akshya Investment Pvt. Ltd., 
+Chhattisgarh Steel & Power Ltd., Chhattisgarh Electricity 
+Corporation Ltd., MSP Steel & Power Ltd., Chhattisgarh 
+Captive Coal Mining Ltd. (Consortium of five Cos. )  Chhattisgarh  
+24 Nakia I  Ispat Godavari Ltd., Ind Agro Synergy Ltd., Shri Nakoda 
+Ispat Ltd., Vandana Global Ltd., Shree Bajrang Power & 
+Ispat Ltd.  Chhattisgarh  
+  17 
+ 1          2 3 4 
+25 Nakia II Ispat Godavari, Ind Agro Synergy, Shri Nakoda Ispat, 
+Vandana Global Ltd., Shree Bajrang Power & Ispat Ltd.  Chhattisgarh  
+26 Gare -Palma - IV/4 Jayaswal Neco Ltd.  Chhattisgarh  
+27 Gare -Palma - IV/8 Jayaswal Neco Ltd.  Chhattisgarh  
+28 Gare -Palma -IV/2 Jindal Power Ltd. (Now Jindal Steel & Power Ltd.)  Chhattisgarh  
+29 Gare -Palma -IV/3 Jindal Power Ltd. (Now Jindal Steel & Power Ltd.)  Chhattisgarh  
+30 Gare -Palma -IV/1 Jindal Strips Limited  (Now Jindal Steel & Power Ltd. ) Chhattisgarh  
+31 Gare -Palma IV/6  Jindal Steel & Power Ltd., Nalwa Sponge Iron Ltd.  Chhattisgarh  
+32  Fatehpur East  JLD Yavatmal Energy Ltd., R.K.M. Powergen Pvt. Ltd., 
+Visa Power Ltd., Green Infrastructure Pvt. Ltd.,Vandana 
+Vidyut Ltd.  Chhattisgarh  
+33 Morga -I Madhya Pradesh State Mining Corporation Limited  Chhattisgarh  
+34 Morga -III Madhya Pradesh State Mineral Corporation Limited  Chhattisgarh  
+35 Morga -IV Madhya Pradesh State Mineral Corporation Limited  Chhattisgarh  
+36 Gare -Palma Sector -II Maharashtra State Mining Corpn. Ltd. Tamil Nadu  State 
+Electricity Board  Chhattisgarh  
+37 Gare -Palma -IV/5 Monet Ispat Ltd.  Chhattisgarh  
+38 Rajgamar Dipside  (South 
+of Phulakdih Nala)  Monnet Ispat and Energy Ltd., Topworth Steel Pvt. Ltd.  Chhattisgarh  
+39 Talaipali  National Thermal Power Ltd.  Chhattisgarh  
+40 Chotia  Prakash Industries Ltd . Chhattisgarh  
+41 Gare -Palma -IV/7 Raipur Alloys & Steel Ltd. (Now Sarda Energy and 
+Mineral Limited)  Chhattisgarh  
+42  Parsa East  Rajasthan Rajya Vidyut Utpadan Nigam Ltd. 
+(RRVUNL)  Chhattisgarh  
+43 Kesla North  Rathi Udyog Ltd.  Chhattisgarh  
+44 Kanta Basan  Rajasthan Rajya Vidyut Utpadan Nigam Ltd. 
+(RRVUNL)  Chhattisgarh  
+45 Panchbahani  Shree Radhe Industries Ltd.  Chhattisgarh  
+46 Fatehpur  SKS Ispat and Power Ltd., Prakash Industries Ltd.  Chhattisgarh  
+47 Madanpur (North ) Ultratech Ltd., Singhal Enterprise Ltd. , Nav Bharat 
+Coalfield Ltd., Vandana Energy & Steel Pvt. Ltd., 
+Prakash Industries Ltd., Anjani Steel Pvt. Ltd., 
+Chhattisgarh Captive Coal Mining Ltd. (Consortium of 
+five Co. )  Chhattisgarh  
+48 Brinda  Abhijeet  Infrastructure Pvt. Ltd.  Jharkhand  
+49 Sasai  Abhijeet Infrastructure Pvt. Ltd.  Jharkhand  
+50 Meral  Abhijeet Infrastructure Pvt. Ltd.  Jharkhand  
+51 Seregarha  Arcel or Mittal India Ltd., GVK Power (Govindwal 
+Sahib) Ltd.  Jharkhand  
+  18 
+    1 2 3 4 
+52 Patal East  Bhushan Power and Steel Ltd.  Jharkhand  
+53 Saria Koiyatand  Bihar Rajya Khanij Vikas Nigam (BRKVN) Patna.  Jharkhand  
+54 Macherkunda  Bihar Sponge Iron Ltd.  Jharkhand  
+55 Brahmadiha  Castron Technologies Ltd . Jharkhand  
+56 Mahuagarhi  Calcutta Electricity Supply Corporation Ltd. (CESC), 
+Jas Infrastructure Capital Pvt. Ltd.  Jharkhand  
+57 Chitarpur  Corporate Ispat Alloys Ltd.  Jharkhand  
+58 Saharpur  Jamarpani  Damodar Valley Corporation  Jharkhand  
+59 Lalgarh (North)  Domco Smokeless Fuel Pvt. Ltd . Jharkhand  
+60 Parbatpur -Central  Electrosteel castings Ltd.  Jharkhand  
+61 Chakla  Essar Power Ltd . Jharkhand  
+62 Ashok Karkatta  Central  Essar Power Ltd . Jharkhand  
+63 Jainagar  Gujarat Mineral Development Corporation (GMDC)  Jharkhand  
+64 Tokisud North  GVK Power (Govindwal  Sahib) Ltd.  Jharkhand  
+65 Tubed  Hindalco Industries Ltd., Tata Power Company Ltd.  Jharkhand  
+66 Moitra  Jayaswal Neco Ltd.  Jharkhand  
+67 North Dhadu  Jharkhand Ispat Pvt. Ltd., Pavanjay Steel & Power Ltd., 
+Electrosteel castings Ltd., Adhunik Alloys & Power Ltd Jharkhand  
+68 Banhardih  Jharkhand State Electricity Board  Jharkhand  
+69 Sugia Closed mine  Jharkhand State Mineral Development Corporation  Jharkhand  
+70 Rauta Closed mine  Jharkhand State Mineral Development Corporation  Jharkhand  
+71 Burakhap small patch  Jharkhand State Mineral Development Corporation  Jharkhand  
+72 Pindra -Debipur 
+Khaowatand  Jharkhand State Mineral Development Corporation Ltd.  Jharkhand  
+73 Latehar  Jharkhand State Mineral Development Corporation Ltd.  Jharkhand  
+74 Patratu  Jharkhand  State Mineral Development Corporation Ltd.  Jharkhand   
+75 Rabodih OCP  Jharkhand State Mineral Development Corporation Ltd.  Jharkhand  
+76 Jogeshwar & Khas 
+Jogeshwar  Jharkhand State Mineral Development Corporation  Jharkhand  
+77 Jitpur   Jindal Steel & Power Ltd.  Jharkhand  
+78 Amarkonda  Murgadangal  Jindal Steel and Power Ltd.,Gagan Sponge Iron Pvt. 
+Ltd. Jharkhand  
+79 Urma Paharitola  Jharkhand State Electricity Board, Bihar State Mineral 
+Development Corporation Ltd.  Jharkhand  
+80 Rohne  JSW Steel Ltd., Bhushan Power & Steel Ltd., Jai Balaji 
+Industries Ltd  Jharkhand  
+81 Gomia  Metals and Minerals Trading Corporation  Jharkhand  
+  19 
+ 1 2 3 4 
+82 Rajhara North (Central & 
+Eastern)  Mukund Limited,Vini Iron & Steel Udyog Limited  Jharkhand  
+83 Dumri  Nilachal Iron & Power Ltd., Bajrang Ispat Pvt. Ltd.  Jharkhand  
+84 Kerandari  National Thermal Power Ltd.  Jharkhand  
+85 Chhatti Bariatu   National Thermal Power Ltd.  Jharkhand  
+86 Chhati Bariatu South  National Thermal Power Ltd.  Jharkhand  
+87 Brahmini  National Thermal Power Ltd.+ Coal India Limited JV  Jharkhand  
+88 Chichro Patsimal  National Thermal Power Ltd.+ Coal India Limited JV  Jharkhand  
+89 Pachwara Central  Punjab State Electricity Board  Jharkhand  
+90 Mahal  Rashtriya Ispat Nigam Limited  Jharkhand  
+91 Tenughat -Jhirki  Rashtriya Ispat Nigam Limited  Jharkhand  
+92 Bundu  Rungta Mines Limited  Jharkhand  
+93 Mednirai  Rungta Mines Limited, Kohinoor Steel (P) Ltd.  Jharkhand  
+94 Choritand Tiliaya  Rungta Mines Limited, Sunflag Iron &  Steel Co. Ltd.  Jharkhand  
+95 Sitanala  Steel Authority of India Ltd.  Jharkhand  
+96 Ganeshpur  Tata Steel Ltd., Adhunik Thermal Energy  Jharkhand  
+97 Badam  Tenughat Vidyut Nigam Limited  Jharkhand  
+98 Rajbar E&D  Tenughat Vidyut Nigam Limited  Jharkhand  
+99 Gondulpara  Tenughat Vidyut Nigam Limited, Damodar Valley 
+Corporation  Jharkhand  
+100 Kotre-Basant pur Tata Iron and Steel Co. Ltd. ( Now Tata Steel Ltd.)  Jharkhand  
+101 Pachmo  Tata Iron and Steel Co. Ltd. ( Now Tata Steel Ltd.)  Jharkhand  
+102 Lohari  Usha Martin Ltd.  Jharkhand  
+103 Kathautia  Usha Martin Ltd.  Jharkhand  
+104 Pachwara North  West Bengal Power Development Corporation Limited 
+(WBPDCL)  Jharkhand  
+105 Suliyari  Andhra Pradesh Mineral Development Corporation   Madhya Pradesh  
+106 Bikram  Birla Corporation Ltd.  Madhya Pradesh  
+107 Gotitoria (East)  BLA Industries Ltd.  Madhya Pradesh  
+108 Gotitoria (West)  BLA Industries Ltd.  Madhya Pradesh  
+109 Mahan  Essar Power Ltd., Hindalco Industries Ltd.  Madhya Pradesh  
+110 Mandla North  Jaipraskash Associates Ltd.  Madhya Pradesh  
+111 Urtan North  Jindal Steel & Power Ltd., Monet Ispat and Energy Ltd.  Madhya Pradesh  
+112 Thesgora -B/ Rudrapuri  Kamal Sponge Steel & Power Limited, Revati Cement P. 
+Ltd. Madhya Pradesh  
+113 Amelia  Madhya Pradesh State Mining Corporation  Madhya Pradesh  
+114 Amelia (North)  Madhya Pradesh State Mining Corporation  Madhya Pradesh  
+  20 
+ 1 2 3 4 
+115 Mandla South  Madhya Pradesh State Mining Corporation Ltd.  Madhya Pradesh  
+116 Dongeri Tal -II  Madhya  Pradesh State Mining Corporation Ltd.  
+(MPSMC)  Madhya Pradesh  
+117 Marki Barka  Madhya Pradesh State Mining Corporation (MPSMC)  Madhya Pradesh  
+118 Semaria/Piparia  Madhya Pradesh State Mining Corporation (MPSMC)  Madhya Pradesh  
+119 Bicharpur  Madhya Pradesh State Mining Corporation Ltd. 
+(MPSMC)  Madhya Pradesh  
+120 Tandsi -III & Tandsi -III 
+(Extn.)  Mideast Integrated Steels Ltd.  Madhya Pradesh  
+121 Sahapur East National Mineral Dev. Corp.  Madhya Pradesh  
+122 Sahapur West  National Mineral Dev. Corp.  Madhya Pradesh  
+123 Mara II Mahan  NCT of Delhi, Delhi, Haryana Power Generation Corp. 
+Ltd . (HPGCL)  Madhya Pradesh  
+124 Sial Ghoghri  Prism Cement Limited  Madhya Pradesh  
+125 Brahampuri  Pushp Steel and Mining Ltd.  Madhya Pradesh  
+126 Rawanwara North  SKS Ispat Limited  Madhya Pradesh  
+127 Bander  AMR Iron & Steels Pvt. Ltd., Century Textiles & 
+Industries Ltd., J.K.Cement Ltd.  Maharashtra  
+128 Marki Mangli -I  B.S. Ispat Ltd.  Maharashtra  
+129 Takli -Jena-Bellora (North) 
+& Takli -Jena-Bellora 
+(South)  Central Collieries Co. Ltd. and Lloyds Metals & 
+Engineering Ltd.  Maharashtra  
+130 Dahegaon/ Makard hokra - 
+IV IST Steel & Power Ltd., Gujarat Ambuja Cement Ltd., 
+Lafarge India Pvt. Ltd.  Maharashtra  
+131 Gondkhari  Maharashtra Seamless Limited, Dhariwal Infrastructure 
+(P) Ltd., Kesoram Industries Ltd.  Maharashtra  
+132 Marki -Zari-Jamani -Adkoli  Maharashtra State Mining Corpn. Ltd.  Maharashtra  
+133 Lohara (East)  Murli Industries Ltd., Grace Industries Ltd.  Maharashtra  
+134 Khappa & Extn.  Sunflag Iron & Steel Ltd., Dalmia Cement (Bharat) Ltd.  Maharashtra  
+135 Lohara West Extn.  Adani Power Ltd.  Maharashtra  
+136 Warora West (North)  Bhatia International Ltd.  Maharashtra  
+137 Kosar Dongergaon  Chaman Metaliks Ltd.  Maharashtra  
+138 Warora (West) Southern 
+Part Fieldmining & Ispat Ltd.  Maharashtra  
+139 Chinora  Fieldmining & Ispat Ltd.  Maharashtra  
+140 Majra  Gondwana Ispat Ltd.  Maharashtra  
+141 Nerad Malegaon  Gupta Metallics & Power Ltd., Gupta Coalfields &  
+Washeries Ltd.  Maharashtra  
+142 Baranj - I  Karnataka Power Corp. Ltd. (KPCL)  Maharashtra  
+143 Baranj - II  Karnataka Power Corp. Ltd. (KPCL)  Maharashtra  21 
+ 1 2 3 4 
+144 Baranj - III  Karnataka Power Corp. Ltd. (KPCL)  Maharashtra  
+145 Baranj - IV  Karnataka Power Corp. Ltd. (KPCL)   Maharashtra  
+146 Kiloni  Karnataka Power Corp. Ltd. (KPCL)  Maharashtra  
+147 Manora Deep  Karnataka Power Corp. Ltd. (KPCL)  Maharashtra  
+148 Agarzari  Maharashtra State Mining Corporation Limited 
+(MSMCL)  Maharashtra  
+149 Warora  Maharashtra State Mining Corporation Limited 
+(MSMCL)  Maharashtra  
+150 Bhandak West  Shree Baidyanath Ayurved Bhawan Ltd.  Maharashtra  
+151 Marki Mangli -II  Shree Veerangana Steel Limited.  Maharashtra  
+152 Marki Mangli -III  Shree Veerangana Steel Limited.  Maharashtra  
+153 Marki Mangli -IV  Shree Veerangana Steel Limited.  Maharashtra  
+154 Belgaon  Sunflag Iron & Steel Co. Ltd.  Maharashtra  
+155 Mandakini B  Assam Mineral Dev. Corporation Ltd., Meghalaya 
+Mineral Dev. Corp., Tamil Nadu Electricity Board, 
+Odisha Mining Corporation Ltd.  Odisha  
+156 New Patrapara  Bhusan Steel & Strips Ltd., Adhunik Metaliks Ltd., 
+Deepak Steel & Power Ltd., Adhunik Corp. Ltd., Odisha 
+Sponge Iron Ltd., SMC Power Generation Ltd., Sree 
+Metaliks Ltd.,Visa Steel Ltd.  Odisha  
+157 Bijahan  Bhushan Ltd., Shri Mahavir Ferro Alloys Pvt. Limited  Odisha  
+158 Jamkhani  Bhushan Ltd.  Odisha  
+159 Naini  Gujarat Mineral Development Corporation, Puducherry 
+Industrial Promotion Development and Investment 
+Corporation Limited  Odisha  
+160 Mahanadi  Gujarat State Electricity Corporation Limited, 
+Maharashtra State Electricity Board  Odisha  
+161 Machhakata  Gujarat State Electricity Corporation Limited, 
+Maharashtra State Electricity Board  Odisha  
+162 Talabira -I  Hindalco Industries Ltd.  Odisha  
+163 Ramchandi Promotion 
+Block  Jindal Steel & Power Limited  Odisha  
+164 Utkal B 1 Jindal Steel & Power Ltd.  Odisha  
+165 Baitarni West  Kerala State Electricity Board, Odisha Hydro Power 
+Corp., Gujarat Power Corporation Ltd. Odisha  
+166 Talabira II & III.  Mahanadi Coalfields Ltd. (MCL), Neyveli Lignite 
+Corporation Ltd., Hindalco Industries Ltd  Odisha  
+167 Utkal -A  Mahanadi Coalfields Ltd. (MCL), JSW Steels Ltd., Jindal 
+Thermal Power Comp. Ltd., Jindal Stainless Steels Ltd., 
+Shyam DRI Ltd.  Odisha  
+168 Utkal -B2  Monet Ispat Ltd.  Odisha  
+  22 
+ 1 2 3 4 
+169 Mandakini  Monet Ispat Energy Ltd., Jindal Photo Ltd., Tata Power 
+Company Ltd.  Odisha  
+170 Utkal ‗E‘   National Aluminium Corporation  Odisha  
+171 Dulanga  National Thermal Power Corporation  Odisha  
+172 Utkal -D  Odisha Mining Corporation  Odisha  
+173 Nuagaon Telisahi  Odisha Mining Corporation, Andhra Pradesh Mineral 
+Development (APMDC)  Odisha  
+174 Manoharpur  Odisha Power Generation Corporation  Odisha  
+175 Dipside Manoharpur  Odisha Power Generation Corporation  Odisha  
+176 Radhikapur (West)  Rungta Mines Limited, OCL India Ltd., Ocean Ispat 
+Ltd.  Odisha  
+177 Rampia  Sterlite Energy Ltd., (IPP), GMR Energy Ltd. (IPP), 
+Arcelor Mittal India Ltd. (CPP), Lanco Group Ltd. 
+(IPP), Navbharat Power Pvt. Ltd. (IPP), Reliance 
+Energy Ltd. (IPP)  Odisha  
+178 Dip Side of Rampia  Sterlite Energy Ltd., (IPP), GMR Energy (IPP), Arcelor 
+Mittal India Ltd. (CPP), Lanco Group Ltd. (IPP), 
+Navbharat Power Pvt. Ltd. (IPP), Reliance Energy Ltd. 
+(IPP)  Odisha  
+179 North of Arkhapal 
+Srirampur  Strategic Energy Technology Systems Limited 
+(SETSL)  Odisha  
+180 Radhikapur  (East)  Tata Sponge Iron Ltd, Scaw Industries Ltd., SPS 
+Sponge Iron Ltd.  Odisha  
+181 Chendipada  Uttar Pradesh Rajya Vidut Utpadan Limited, 
+Chattishgarh Mineral Development Corporation 
+Limited, Maharashtra State Power Generation 
+Corporation Ltd.  Odisha  
+182 
+ Chendipada -II  Uttar Pradesh Rajya Vidut Utpadan Limited, 
+Chattishgarh Mineral Development Corporation 
+Limited, Maharashtra State Power Generation 
+Corporation Ltd.  Odisha  
+183 Utkal -C  Utkal Coal Ltd. (formerly ICCL)  Odisha  
+184 Biharinath  Bankura DRI Mining Manufacturers Co. Pvt. Ltd.  West Bengal  
+185 Andal East  Bhushan Steel Ltd., Jai Balaji Industries Ltd., Rashmi 
+Cement Ltd.  West Bengal  
+186 Barjora (North )  Damodar Valley Corporation  West Bengal  
+187 Kagra Joydev  Damodar Valley Corporation  West Bengal  
+188 Kasta (East)  Damodar Valley Corporation  West Bengal  
+189 Gourangdih ABC  Himachal EMTA Power Ltd., JSW Steel Ltd.  West Bengal  
+190 Moira -Madhujore.  Ramsarup Lohh Udyog Ltd., Adhunik Corporation 
+Ltd., Uttam Galva Steels Ltd., Howrah Gases 
+Ltd.,Vikas Metal & Power Ltd., ACC Ltd  West Bengal  
+191 Sarisatolli  Calcutta Electricity Supply Corporation Ltd.  West Bengal  23 
+ 1 2 3 4 
+192 Ardhagram  Sova Ispat Limited, Jaibalaji Sponge Ltd.  West Bengal  
+193 Tara (West)  West Bengal Power Development Corporation Limited 
+(WBPDCL)  West Bengal  
+194 Gangaramchak  West Bengal Power Development Corporation Limited 
+(WBPDCL)  West Bengal  
+195 Barjora  West Bengal Power Development Corporation Limited 
+(WBPDCL)  West Bengal  
+196 Gangaramchak - Bhadulia  West Bengal Power Development Corporation Limited 
+(WBPDCL)  West Bengal  
+197 Tara (East)  West Bengal State Electricity Board  West Bengal  
+198 Jaganathpur B  West Bengal Mineral Development & Trading Corp.  West Bengal  
+199 Sitarampur  West Bengal Mineral Dev. & Trading Corp. Ltd.  West Bengal  
+200 Trans Damodar  West Bengal Mineral Dev. & Trading Corp. Ltd.  West Bengal  
+201 Ichhapur  West Bengal Mineral Dev. & Trading Corp. Ltd.  West Bengal  
+202 Kulti  West Bengal Mineral Dev. &  Trading Corp. Ltd.  West Bengal  
+203 Jaganathpur A  West Bengal Mineral Dev. & Trading Corp. Ltd.  West Bengal  
+204 East of Damogoria 
+(Kalyaneshwari)  West Bengal Power Development Corporation Limited 
+(WBPDCL)  West Bengal  
+ 
+ 
+  24 
+ SCHEDULE II  
+[See section 3( 1) (q)] 
+ 
+Sl. 
+No. Name of Coal  
+Mine/Block  Name of Prior Allottee  State whereCoal 
+Mine/Block 
+Located  
+ 1 2 3 4 
+1 Namchik Namphuk  Arunachal Pradesh Mineral Dev. & Trading 
+Corporation  Arunachal Pradesh  
+2 Gare -Palma - IV/4  Jayaswal Neco Ltd.  Chhattisgarh  
+3 Gare -Palma -IV/2  Jindal Power Ltd.  (Now Jindal Steel & Power Ltd.)  Chhattisgarh  
+4 Gare -Palma -IV/3  Jindal Power Ltd. (Now Jindal Steel & Power Ltd.)  Chhattisgarh  
+5 Gare -Palma -IV/1  Jindal Strips Limite d (Now Jindal Steel & Power Ltd .)  Chhattisgarh  
+6 Gare -Palma -IV/5  Monet Ispat Ltd.  Chhattisgarh  
+7 Chotia  Prakash Industries Ltd.  Chhattisgarh  
+8 Gare -Palma -IV/7  Raipur Alloys & Steel Ltd. (Now Sarda Energy and 
+Mineral Limited)  Chhattisgarh  
+9 Parsa East  Rajasthan Rajya Vidyut Utpadan Nigam Ltd. 
+(RRVUNL)  Chhattisgarh  
+10 Kanta Basan  Rajasthan Rajya Vidyut Utpadan Nigam Ltd. 
+(RRVUNL)  Chhattisgarh  
+11 Parbatpur -Central  Electrosteel Castings Ltd.  Jharkhand  
+12 Tokisud North  GVK Power (Govindwal Sahib) Ltd.  Ltd. Jharkhand  
+13 Pachwara Central  Punjab State Electricity Board  Jharkhand  
+14 Kathautia  Usha Martin Ltd.  Jharkhand  
+15 Pachwara North  West Bengal Power Development Corporation 
+Limited (WBPDCL)  Jharkhand  
+16 Gotitoria (East)  BLA Industries Ltd.  Madhya Pradesh  
+17 Gotitoria (West)  BLA Industries Ltd.  Madhya Pradesh  
+18 Mandla North  Jaipraskash Associates Ltd.  Madhya Pradesh  
+19 Amelia (North)  Madhya Pradesh State Mining Corporation  Madhya Pradesh  
+20 Bicharpur  Madhya Pradesh State Mining Corporation Ltd. 
+(MPSMC)  Madhya Pradesh  
+21 Sial Ghoghri  Prism Cement Limited  Madhya Pradesh  
+22 Marki Mangli -I  B.S. Ispat Ltd.  Maharashtra  
+23 Baranj - I  Karnataka Power Corp. Ltd. (KPCL)  Maharashtra  
+24 Baranj - II  Karnataka Power Corp. Ltd. (KPCL)  Maharashtra  
+25 Baranj - III  Karnataka Power Corp. Ltd. (KPCL)  Maharashtra  
+26 Baranj - IV  Karnataka Power Corp. Ltd. (KPCL)  Maharashtra  
+27 Kiloni  Karnataka Power Corp. Ltd. (KPCL)  Maharashtra  
+  25 
+      1 2 3 4 
+28 Manora Deep  Karnataka Power Corp. Ltd. (KPCL)  Maharashtra  
+29 Marki Mangli -II  Shree Veerangana Steels Limited.  Maharashtra  
+30 Marki Mangli -III  Shree Veerangana Steels Limited.  Maharashtra  
+31 Belgaon  Sunflag Iron & Steel Co. Ltd  Maharashtra  
+32 Talabira -I  Hindalco Industries Ltd.  Odisha  
+33 Barjora (North)  Damodar Valley Corporation  West Bengal  
+34 Kagra Joydev  Damodar Valley Corporation  West Bengal  
+35 Sarisatolli  Calcutta Electricity Supply Corporation Ltd.  West Bengal  
+36 Ardhagram  Sova Ispat Limited, Jai Balaji Sponge Ltd.  West Bengal  
+37 Tara (West)  West Bengal Power Development Corporation Limited 
+(WBPDCL)  West Bengal  
+38 Gangaramchak  West Bengal Power Development Corporation Limited 
+(WBPDCL)  West Bengal  
+39 Barjora  West Bengal Power Development Corporation Limited 
+(WBPDCL)  West Bengal  
+40 Gangaramchak - Bhadulia  West Bengal Power Development Corporation Limited 
+(WBPDCL)  West Bengal  
+41 Tara (East)  West Bengal State Electricity Board  West Bengal  
+42 Trans Damodar  West Bengal Mineral Dev. & Trading Corp. Ltd.  West Bengal  
+ 
+ 
+ 
+  26 
+ SCHEDULE III  
+[See section 3( 1) (r)] 
+ 
+SI. 
+No. Name of Coal  
+          Mine/Block  Name of Prior Allottee  State where Coal 
+Mine/Block 
+Located  
+1 2 3 4 
+1 Durgapur -II/ Taraimar  Bharat Aluminium Company Ltd.  Chhattisgarh  
+2 Durgapur -II /Sarya  DB Power Ltd.  Chhattisgarh  
+3 Gare -Palma Sector -III  Goa Industrial Development Corporation  Chhattisgarh  
+4 Gare -Palma IV/8  Jayaswal Neco Ltd.  Chhattisgarh  
+5 Talaipali  National Thermal Power Ltd.  Chhattisgarh  
+6 Chatti Bariatu  National Thermal Power Ltd.  Jharkhand  
+7 Mahan  Essar Power Ltd., Hindalco Industries Ltd.  Madhya Pradesh  
+8 Mandla South  Madhya Pradesh State Mining Corporation Ltd.  Madhya Pradesh  
+9 Dongeri Tal -II  Madhya Pradesh State Mining Corporation Ltd. 
+(MPSMC)  Madhya Pradesh  
+10 Kosar Dongergaon  Chaman Metaliks Ltd.  Maharashtra  
+11 Nerad Malegaon  Gupta Metallics & Power Ltd., Gupta Coalfields & 
+Washeries Ltd.  Maharashtra  
+12 Marki Mangli -IV  Shree Veerangana Steel Limited.  Maharashtra  
+13 Jamkhani  Bhushan Ltd.  Odisha  
+14 Utkal B 1  Jindal Steel & Power Ltd.  Odisha  
+15 Utkal -B 2  Monet Ispat Ltd.  Odisha  
+16 Mandakini  Monet Ispat Energy Ltd., Jindal Photo Ltd., Tata 
+Power Company Ltd.  Odisha  
+17 Utkal -C  Utkal Coal Ltd. (formerly ICCL)  Odisha  
+18 Brinda  Abhijeet Infrastructure Pvt. Ltd.  Jharkhand  
+19 Sasai  Abhijeet Infrastructure Pvt. Ltd.  Jharkhand  
+20 Meral  Abhijeet Infrastructure Pvt. Ltd.  Jharkhand  
+21 Moitra  Jayaswal Neco Ltd  Jharkhand  
+22 Jitpur  Jindal Steel & Power Ltd.  Jharkhand  
+23 Rohne  JSW Steel Ltd., Bhushan Power & Steel Ltd., Jai Balaji 
+Industries Ltd.  Jharkhand  
+24 Dumri  Nilachal Iron & Power Ltd., Bajrang Ispat Pvt. Ltd.  Jharkhand  
+25 Kerandari  National Thermal Power Ltd.  Jharkhand  
+26 Sitanala  Steel Authority of India Ltd.  Jharkhand  
+27 Ganeshpur  Tata Steel Ltd., Adhunik Thermal Energy  Jharkhand  
+  27 
+ 1 2 3 4 
+ 28 Badam  Tenughat Vidyut Nigam Limited  Jharkhand  
+ 29 Tara  Chhattisgarh Mineral Development Corporation Ltd.  Chhattisgarh  
+30 Lohari  Usha Martin Ltd.  Jharkhand  
+31 Dulanga  National Thermal Power Corporation  Odisha  
+32 Manoharpur  Odisha Power Generation Corporation  Odisha  
+ 
+  28 
+ SCHEDULE IV  
+(See section 28)  
+PART A  
+THE COAL MINES (NATIONALISATION ) ACT, 1973  
+(26 OF 1973)  
+1. Amendment of section IA .—In the Coal Mines (Nationalisation) Act, 1973 (herein referred to as 
+the principal Act), in sub -section ( 1) of section 1A, after the word and figure ―section 3 ‖, the word, figure 
+and letter ―, section 3A ‖ shall be inserted.  
+2. Insertion of new  section 3A .—After section 3 of the principal Act, the following section shall be 
+inserted, namely :—  
+‘3A. Mining operation by company and others .—(1) Notwithstanding anything contained  in 
+this Act, any person being — 
+(a) a Government company or corporation  or a joint venture company formed by such 
+company or corporation or between the Central Government or the State Government, as the case 
+may be, or any other co mpany incorporated in India; or  
+(b) a company or a joint venture company formed by two or more c ompanies,  
+may carry on coal mining operations in India, in any form either for own consumption, sale or for 
+any other purpose in accordance with the prospecting licence or mi ning lease, as the case may be.  
+(2) The Central Government may, with a view to rationalise such coal mines so as to ensure the 
+coordinated and scientific development and utilisation of coal resources consistent with the growing 
+requirements of the country , from time to time, prescribe — 
+(i) the coal mines or coal be aring areas and the ir location;  
+(ii) the minimum size of the c oal mine or coal bearing areas;  
+(iii) such other conditions,  
+which in the opinion of that Government may be necessary for the purpose of coal mining operations 
+or mining for sale by a company.  
+Explanation. —For the purposes of this section, ―company ‖ means a company as defined in               
+clause (20) of section 2 of the Companies Act, 2013  (18 of 2013) .‘. 
+3. Amendment of section 34. —In section 34 of the principal Act, in sub -section ( 2), after clause (a), 
+the following cla use shall be inserted, namely: — 
+―(aa) the coal mines or coal bearing areas and their location, the minimum size of the coal mine 
+or coal bearing areas, and such other conditions which may be necessary for the purpose of coal 
+mining op erations including mining for sale by a company under sub -section (2) of section 3A. ‖. 
+PART B  
+THE MINES AND MINERALS  (DEVELOPMENT AND  REGULATION ) ACT, 1957  
+(67 OF 1957)  
+1. Substitution of new section for section 11A. —In the Mines and Minerals (Development and 
+Regulation) Act, 1957 (herein referred to as the principal Act), for section 11A, the following section  
+shall be substituted, namely: — 
+‘11A. Granting of reconnaissance permit, prospecting lincence or mining lease .—(1) 
+Notwithstanding anything contained in this Act, the Central Government may, for the purpose of 
+granting reconnaissance permit, prospecting licence or mining lease in respect of any area containing   29 
+ coal or lignite, select any of the following companies through auction by competitive bidding, on 
+such terms and conditions  as may be prescribed, namely: — 
+(a) a Government company or corporation or a joint venture company formed by such 
+company or corporation or between the Central Government or the State Government, as the 
+case may be, or any other co mpany incorporated in India; or  
+(b) a company or a joint venture company formed by two or more companies,  
+that carry on coal mining operations in India, in any form either for own consumption, sale or for any 
+other purpose in accordance with the permit, prospecting licence or mi ning lease, as the case may be.  
+(2) The Central Government may, with a view to rationalise coal and lignite mines referred to in                  
+sub-section ( 1), so as to ensure the coo rdinated and scientific development and utilisation of resources 
+consistent with the growing requirements of the country , from time to time, prescribe — 
+(i) the detai ls of mines and their location;  
+(ii) the minimum size of such mines;  
+(iii) such other condi tions,  
+which in the opinion of that Government may be necessary for the purpose of mining operations o r 
+mining for sale by a company.  
+(3) The State Government shall grant such reconnaissance permit, prospecting licence or mining lease 
+in respect of any ar ea containing coal or lignite to such company as selected through auction by 
+competitive bidding o r otherwise under this section:  
+Provided that the auction by competitive bidding under this section shall not be applicable to an a rea 
+containing coal or lign ite— 
+(a) where such area is considered for allocation to a Government company or corporation or a 
+joint venture company formed by such company or corporation or between the Central Government 
+or the State Government, as the case may be;  
+(b) where such area  is considered for allocation to a company or corporation or that has been 
+awarded a power project on the basis of competitive bids for tariff (including U ltra Mega Power 
+Projects).  
+Explanation .—For the purposes of this section, ―company ‖ means a company as defined in                  
+clause (20) of section 2 of the Companies Act, 2013 ( 18 of 2013 ).'. 
+2. Amendment of section 13. —In section 13 of the principal Act, in sub -section ( 2), for               
+clause (d), the following clause  shall be substituted, namely: — 
+―(d) the terms and conditions of auction by competitive bidding, the details of mines and their 
+location, the minimum size of such mines and such other conditions which may be necessary for 
+the purpose of coal mining operati ons including mining for sale by a company under                      
+sub-section ( 1) and sub -section ( 2) of section 11A. ‖.  
+————  
